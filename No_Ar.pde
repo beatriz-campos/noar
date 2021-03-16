@@ -1,4 +1,6 @@
 import org.joda.time.*;
+import processing.video.*;
+Movie abertura;
 
 Cronometro contador;
 Cronometro apareceVeiculo;
@@ -23,13 +25,15 @@ void setup() {
   v1 =  new Veiculo();
 
   output = createWriter("console.txt");
+  
+  abertura = new Movie(this, "Video Abertura.mp4");
+  abertura.play();
 }
 
 
 void draw() {
   translate(0, height);
   scale(1, -1);
-
   background(#4B68B8);
   noFill();
   strokeWeight(1);
@@ -72,6 +76,7 @@ void draw() {
   //  }
 
   //v1.mostrar();
+  image(abertura, 0, height);
 }
 
 void keyReleased() {
