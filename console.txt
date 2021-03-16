@@ -1,1197 +1,798 @@
 tracao aplicada
-sustentacao: 0.65178305            sustentacao x: -2.8490343E-8            sustentacao y: 0.65178305
+sustentacao: 0.6712526            sustentacao x: -2.9341383E-8            sustentacao y: 0.6712526
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.45178303            arrasto x: 0.45178303            arrasto y: 0.0
-tracao: 0.79305047            tracao x: -0.56077135            tracao y: -0.56077135
-posicao: 141.26723            posicao x: 99.891014            posicao y: 99.891014
-velocidade: 0.15413275            velocidade x: -0.108988345            velocidade y: -0.108988285
-aceleracao: 0.15413275            aceleracao x: -0.108988345            aceleracao y: -0.108988285
+arrasto: 0.4712526            arrasto x: 0.4712526            arrasto y: 0.0
+tracao: 0.82015795            tracao x: -0.57993925            tracao y: -0.57993925
+posicao: 141.26765            posicao x: 99.89131            posicao y: 99.89131
+velocidade: 0.15370615            velocidade x: -0.108686686            velocidade y: -0.108686626
+aceleracao: 0.15370615            aceleracao x: -0.108686686            aceleracao y: -0.108686626
 
 
 tracao aplicada
-sustentacao: 0.6536915            sustentacao x: -2.8573762E-8            sustentacao y: 0.6536915
+sustentacao: 0.67247            sustentacao x: -2.9394597E-8            sustentacao y: 0.67247
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.45369148            arrasto x: 0.45369148            arrasto y: 0.0
-tracao: 0.7957063            tracao x: -0.5626493            tracao y: -0.5626493
-posicao: 140.959            posicao x: 99.673065            posicao y: 99.673065
-velocidade: 0.3082224            velocidade x: -0.2179462            velocidade y: -0.21794611
-aceleracao: 0.15408966            aceleracao x: -0.10895786            aceleracao y: -0.10895783
+arrasto: 0.47246996            arrasto x: 0.47246996            arrasto y: 0.0
+tracao: 0.82185376            tracao x: -0.5811384            tracao y: -0.5811384
+posicao: 140.96027            posicao x: 99.67396            posicao y: 99.67396
+velocidade: 0.3073865            velocidade x: -0.21735513            velocidade y: -0.21735501
+aceleracao: 0.15368035            aceleracao x: -0.10866845            aceleracao y: -0.10866839
 
 
 tracao aplicada
-sustentacao: 0.6568332            sustentacao x: -2.871109E-8            sustentacao y: 0.6568332
+sustentacao: 0.67447174            sustentacao x: -2.9482097E-8            sustentacao y: 0.67447174
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.45683318            arrasto x: 0.45683318            arrasto y: 0.0
-tracao: 0.8000789            tracao x: -0.56574124            tracao y: -0.56574124
-posicao: 140.49677            posicao x: 99.346214            posicao y: 99.346214
-velocidade: 0.46224168            velocidade x: -0.3268543            velocidade y: -0.32685417
-aceleracao: 0.15401928            aceleracao x: -0.10890809            aceleracao y: -0.10890806
+arrasto: 0.47447172            arrasto x: 0.47447172            arrasto y: 0.0
+tracao: 0.82464266            tracao x: -0.5831104            tracao y: -0.5831104
+posicao: 140.49924            posicao x: 99.34796            posicao y: 99.34796
+velocidade: 0.4610248            velocidade x: -0.32599384            velocidade y: -0.32599366
+aceleracao: 0.15363829            aceleracao x: -0.108638704            aceleracao y: -0.108638644
 
 
 tracao aplicada
-sustentacao: 0.6610962            sustentacao x: -2.8897436E-8            sustentacao y: 0.6610962
+sustentacao: 0.6771838            sustentacao x: -2.9600644E-8            sustentacao y: 0.6771838
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.4610962            arrasto x: 0.4610962            arrasto y: 0.0
-tracao: 0.8060135            tracao x: -0.56993765            tracao y: -0.56993765
-posicao: 139.8806            posicao x: 98.910515            posicao y: 98.91052
-velocidade: 0.6161667            velocidade x: -0.43569577            velocidade y: -0.4356956
-aceleracao: 0.15392506            aceleracao x: -0.10884148            aceleracao y: -0.10884142
+arrasto: 0.47718382            arrasto x: 0.47718382            arrasto y: 0.0
+tracao: 0.82842153            tracao x: -0.58578247            tracao y: -0.58578247
+posicao: 139.88463            posicao x: 98.91337            posicao y: 98.91337
+velocidade: 0.6146065            velocidade x: -0.43459252            velocidade y: -0.4345923
+aceleracao: 0.1535817            aceleracao x: -0.10859868            aceleracao y: -0.10859865
 
 
 tracao aplicada
-sustentacao: 0.6661246            sustentacao x: -2.911723E-8            sustentacao y: 0.6661246
+sustentacao: 0.68037665            sustentacao x: -2.9740209E-8            sustentacao y: 0.68037665
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.4661246            arrasto x: 0.4661246            arrasto y: 0.0
-tracao: 0.81301534            tracao x: -0.57488865            tracao y: -0.5748887
-posicao: 139.11063            posicao x: 98.36606            posicao y: 98.366066
-velocidade: 0.7699824            velocidade x: -0.5444598            velocidade y: -0.5444597
-aceleracao: 0.15381567            aceleracao x: -0.10876408            aceleracao y: -0.10876411
+arrasto: 0.48037663            arrasto x: 0.48037663            arrasto y: 0.0
+tracao: 0.832871            tracao x: -0.58892876            tracao y: -0.58892876
+posicao: 139.1165            posicao x: 98.370224            posicao y: 98.370224
+velocidade: 0.7681224            velocidade x: -0.5431447            velocidade y: -0.5431444
+aceleracao: 0.15351589            aceleracao x: -0.10855216            aceleracao y: -0.1085521
 
 
 tracao aplicada
-sustentacao: 0.6724188            sustentacao x: -2.9392359E-8            sustentacao y: 0.6724188
+sustentacao: 0.6843639            sustentacao x: -2.9914496E-8            sustentacao y: 0.6843639
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.47241876            arrasto x: 0.47241876            arrasto y: 0.0
-tracao: 0.8217824            tracao x: -0.5810879            tracao y: -0.58108795
-posicao: 138.18695            posicao x: 97.71293            posicao y: 97.71294
-velocidade: 0.9236638            velocidade x: -0.653129            velocidade y: -0.65312886
-aceleracao: 0.1536814            aceleracao x: -0.10866916            aceleracao y: -0.10866916
+arrasto: 0.48436388            arrasto x: 0.48436388            arrasto y: 0.0
+tracao: 0.83842856            tracao x: -0.5928585            tracao y: -0.5928585
+posicao: 138.19495            posicao x: 97.71858            posicao y: 97.71858
+velocidade: 0.92155695            velocidade x: -0.65163934            velocidade y: -0.651639
+aceleracao: 0.15343454            aceleracao x: -0.10849464            aceleracao y: -0.10849458
 
 
 tracao aplicada
-sustentacao: 0.6790876            sustentacao x: -2.968386E-8            sustentacao y: 0.6790876
+sustentacao: 0.68857735            sustentacao x: -3.0098672E-8            sustentacao y: 0.68857735
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.4790876            arrasto x: 0.4790876            arrasto y: 0.0
-tracao: 0.83107454            tracao x: -0.5876584            tracao y: -0.58765846
-posicao: 137.10974            posicao x: 96.951225            posicao y: 96.95123
-velocidade: 1.0772061            velocidade x: -0.7616998            velocidade y: -0.76169974
-aceleracao: 0.15354237            aceleracao x: -0.108570844            aceleracao y: -0.108570874
+arrasto: 0.48857737            arrasto x: 0.48857737            arrasto y: 0.0
+tracao: 0.84430236            tracao x: -0.5970119            tracao y: -0.5970119
+posicao: 137.12004            posicao x: 96.95851            posicao y: 96.95851
+velocidade: 1.0749066            velocidade x: -0.7600739            velocidade y: -0.76007354
+aceleracao: 0.15334965            aceleracao x: -0.10843459            aceleracao y: -0.10843456
 
 
 tracao aplicada
-sustentacao: 0.68612903            sustentacao x: -2.9991654E-8            sustentacao y: 0.68612903
+sustentacao: 0.6930141            sustentacao x: -3.0292608E-8            sustentacao y: 0.6930141
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.48612902            arrasto x: 0.48612902            arrasto y: 0.0
-tracao: 0.8408891            tracao x: -0.59459835            tracao y: -0.5945984
-posicao: 135.87914            posicao x: 96.081055            posicao y: 96.08106
-velocidade: 1.230605            velocidade x: -0.87016916            velocidade y: -0.8701691
-aceleracao: 0.15339886            aceleracao x: -0.10846937            aceleracao y: -0.10846937
+arrasto: 0.49301407            arrasto x: 0.49301407            arrasto y: 0.0
+tracao: 0.8504889            tracao x: -0.6013865            tracao y: -0.6013865
+posicao: 135.89188            posicao x: 96.090065            posicao y: 96.090065
+velocidade: 1.2281682            velocidade x: -0.86844635            velocidade y: -0.86844593
+aceleracao: 0.15326175            aceleracao x: -0.10837245            aceleracao y: -0.10837239
 
 
 tracao aplicada
-sustentacao: 0.69337434            sustentacao x: -3.0308353E-8            sustentacao y: 0.69337434
+sustentacao: 0.6975666            sustentacao x: -3.0491606E-8            sustentacao y: 0.6975666
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.49337432            arrasto x: 0.49337432            arrasto y: 0.0
-tracao: 0.85099137            tracao x: -0.60174173            tracao y: -0.6017418
-posicao: 134.49527            posicao x: 95.102516            posicao y: 95.10252
-velocidade: 1.3838598            velocidade x: -0.9785366            velocidade y: -0.97853655
-aceleracao: 0.1532547            aceleracao x: -0.10836744            aceleracao y: -0.10836744
+arrasto: 0.4975666            arrasto x: 0.4975666            arrasto y: 0.0
+tracao: 0.85683817            tracao x: -0.6058761            tracao y: -0.6058761
+posicao: 134.51053            posicao x: 95.11331            posicao y: 95.11331
+velocidade: 1.3813411            velocidade x: -0.97675586            velocidade y: -0.9767554
+aceleracao: 0.15317273            aceleracao x: -0.10830951            aceleracao y: -0.10830945
 
 
 tracao aplicada
-sustentacao: 0.7002954            sustentacao x: -3.0610884E-8            sustentacao y: 0.7002954
+sustentacao: 0.7019037            sustentacao x: -3.0681186E-8            sustentacao y: 0.7019037
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5002954            arrasto x: 0.5002954            arrasto y: 0.0
-tracao: 0.8606446            tracao x: -0.6085676            tracao y: -0.60856766
-posicao: 132.9583            posicao x: 94.01571            posicao y: 94.01572
-velocidade: 1.5369798            velocidade x: -1.0868089            velocidade y: -1.0868088
-aceleracao: 0.15312009            aceleracao x: -0.108272254            aceleracao y: -0.108272254
+arrasto: 0.5019037            arrasto x: 0.5019037            arrasto y: 0.0
+tracao: 0.8628883            tracao x: -0.61015415            tracao y: -0.61015415
+posicao: 132.9761            posicao x: 94.028305            posicao y: 94.028305
+velocidade: 1.5344304            velocidade x: -1.0850064            velocidade y: -1.0850058
+aceleracao: 0.15308928            aceleracao x: -0.1082505            aceleracao y: -0.10825044
 
 
 tracao aplicada
-sustentacao: 0.70779335            sustentacao x: -3.093863E-8            sustentacao y: 0.70779335
+sustentacao: 0.7065894            sustentacao x: -3.0886003E-8            sustentacao y: 0.7065894
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.50779337            arrasto x: 0.50779337            arrasto y: 0.0
-tracao: 0.8711059            tracao x: -0.6159649            tracao y: -0.61596495
-posicao: 131.26834            posicao x: 92.82073            posicao y: 92.82074
-velocidade: 1.6899576            velocidade x: -1.1949805            velocidade y: -1.1949804
-aceleracao: 0.15297772            aceleracao x: -0.10817158            aceleracao y: -0.10817158
+arrasto: 0.5065894            arrasto x: 0.5065894            arrasto y: 0.0
+tracao: 0.86942583            tracao x: -0.6147769            tracao y: -0.6147769
+posicao: 131.28868            posicao x: 92.83511            posicao y: 92.83511
+velocidade: 1.6874305            velocidade x: -1.1931939            velocidade y: -1.1931932
+aceleracao: 0.15300027            aceleracao x: -0.108187556            aceleracao y: -0.1081875
 
 
 tracao aplicada
-sustentacao: 0.7145157            sustentacao x: -3.123247E-8            sustentacao y: 0.7145157
+sustentacao: 0.71077955            sustentacao x: -3.106916E-8            sustentacao y: 0.71077955
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5145157            arrasto x: 0.5145157            arrasto y: 0.0
-tracao: 0.8804879            tracao x: -0.62259895            tracao y: -0.622599
-posicao: 129.42554            posicao x: 91.51767            posicao y: 91.51768
-velocidade: 1.8428104            velocidade x: -1.3030639            velocidade y: -1.3030636
-aceleracao: 0.15285288            aceleracao x: -0.10808331            aceleracao y: -0.10808331
+arrasto: 0.51077956            arrasto x: 0.51077956            arrasto y: 0.0
+tracao: 0.8752732            tracao x: -0.6189116            tracao y: -0.6189116
+posicao: 129.44833            posicao x: 91.53379            posicao y: 91.53379
+velocidade: 1.8403524            velocidade x: -1.301326            velocidade y: -1.3013253
+aceleracao: 0.15292187            aceleracao x: -0.108132124            aceleracao y: -0.108132064
 
 
 tracao aplicada
-sustentacao: 0.7206696            sustentacao x: -3.150147E-8            sustentacao y: 0.7206696
+sustentacao: 0.7146361            sustentacao x: -3.1237736E-8            sustentacao y: 0.7146361
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.52066964            arrasto x: 0.52066964            arrasto y: 0.0
-tracao: 0.88907903            tracao x: -0.6286738            tracao y: -0.62867385
-posicao: 127.429985            posicao x: 90.1066            posicao y: 90.10661
-velocidade: 1.9955515            velocidade x: -1.4110681            velocidade y: -1.4110678
-aceleracao: 0.15274103            aceleracao x: -0.10800421            aceleracao y: -0.10800421
+arrasto: 0.5146361            arrasto x: 0.5146361            arrasto y: 0.0
+tracao: 0.88065594            tracao x: -0.6227178            tracao y: -0.6227178
+posicao: 127.455124            posicao x: 90.12438            posicao y: 90.12438
+velocidade: 1.9932032            velocidade x: -1.4094079            velocidade y: -1.409407
+aceleracao: 0.15285064            aceleracao x: -0.10808176            aceleracao y: -0.1080817
 
 
 tracao aplicada
-sustentacao: 0.7264211            sustentacao x: -3.1752876E-8            sustentacao y: 0.7264211
+sustentacao: 0.7184543            sustentacao x: -3.1404635E-8            sustentacao y: 0.7184543
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5264211            arrasto x: 0.5264211            arrasto y: 0.0
-tracao: 0.8971103            tracao x: -0.6343527            tracao y: -0.6343528
-posicao: 125.2818            posicao x: 88.5876            posicao y: 88.587616
-velocidade: 2.14819            velocidade x: -1.5189997            velocidade y: -1.5189996
-aceleracao: 0.15263839            aceleracao x: -0.107931614            aceleracao y: -0.10793167
+arrasto: 0.5184543            arrasto x: 0.5184543            arrasto y: 0.0
+tracao: 0.8859861            tracao x: -0.6264868            tracao y: -0.6264868
+posicao: 125.309135            posicao x: 88.60694            posicao y: 88.60694
+velocidade: 2.145984            velocidade x: -1.5174403            velocidade y: -1.5174395
+aceleracao: 0.15278102            aceleracao x: -0.108032525            aceleracao y: -0.108032465
 
 
 tracao aplicada
-sustentacao: 0.7313419            sustentacao x: -3.196797E-8            sustentacao y: 0.7313419
+sustentacao: 0.7219709            sustentacao x: -3.155835E-8            sustentacao y: 0.7219709
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5313419            arrasto x: 0.5313419            arrasto y: 0.0
-tracao: 0.90398294            tracao x: -0.6392124            tracao y: -0.6392125
-posicao: 122.98106            posicao x: 86.96073            posicao y: 86.96075
-velocidade: 2.300742            velocidade x: -1.6268703            velocidade y: -1.6268702
-aceleracao: 0.15255204            aceleracao x: -0.10787058            aceleracao y: -0.10787058
+arrasto: 0.5219709            arrasto x: 0.5219709            arrasto y: 0.0
+tracao: 0.89089596            tracao x: -0.62995857            tracao y: -0.62995857
+posicao: 123.01044            posicao x: 86.981514            posicao y: 86.981514
+velocidade: 2.2987018            velocidade x: -1.625428            velocidade y: -1.6254271
+aceleracao: 0.15271764            aceleracao x: -0.1079877            aceleracao y: -0.10798764
 
 
 tracao aplicada
-sustentacao: 0.7366461            sustentacao x: -3.2199825E-8            sustentacao y: 0.7366461
+sustentacao: 0.72594464            sustentacao x: -3.1732046E-8            sustentacao y: 0.72594464
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5366461            arrasto x: 0.5366461            arrasto y: 0.0
-tracao: 0.9113926            tracao x: -0.64445186            tracao y: -0.644452
-posicao: 120.52786            posicao x: 85.22606            posicao y: 85.226074
-velocidade: 2.4532022            velocidade x: -1.7346761            velocidade y: -1.734676
-aceleracao: 0.15246046            aceleracao x: -0.10780579            aceleracao y: -0.10780585
+arrasto: 0.52594465            arrasto x: 0.52594465            arrasto y: 0.0
+tracao: 0.89644474            tracao x: -0.63388216            tracao y: -0.63388216
+posicao: 120.55908            posicao x: 85.248146            posicao y: 85.248146
+velocidade: 2.4513483            velocidade x: -1.7333655            velocidade y: -1.7333646
+aceleracao: 0.15264674            aceleracao x: -0.107937574            aceleracao y: -0.107937515
 
 
 tracao aplicada
-sustentacao: 0.74099046            sustentacao x: -3.238972E-8            sustentacao y: 0.74099046
+sustentacao: 0.72949            sustentacao x: -3.188702E-8            sustentacao y: 0.72949
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5409905            arrasto x: 0.5409905            arrasto y: 0.0
-tracao: 0.9174625            tracao x: -0.6487439            tracao y: -0.64874405
-posicao: 117.92227            posicao x: 83.38363            posicao y: 83.383644
-velocidade: 2.605589            velocidade x: -1.8424296            velocidade y: -1.8424296
-aceleracao: 0.15238653            aceleracao x: -0.107753515            aceleracao y: -0.107753575
+arrasto: 0.52949            arrasto x: 0.52949            arrasto y: 0.0
+tracao: 0.9013963            tracao x: -0.6373834            tracao y: -0.6373834
+posicao: 117.955154            posicao x: 83.40689            posicao y: 83.40689
+velocidade: 2.6039329            velocidade x: -1.841259            velocidade y: -1.841258
+aceleracao: 0.15258436            aceleracao x: -0.10789347            aceleracao y: -0.10789341
 
 
 tracao aplicada
-sustentacao: 0.7447313            sustentacao x: -3.255324E-8            sustentacao y: 0.7447313
+sustentacao: 0.73277515            sustentacao x: -3.203062E-8            sustentacao y: 0.73277515
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5447313            arrasto x: 0.5447313            arrasto y: 0.0
-tracao: 0.92269003            tracao x: -0.6524403            tracao y: -0.6524404
-posicao: 115.16435            posicao x: 81.43349            posicao y: 81.4335
-velocidade: 2.7579126            velocidade x: -1.9501387            velocidade y: -1.9501388
-aceleracao: 0.15232365            aceleracao x: -0.10770905            aceleracao y: -0.10770911
+arrasto: 0.53277516            arrasto x: 0.53277516            arrasto y: 0.0
+tracao: 0.90598494            tracao x: -0.6406281            tracao y: -0.6406281
+posicao: 115.19869            posicao x: 81.45778            posicao y: 81.45778
+velocidade: 2.75646            velocidade x: -1.9491119            velocidade y: -1.949111
+aceleracao: 0.15252712            aceleracao x: -0.107852995            aceleracao y: -0.107852936
 
 
 tracao aplicada
-sustentacao: 0.7485383            sustentacao x: -3.2719647E-8            sustentacao y: 0.7485383
+sustentacao: 0.73615295            sustentacao x: -3.2178267E-8            sustentacao y: 0.73615295
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5485383            arrasto x: 0.5485383            arrasto y: 0.0
-tracao: 0.92801064            tracao x: -0.65620255            tracao y: -0.6562027
-posicao: 112.25418            posicao x: 79.37569            posicao y: 79.3757
-velocidade: 2.910173            velocidade x: -2.057803            velocidade y: -2.0578032
-aceleracao: 0.15226033            aceleracao x: -0.10766429            aceleracao y: -0.10766435
+arrasto: 0.53615296            arrasto x: 0.53615296            arrasto y: 0.0
+tracao: 0.9107037            tracao x: -0.64396477            tracao y: -0.64396477
+posicao: 112.28977            posicao x: 79.400856            posicao y: 79.400856
+velocidade: 2.9089289            velocidade x: -2.0569239            velocidade y: -2.056923
+aceleracao: 0.15246896            aceleracao x: -0.10781187            aceleracao y: -0.10781181
 
 
 tracao aplicada
-sustentacao: 0.75284445            sustentacao x: -3.2907877E-8            sustentacao y: 0.75284445
+sustentacao: 0.73982537            sustentacao x: -3.2338793E-8            sustentacao y: 0.73982537
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.55284446            arrasto x: 0.55284446            arrasto y: 0.0
-tracao: 0.9340298            tracao x: -0.66045874            tracao y: -0.6604589
-posicao: 109.19182            posicao x: 77.210266            posicao y: 77.21028
-velocidade: 3.0623627            velocidade x: -2.1654172            velocidade y: -2.1654177
-aceleracao: 0.15218975            aceleracao x: -0.10761434            aceleracao y: -0.10761446
+arrasto: 0.5398254            arrasto x: 0.5398254            arrasto y: 0.0
+tracao: 0.9158346            tracao x: -0.64759284            tracao y: -0.64759284
+posicao: 109.22844            posicao x: 77.23617            posicao y: 77.23617
+velocidade: 3.0613353            velocidade x: -2.1646914            velocidade y: -2.1646905
+aceleracao: 0.15240625            aceleracao x: -0.10776752            aceleracao y: -0.10776746
 
 
 tracao aplicada
-sustentacao: 0.7562683            sustentacao x: -3.305754E-8            sustentacao y: 0.7562683
+sustentacao: 0.7428445            sustentacao x: -3.2470766E-8            sustentacao y: 0.7428445
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.55626833            arrasto x: 0.55626833            arrasto y: 0.0
-tracao: 0.93881637            tracao x: -0.66384333            tracao y: -0.66384345
-posicao: 105.97732            posicao x: 74.93727            posicao y: 74.93729
-velocidade: 3.2144969            velocidade x: -2.2729921            velocidade y: -2.2729928
-aceleracao: 0.15213415            aceleracao x: -0.10757506            aceleracao y: -0.10757512
+arrasto: 0.54284453            arrasto x: 0.54284453            arrasto y: 0.0
+tracao: 0.9200533            tracao x: -0.65057594            tracao y: -0.65057594
+posicao: 106.01475            posicao x: 74.963745            posicao y: 74.963745
+velocidade: 3.2136905            velocidade x: -2.2724228            velocidade y: -2.2724218
+aceleracao: 0.15235525            aceleracao x: -0.10773146            aceleracao y: -0.1077314
 
 
 tracao aplicada
-sustentacao: 0.76033646            sustentacao x: -3.3235363E-8            sustentacao y: 0.76033646
+sustentacao: 0.7461582            sustentacao x: -3.261561E-8            sustentacao y: 0.7461582
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5603365            arrasto x: 0.5603365            arrasto y: 0.0
-tracao: 0.9445043            tracao x: -0.66786534            tracao y: -0.66786546
-posicao: 102.61074            posicao x: 72.55675            posicao y: 72.55676
-velocidade: 3.3665657            velocidade x: -2.380521            velocidade y: -2.3805218
-aceleracao: 0.1520689            aceleracao x: -0.107528925            aceleracao y: -0.107528985
+arrasto: 0.5461582            arrasto x: 0.5461582            arrasto y: 0.0
+tracao: 0.92468405            tracao x: -0.6538504            tracao y: -0.6538504
+posicao: 102.64876            posicao x: 72.58363            posicao y: 72.58363
+velocidade: 3.3659904            velocidade x: -2.380115            velocidade y: -2.380114
+aceleracao: 0.15229979            aceleracao x: -0.10769224            aceleracao y: -0.10769218
 
 
 tracao aplicada
-sustentacao: 0.7642449            sustentacao x: -3.3406206E-8            sustentacao y: 0.7642449
+sustentacao: 0.74918365            sustentacao x: -3.2747856E-8            sustentacao y: 0.74918365
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5642449            arrasto x: 0.5642449            arrasto y: 0.0
-tracao: 0.9499698            tracao x: -0.67173004            tracao y: -0.67173016
-posicao: 99.09217            posicao x: 70.06874            posicao y: 70.068756
-velocidade: 3.5185728            velocidade x: -2.488006            velocidade y: -2.488007
-aceleracao: 0.15200704            aceleracao x: -0.107485175            aceleracao y: -0.107485235
+arrasto: 0.54918367            arrasto x: 0.54918367            arrasto y: 0.0
+tracao: 0.92891264            tracao x: -0.65684044            tracao y: -0.65684044
+posicao: 99.13052            posicao x: 70.09586            posicao y: 70.09586
+velocidade: 3.5182402            velocidade x: -2.487772            velocidade y: -2.4877708
+aceleracao: 0.15224972            aceleracao x: -0.10765684            aceleracao y: -0.10765678
 
 
 tracao aplicada
-sustentacao: 0.76907384            sustentacao x: -3.3617287E-8            sustentacao y: 0.76907384
+sustentacao: 0.7525452            sustentacao x: -3.2894796E-8            sustentacao y: 0.7525452
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.56907386            arrasto x: 0.56907386            arrasto y: 0.0
-tracao: 0.9567234            tracao x: -0.6765055            tracao y: -0.6765057
-posicao: 95.42168            posicao x: 67.473305            posicao y: 67.47332
-velocidade: 3.670504            velocidade x: -2.5954378            velocidade y: -2.595439
-aceleracao: 0.15193146            aceleracao x: -0.10743171            aceleracao y: -0.10743183
+arrasto: 0.5525452            arrasto x: 0.5525452            arrasto y: 0.0
+tracao: 0.93361145            tracao x: -0.660163            tracao y: -0.660163
+posicao: 95.46008            posicao x: 67.50047            posicao y: 67.50047
+velocidade: 3.6704345            velocidade x: -2.5953898            velocidade y: -2.5953887
+aceleracao: 0.15219459            aceleracao x: -0.107617855            aceleracao y: -0.107617795
 
 
 tracao aplicada
-sustentacao: 0.77485025            sustentacao x: -3.386978E-8            sustentacao y: 0.77485025
+sustentacao: 0.75623065            sustentacao x: -3.305589E-8            sustentacao y: 0.75623065
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.57485026            arrasto x: 0.57485026            arrasto y: 0.0
-tracao: 0.9648034            tracao x: -0.68221897            tracao y: -0.6822191
-posicao: 91.599335            posicao x: 64.7705            posicao y: 64.770515
-velocidade: 3.8223467            velocidade x: -2.7028065            velocidade y: -2.702808
-aceleracao: 0.15184242            aceleracao x: -0.10736877            aceleracao y: -0.10736883
+arrasto: 0.55623066            arrasto x: 0.55623066            arrasto y: 0.0
+tracao: 0.93876374            tracao x: -0.6638062            tracao y: -0.6638062
+posicao: 91.63752            posicao x: 64.79751            posicao y: 64.79751
+velocidade: 3.8225696            velocidade x: -2.7029655            velocidade y: -2.7029643
+aceleracao: 0.15213482            aceleracao x: -0.107575595            aceleracao y: -0.107575536
 
 
 tracao aplicada
-sustentacao: 0.7796976            sustentacao x: -3.4081665E-8            sustentacao y: 0.7796976
+sustentacao: 0.7592415            sustentacao x: -3.31875E-8            sustentacao y: 0.7592415
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5796976            arrasto x: 0.5796976            arrasto y: 0.0
-tracao: 0.97158504            tracao x: -0.6870143            tracao y: -0.68701446
-posicao: 87.62521            posicao x: 61.960377            posicao y: 61.960392
-velocidade: 3.9741156            velocidade x: -2.8101232            velocidade y: -2.8101249
-aceleracao: 0.15176886            aceleracao x: -0.10731673            aceleracao y: -0.10731685
+arrasto: 0.55924153            arrasto x: 0.55924153            arrasto y: 0.0
+tracao: 0.94297326            tracao x: -0.6667828            tracao y: -0.6667828
+posicao: 87.66286            posicao x: 61.987            posicao y: 61.987003
+velocidade: 3.974656            velocidade x: -2.8105068            velocidade y: -2.8105056
+aceleracao: 0.15208636            aceleracao x: -0.10754132            aceleracao y: -0.10754126
 
 
 tracao aplicada
-sustentacao: 0.7849991            sustentacao x: -3.43134E-8            sustentacao y: 0.7849991
+sustentacao: 0.7625915            sustentacao x: -3.3333933E-8            sustentacao y: 0.7625915
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5849991            arrasto x: 0.5849991            arrasto y: 0.0
-tracao: 0.9790033            tracao x: -0.6922598            tracao y: -0.69225997
-posicao: 83.49941            posicao x: 59.04299            posicao y: 59.043007
-velocidade: 4.1258054            velocidade x: -2.917384            velocidade y: -2.9173858
-aceleracao: 0.15168971            aceleracao x: -0.10726076            aceleracao y: -0.10726088
+arrasto: 0.5625915            arrasto x: 0.5625915            arrasto y: 0.0
+tracao: 0.94765764            tracao x: -0.6700951            tracao y: -0.67009515
+posicao: 83.53617            posicao x: 59.06899            posicao y: 59.068993
+velocidade: 4.1266894            velocidade x: -2.9180105            velocidade y: -2.9180093
+aceleracao: 0.15203312            aceleracao x: -0.10750365            aceleracao y: -0.10750365
 
 
 tracao aplicada
-sustentacao: 0.7893521            sustentacao x: -3.4503678E-8            sustentacao y: 0.7893521
+sustentacao: 0.7654508            sustentacao x: -3.3458917E-8            sustentacao y: 0.7654508
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.58935213            arrasto x: 0.58935213            arrasto y: 0.0
-tracao: 0.9850952            tracao x: -0.6965674            tracao y: -0.6965676
-posicao: 79.22198            posicao x: 56.01839            posicao y: 56.018406
-velocidade: 4.2774305            velocidade x: -3.0245993            velocidade y: -3.0246012
-aceleracao: 0.15162548            aceleracao x: -0.107215345            aceleracao y: -0.107215464
+arrasto: 0.5654508            arrasto x: 0.5654508            arrasto y: 0.0
+tracao: 0.9516561            tracao x: -0.67292243            tracao y: -0.6729225
+posicao: 79.25749            posicao x: 56.043507            posicao y: 56.04351
+velocidade: 4.278677            velocidade x: -3.0254822            velocidade y: -3.025481
+aceleracao: 0.15198794            aceleracao x: -0.107471704            aceleracao y: -0.107471704
 
 
 tracao aplicada
-sustentacao: 0.79421884            sustentacao x: -3.4716408E-8            sustentacao y: 0.79421884
+sustentacao: 0.76867545            sustentacao x: -3.359987E-8            sustentacao y: 0.76867545
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.59421885            arrasto x: 0.59421885            arrasto y: 0.0
-tracao: 0.99190706            tracao x: -0.7013841            tracao y: -0.7013843
-posicao: 74.793            posicao x: 52.886627            posicao y: 52.88664
-velocidade: 4.4289856            velocidade x: -3.1317647            velocidade y: -3.1317668
-aceleracao: 0.15155475            aceleracao x: -0.10716534            aceleracao y: -0.107165456
+arrasto: 0.56867546            arrasto x: 0.56867546            arrasto y: 0.0
+tracao: 0.956166            tracao x: -0.67611146            tracao y: -0.6761115
+posicao: 74.82687            posicao x: 52.910587            posicao y: 52.910595
+velocidade: 4.4306145            velocidade x: -3.1329184            velocidade y: -3.132917
+aceleracao: 0.15193753            aceleracao x: -0.10743606            aceleracao y: -0.10743606
 
 
 tracao aplicada
-sustentacao: 0.7981268            sustentacao x: -3.4887233E-8            sustentacao y: 0.7981268
+sustentacao: 0.7713973            sustentacao x: -3.3718848E-8            sustentacao y: 0.7713973
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.5981268            arrasto x: 0.5981268            arrasto y: 0.0
-tracao: 0.99737746            tracao x: -0.7052523            tracao y: -0.70525247
-posicao: 70.21251            posicao x: 49.647736            posicao y: 49.647747
-velocidade: 4.580484            velocidade x: -3.2388902            velocidade y: -3.2388926
-aceleracao: 0.15149845            aceleracao x: -0.10712552            aceleracao y: -0.10712564
+arrasto: 0.5713973            arrasto x: 0.5713973            arrasto y: 0.0
+tracao: 0.9599732            tracao x: -0.67880356            tracao y: -0.6788036
+posicao: 70.24436            posicao x: 49.67026            posicao y: 49.670273
+velocidade: 4.58251            velocidade x: -3.2403247            velocidade y: -3.2403233
+aceleracao: 0.15189548            aceleracao x: -0.10740632            aceleracao y: -0.10740632
 
 
 tracao aplicada
-sustentacao: 0.80278486            sustentacao x: -3.5090842E-8            sustentacao y: 0.80278486
+sustentacao: 0.7747014            sustentacao x: -3.3863273E-8            sustentacao y: 0.7747014
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6027849            arrasto x: 0.6027849            arrasto y: 0.0
-tracao: 1.003899            tracao x: -0.7098637            tracao y: -0.7098639
-posicao: 65.48059            posicao x: 46.301765            posicao y: 46.301777
-velocidade: 4.731917            velocidade x: -3.3459692            velocidade y: -3.3459716
-aceleracao: 0.15143253            aceleracao x: -0.10707891            aceleracao y: -0.10707903
+arrasto: 0.5747014            arrasto x: 0.5747014            arrasto y: 0.0
+tracao: 0.96459526            tracao x: -0.68207175            tracao y: -0.6820719
+posicao: 65.51001            posicao x: 46.322567            posicao y: 46.32258
+velocidade: 4.734355            velocidade x: -3.347695            velocidade y: -3.347694
+aceleracao: 0.15184473            aceleracao x: -0.10737038            aceleracao y: -0.107370496
 
 
 tracao aplicada
-sustentacao: 0.8068918            sustentacao x: -3.527036E-8            sustentacao y: 0.8068918
+sustentacao: 0.77771324            sustentacao x: -3.3994926E-8            sustentacao y: 0.77771324
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6068918            arrasto x: 0.6068918            arrasto y: 0.0
-tracao: 1.0096494            tracao x: -0.7139299            tracao y: -0.7139301
-posicao: 60.597298            posicao x: 42.84876            posicao y: 42.848766
-velocidade: 4.8832912            velocidade x: -3.4530072            velocidade y: -3.4530098
-aceleracao: 0.15137488            aceleracao x: -0.10703814            aceleracao y: -0.10703826
+arrasto: 0.57771325            arrasto x: 0.57771325            arrasto y: 0.0
+tracao: 0.9688088            tracao x: -0.6850512            tracao y: -0.6850514
+posicao: 60.623856            posicao x: 42.867535            posicao y: 42.867546
+velocidade: 4.8861537            velocidade x: -3.455033            velocidade y: -3.455032
+aceleracao: 0.15179895            aceleracao x: -0.10733801            aceleracao y: -0.10733813
 
 
 tracao aplicada
-sustentacao: 0.8097724            sustentacao x: -3.5396276E-8            sustentacao y: 0.8097724
+sustentacao: 0.7801319            sustentacao x: -3.4100648E-8            sustentacao y: 0.7801319
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6097724            arrasto x: 0.6097724            arrasto y: 0.0
-tracao: 1.0136833            tracao x: -0.7167823            tracao y: -0.7167824
-posicao: 55.562675            posicao x: 39.288742            posicao y: 39.288746
-velocidade: 5.0346265            velocidade x: -3.560017            velocidade y: -3.56002
-aceleracao: 0.15133496            aceleracao x: -0.10700995            aceleracao y: -0.10701001
+arrasto: 0.5801319            arrasto x: 0.5801319            arrasto y: 0.0
+tracao: 0.9721928            tracao x: -0.68744403            tracao y: -0.6874442
+posicao: 55.58594            posicao x: 39.30519            posicao y: 39.305202
+velocidade: 5.0379167            velocidade x: -3.5623453            velocidade y: -3.5623446
+aceleracao: 0.15176246            aceleracao x: -0.1073122            aceleracao y: -0.10731232
 
 
 tracao aplicada
-sustentacao: 0.81331915            sustentacao x: -3.555131E-8            sustentacao y: 0.81331915
+sustentacao: 0.7829945            sustentacao x: -3.4225778E-8            sustentacao y: 0.7829945
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.61331916            arrasto x: 0.61331916            arrasto y: 0.0
-tracao: 1.0186503            tracao x: -0.7202945            tracao y: -0.7202946
-posicao: 50.376762            posicao x: 35.62175            posicao y: 35.62175
-velocidade: 5.1859126            velocidade x: -3.6669924            velocidade y: -3.6669955
-aceleracao: 0.15128607            aceleracao x: -0.10697538            aceleracao y: -0.106975436
+arrasto: 0.5829945            arrasto x: 0.5829945            arrasto y: 0.0
+tracao: 0.9761982            tracao x: -0.69027627            tracao y: -0.69027644
+posicao: 50.396305            posicao x: 35.635563            posicao y: 35.635574
+velocidade: 5.189636            velocidade x: -3.6696272            velocidade y: -3.6696265
+aceleracao: 0.15171947            aceleracao x: -0.107281804            aceleracao y: -0.10728192
 
 
 tracao aplicada
-sustentacao: 0.81578505            sustentacao x: -3.56591E-8            sustentacao y: 0.81578505
+sustentacao: 0.7852983            sustentacao x: -3.432648E-8            sustentacao y: 0.7852983
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.61578506            arrasto x: 0.61578506            arrasto y: 0.0
-tracao: 1.0221039            tracao x: -0.7227366            tracao y: -0.7227366
-posicao: 45.039597            posicao x: 31.847805            posicao y: 31.847803
-velocidade: 5.337165            velocidade x: -3.773944            velocidade y: -3.773947
-aceleracao: 0.15125236            aceleracao x: -0.106951594            aceleracao y: -0.106951535
+arrasto: 0.5852983            arrasto x: 0.5852983            arrasto y: 0.0
+tracao: 0.979422            tracao x: -0.6925558            tracao y: -0.692556
+posicao: 45.054985            posicao x: 31.858679            posicao y: 31.85869
+velocidade: 5.3413215            velocidade x: -3.7768848            velocidade y: -3.776884
+aceleracao: 0.1516852            aceleracao x: -0.107257545            aceleracao y: -0.107257724
 
 
 tracao aplicada
-sustentacao: 0.8189394            sustentacao x: -3.5796976E-8            sustentacao y: 0.8189394
+sustentacao: 0.7881798            sustentacao x: -3.4452434E-8            sustentacao y: 0.7881798
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6189394            arrasto x: 0.6189394            arrasto y: 0.0
-tracao: 1.0265223            tracao x: -0.72586083            tracao y: -0.7258608
-posicao: 39.55122            posicao x: 27.96694            posicao y: 27.966934
-velocidade: 5.4883747            velocidade x: -3.8808653            velocidade y: -3.8808684
-aceleracao: 0.15120974            aceleracao x: -0.106921494            aceleracao y: -0.106921375
+arrasto: 0.5881798            arrasto x: 0.5881798            arrasto y: 0.0
+tracao: 0.9834546            tracao x: -0.6954073            tracao y: -0.6954075
+posicao: 39.562023            posicao x: 27.974567            posicao y: 27.974579
+velocidade: 5.492964            velocidade x: -3.8841124            velocidade y: -3.884112
+aceleracao: 0.15164271            aceleracao x: -0.107227504            aceleracao y: -0.10722768
 
 
 tracao aplicada
-sustentacao: 0.8217004            sustentacao x: -3.5917665E-8            sustentacao y: 0.8217004
+sustentacao: 0.79083455            sustentacao x: -3.4568476E-8            sustentacao y: 0.79083455
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6217004            arrasto x: 0.6217004            arrasto y: 0.0
-tracao: 1.0303897            tracao x: -0.7285956            tracao y: -0.7285955
-posicao: 33.911674            posicao x: 23.97918            posicao y: 23.979172
-velocidade: 5.639547            velocidade x: -3.9877605            velocidade y: -3.9877634
-aceleracao: 0.15117261            aceleracao x: -0.10689527            aceleracao y: -0.10689509
+arrasto: 0.59083456            arrasto x: 0.59083456            arrasto y: 0.0
+tracao: 0.98717004            tracao x: -0.69803447            tracao y: -0.69803476
+posicao: 33.917454            posicao x: 23.983255            posicao y: 23.983267
+velocidade: 5.644568            velocidade x: -3.9913123            velocidade y: -3.991312
+aceleracao: 0.15160382            aceleracao x: -0.10719997            aceleracao y: -0.107200205
 
 
 tracao aplicada
-sustentacao: 0.823206            sustentacao x: -3.5983476E-8            sustentacao y: 0.823206
+sustentacao: 0.79288924            sustentacao x: -3.465829E-8            sustentacao y: 0.79288924
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.623206            arrasto x: 0.623206            arrasto y: 0.0
-tracao: 1.0324988            tracao x: -0.73008704            tracao y: -0.73008686
-posicao: 28.120974            posicao x: 19.884537            posicao y: 19.884527
-velocidade: 5.7906995            velocidade x: -4.0946417            velocidade y: -4.094644
-aceleracao: 0.1511525            aceleracao x: -0.10688108            aceleracao y: -0.10688084
+arrasto: 0.59288925            arrasto x: 0.59288925            arrasto y: 0.0
+tracao: 0.9900459            tracao x: -0.700068            tracao y: -0.70006835
+posicao: 28.121311            posicao x: 19.884764            posicao y: 19.884775
+velocidade: 5.796142            velocidade x: -4.098491            velocidade y: -4.098491
+aceleracao: 0.15157394            aceleracao x: -0.10717881            aceleracao y: -0.107179105
 
 
 tracao aplicada
-sustentacao: 0.82580864            sustentacao x: -3.609724E-8            sustentacao y: 0.82580864
+sustentacao: 0.79572004            sustentacao x: -3.4782026E-8            sustentacao y: 0.79572004
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.62580866            arrasto x: 0.62580866            arrasto y: 0.0
-tracao: 1.036145            tracao x: -0.73266536            tracao y: -0.732665
-posicao: 22.179157            posicao x: 15.683039            posicao y: 15.683027
-velocidade: 5.9418173            velocidade x: -4.2014985            velocidade y: -4.2015004
-aceleracao: 0.15111798            aceleracao x: -0.10685676            aceleracao y: -0.106856346
+arrasto: 0.59572005            arrasto x: 0.59572005            arrasto y: 0.0
+tracao: 0.99400836            tracao x: -0.7028699            tracao y: -0.7028702
+posicao: 22.173637            posicao x: 15.679123            posicao y: 15.679134
+velocidade: 5.9476748            velocidade x: -4.2056413            velocidade y: -4.2056413
+aceleracao: 0.15153301            aceleracao x: -0.1071499            aceleracao y: -0.10715014
 
 
 tracao aplicada
-sustentacao: 0.8276221            sustentacao x: -3.6176512E-8            sustentacao y: 0.8276221
+sustentacao: 0.79822785            sustentacao x: -3.489165E-8            sustentacao y: 0.79822785
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6276221            arrasto x: 0.6276221            arrasto y: 0.0
-tracao: 1.0386856            tracao x: -0.7344619            tracao y: -0.73446137
-posicao: 16.086246            posicao x: 11.374701            posicao y: 11.374687
-velocidade: 6.0929112            velocidade x: -4.308338            velocidade y: -4.3083396
-aceleracao: 0.15109392            aceleracao x: -0.106839836            aceleracao y: -0.10683924
+arrasto: 0.59822786            arrasto x: 0.59822786            arrasto y: 0.0
+tracao: 0.9975189            tracao x: -0.7053521            tracao y: -0.70535266
+posicao: 16.074465            posicao x: 11.366358            posicao y: 11.366368
+velocidade: 6.099172            velocidade x: -4.3127656            velocidade y: -4.312766
+aceleracao: 0.15149702            aceleracao x: -0.10712433            aceleracao y: -0.107124805
 
 
 tracao aplicada
-sustentacao: 0.83046496            sustentacao x: -3.6300776E-8            sustentacao y: 0.83046496
+sustentacao: 0.8015787            sustentacao x: -3.5038116E-8            sustentacao y: 0.8015787
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.630465            arrasto x: 0.630465            arrasto y: 0.0
-tracao: 1.0426687            tracao x: -0.7372785            tracao y: -0.7372777
-posicao: 9.8422785            posicao x: 6.959549            posicao y: 6.9595346
-velocidade: 6.243968            velocidade x: -4.4151516            velocidade y: -4.4151525
-aceleracao: 0.15105662            aceleracao x: -0.10681361            aceleracao y: -0.106812716
+arrasto: 0.6015787            arrasto x: 0.6015787            arrasto y: 0.0
+tracao: 1.0022104            tracao x: -0.70866936            tracao y: -0.70867
+posicao: 9.823844            posicao x: 6.9465017            posicao y: 6.946511
+velocidade: 6.2506213            velocidade x: -4.419856            velocidade y: -4.4198575
+aceleracao: 0.15144956            aceleracao x: -0.10709071            aceleracao y: -0.10709131
 
 
 tracao aplicada
-sustentacao: 0.83337575            sustentacao x: -3.6428013E-8            sustentacao y: 0.83337575
+sustentacao: 0.8049852            sustentacao x: -3.518702E-8            sustentacao y: 0.8049852
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.63337576            arrasto x: 0.63337576            arrasto y: 0.0
-tracao: 1.0467473            tracao x: -0.74016285            tracao y: -0.74016136
-posicao: 3.4472916            posicao x: 2.4376101            posicao y: 2.4375963
-velocidade: 6.394987            velocidade x: -4.521939            velocidade y: -4.5219383
-aceleracao: 0.15101874            aceleracao x: -0.106787145            aceleracao y: -0.106785595
+arrasto: 0.60498524            arrasto x: 0.60498524            arrasto y: 0.0
+tracao: 1.0069798            tracao x: -0.7120418            tracao y: -0.7120427
+posicao: 3.4218204            posicao x: 2.419589            posicao y: 2.4195957
+velocidade: 6.4020233            velocidade x: -4.5269127            velocidade y: -4.526915
+aceleracao: 0.1514015            aceleracao x: -0.10705662            aceleracao y: -0.10705745
 
 
 tracao aplicada
-sustentacao: 0.835338            sustentacao x: -3.6513782E-8            sustentacao y: 0.835338
+sustentacao: 0.8078986            sustentacao x: -3.531437E-8            sustentacao y: 0.8078986
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.635338            arrasto x: 0.635338            arrasto y: 0.0
-tracao: 1.049497            tracao x: -0.7421086            tracao y: -0.7421043
-posicao: 3.0986886            posicao x: -2.1910992            posicao y: -2.1911082
-velocidade: 6.54598            velocidade x: -4.6287093            velocidade y: -4.6287045
-aceleracao: 0.1509934            aceleracao x: -0.106770635            aceleracao y: -0.10676628
+arrasto: 0.6078986            arrasto x: 0.6078986            arrasto y: 0.0
+tracao: 1.0110593            tracao x: -0.7149259            tracao y: -0.71492785
+posicao: 3.131564            posicao x: -2.2143512            posicao y: -2.2143488
+velocidade: 6.5533843            velocidade x: -4.63394            velocidade y: -4.6339445
+aceleracao: 0.15136088            aceleracao x: -0.10702735            aceleracao y: -0.10702926
 
 
 tracao aplicada
-sustentacao: 0.8385123            sustentacao x: -3.6652537E-8            sustentacao y: 0.8385123
+sustentacao: 0.811452            sustentacao x: -3.5469693E-8            sustentacao y: 0.811452
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6385123            arrasto x: 0.6385123            arrasto y: 0.0
-tracao: 1.0539453            tracao x: 0.74525034            tracao y: 0.74525344
-posicao: 7.6877303            posicao x: -5.4360456            posicao y: -5.436047
-velocidade: 4.589042            velocidade x: -3.2449467            velocidade y: -3.2449389
-aceleracao: 1.956938            aceleracao x: 1.3837626            aceleracao y: 1.3837657
+arrasto: 0.611452            arrasto x: 0.611452            arrasto y: 0.0
+tracao: 1.0160353            tracao x: 0.71844584            tracao y: 0.718445
+posicao: 7.8041887            posicao x: -5.5183935            posicao y: -5.5183964
+velocidade: 4.6726255            velocidade x: -3.3040423            velocidade y: -3.3040476
+aceleracao: 1.8807589            aceleracao x: 1.3298978            aceleracao y: 1.3298969
 
 
 tracao aplicada
-sustentacao: 0.8408705            sustentacao x: -3.6755615E-8            sustentacao y: 0.8408705
+sustentacao: 0.81437653            sustentacao x: -3.559753E-8            sustentacao y: 0.81437653
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6408705            arrasto x: 0.6408705            arrasto y: 0.0
-tracao: 1.0572503            tracao x: 0.74758875            tracao y: 0.74758893
-posicao: 10.313194            posicao x: -7.292533            posicao y: -7.2925262
-velocidade: 2.625464            velocidade x: -1.8564875            velocidade y: -1.8564794
-aceleracao: 1.963578            aceleracao x: 1.3884592            aceleracao y: 1.3884594
+arrasto: 0.61437654            arrasto x: 0.61437654            arrasto y: 0.0
+tracao: 1.0201311            tracao x: 0.7213415            tracao y: 0.72134185
+posicao: 10.587824            posicao x: -7.486718            posicao y: -7.486726
+velocidade: 2.7836344            velocidade x: -1.9683244            velocidade y: -1.9683292
+aceleracao: 1.8889908            aceleracao x: 1.3357179            aceleracao y: 1.3357184
 
 
 tracao aplicada
-sustentacao: 0.84427565            sustentacao x: -3.690446E-8            sustentacao y: 0.84427565
+sustentacao: 0.8178435            sustentacao x: -3.5749075E-8            sustentacao y: 0.8178435
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.64427567            arrasto x: 0.64427567            arrasto y: 0.0
-tracao: 1.0620228            tracao x: 0.75096387            tracao y: 0.7509632
-posicao: 10.965492            posicao x: -7.753781            posicao y: -7.753767
-velocidade: 0.6522979            velocidade x: -0.46124804            velocidade y: -0.46124053
-aceleracao: 1.9731661            aceleracao x: 1.3952395            aceleracao y: 1.3952389
+arrasto: 0.6178435            arrasto x: 0.6178435            arrasto y: 0.0
+tracao: 1.0249871            tracao x: 0.72477496            tracao y: 0.7247757
+posicao: 11.472709            posicao x: -8.112424            posicao y: -8.112436
+velocidade: 0.8848847            velocidade x: -0.62570596            velocidade y: -0.62571
+aceleracao: 1.8987497            aceleracao x: 1.3426185            aceleracao y: 1.3426192
 
 
 tracao aplicada
-sustentacao: 0.8477669            sustentacao x: -3.7057067E-8            sustentacao y: 0.8477669
+sustentacao: 0.8210945            sustentacao x: -3.589118E-8            sustentacao y: 0.8210945
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6477669            arrasto x: 0.6477669            arrasto y: 0.0
-tracao: 1.0669163            tracao x: 0.75442445            tracao y: 0.75442314
-posicao: 9.634793            posicao x: -6.8128376            posicao y: -6.8128176
-velocidade: 1.3306991            velocidade x: 0.94094324            velocidade y: 0.94094944
-aceleracao: 1.9829971            aceleracao x: 1.4021913            aceleracao y: 1.40219
+arrasto: 0.6210945            arrasto x: 0.6210945            arrasto y: 0.0
+tracao: 1.0295409            tracao x: 0.7279948            tracao y: 0.7279959
+posicao: 10.449693            posicao x: -7.3890405            posicao y: -7.389056
+velocidade: 1.0230163            velocidade x: 0.7233833            velocidade y: 0.7233803
+aceleracao: 1.9079012            aceleracao x: 1.3490893            aceleracao y: 1.3490903
 
 
 tracao aplicada
-sustentacao: 0.8503498            sustentacao x: -3.716997E-8            sustentacao y: 0.8503498
+sustentacao: 0.8235353            sustentacao x: -3.599787E-8            sustentacao y: 0.8235353
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6503498            arrasto x: 0.6503498            arrasto y: 0.0
-tracao: 1.070537            tracao x: 0.75698507            tracao y: 0.75698286
-posicao: 6.3138237            posicao x: -4.4645596            posicao y: -4.4645357
-velocidade: 3.3209693            velocidade x: 2.348278            velocidade y: 2.348282
-aceleracao: 1.9902704            aceleracao x: 1.4073348            aceleracao y: 1.4073327
+arrasto: 0.62353534            arrasto x: 0.62353534            arrasto y: 0.0
+tracao: 1.03296            tracao x: 0.7304123            tracao y: 0.73041385
+posicao: 7.511904            posicao x: -5.3117094            posicao y: -5.3117266
+velocidade: 2.9377887            velocidade x: 2.077331            velocidade y: 2.0773296
+aceleracao: 1.9147723            aceleracao x: 1.3539476            aceleracao y: 1.3539492
 
 
 tracao aplicada
-sustentacao: 0.85402167            sustentacao x: -3.7330473E-8            sustentacao y: 0.85402167
+sustentacao: 0.8263007            sustentacao x: -3.611875E-8            sustentacao y: 0.8263007
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6540217            arrasto x: 0.6540217            arrasto y: 0.0
-tracao: 1.0756845            tracao x: 0.7606259            tracao y: 0.76062185
-posicao: 0.99224335            posicao x: -0.70163393            posicao y: -0.7016101
-velocidade: 5.3215804            velocidade x: 3.7629256            velocidade y: 3.7629256
-aceleracao: 2.000611            aceleracao x: 1.4146476            aceleracao y: 1.4146435
+arrasto: 0.6263007            arrasto x: 0.6263007            arrasto y: 0.0
+tracao: 1.0368342            tracao x: 0.7331513            tracao y: 0.7331537
+posicao: 2.6515577            posicao x: -1.8749263            posicao y: -1.8749425
+velocidade: 4.860346            velocidade x: 3.436783            velocidade y: 3.436784
+aceleracao: 1.9225572            aceleracao x: 1.359452            aceleracao y: 1.3594544
 
 
 tracao aplicada
-sustentacao: 0.8568176            sustentacao x: -3.7452686E-8            sustentacao y: 0.8568176
+sustentacao: 0.8281919            sustentacao x: -3.6201417E-8            sustentacao y: 0.8281919
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6568176            arrasto x: 0.6568176            arrasto y: 0.0
-tracao: 1.0796044            tracao x: 0.76340854            tracao y: 0.7633826
-posicao: 6.3378215            posicao x: 4.481518            posicao y: 4.481516
-velocidade: 7.3300653            velocidade x: 5.1831517            velocidade y: 5.183126
-aceleracao: 2.0084848            aceleracao x: 1.4202261            aceleracao y: 1.4202002
+arrasto: 0.6281919            arrasto x: 0.6281919            arrasto y: 0.0
+tracao: 1.0394839            tracao x: 0.73502296            tracao y: 0.73502934
+posicao: 4.1366696            posicao x: 2.9250715            posicao y: 2.9250624
+velocidade: 6.788227            velocidade x: 4.799998            velocidade y: 4.800005
+aceleracao: 1.9278812            aceleracao x: 1.3632147            aceleracao y: 1.3632212
 
 
 tracao aplicada
-sustentacao: 0.8605019            sustentacao x: -3.761373E-8            sustentacao y: 0.8605019
+sustentacao: 0.8302392            sustentacao x: -3.6290906E-8            sustentacao y: 0.8302392
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6605019            arrasto x: 0.6605019            arrasto y: 0.0
-tracao: 1.0847701            tracao x: -0.7670485            tracao y: -0.7670481
-posicao: 13.517208            posicao x: 9.558123            posicao y: 9.558096
-velocidade: 7.1793857            velocidade x: 5.076605            velocidade y: 5.0765796
-aceleracao: 0.15067941            aceleracao x: -0.10654664            aceleracao y: -0.10654622
+arrasto: 0.6302392            arrasto x: 0.6302392            arrasto y: 0.0
+tracao: 1.0423524            tracao x: -0.7370556            tracao y: -0.7370533
+posicao: 10.773837            posicao x: 7.6182528            posicao y: 7.6182537
+velocidade: 6.6371675            velocidade x: 4.6931815            velocidade y: 4.693191
+aceleracao: 0.15105961            aceleracao x: -0.10681647            aceleracao y: -0.10681409
 
 
 tracao aplicada
-sustentacao: 0.8640164            sustentacao x: -3.7767357E-8            sustentacao y: 0.8640164
+sustentacao: 0.83175564            sustentacao x: -3.6357193E-8            sustentacao y: 0.83175564
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6640164            arrasto x: 0.6640164            arrasto y: 0.0
-tracao: 1.0896982            tracao x: -0.77053404            tracao y: -0.7705319
-posicao: 20.545956            posicao x: 14.52821            posicao y: 14.52816
-velocidade: 7.0287485            velocidade x: 4.970087            velocidade y: 4.970064
-aceleracao: 0.15063718            aceleracao x: -0.10651767            aceleracao y: -0.10651547
+arrasto: 0.63175565            arrasto x: 0.63175565            arrasto y: 0.0
+tracao: 1.0444772            tracao x: -0.73855686            tracao y: -0.738557
+posicao: 17.259964            posicao x: 12.204633            posicao y: 12.204643
+velocidade: 6.4861274            velocidade x: 4.58638            velocidade y: 4.5863895
+aceleracao: 0.15103985            aceleracao x: -0.10680127            aceleracao y: -0.10680133
 
 
 tracao aplicada
-sustentacao: 0.8664261            sustentacao x: -3.7872688E-8            sustentacao y: 0.8664261
+sustentacao: 0.83220816            sustentacao x: -3.6376974E-8            sustentacao y: 0.83220816
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6664261            arrasto x: 0.6664261            arrasto y: 0.0
-tracao: 1.0930773            tracao x: -0.7729237            tracao y: -0.7729211
-posicao: 27.424097            posicao x: 19.3918            posicao y: 19.39173
-velocidade: 6.87814            velocidade x: 4.8635893            velocidade y: 4.8635693
-aceleracao: 0.15060852            aceleracao x: -0.106497645            aceleracao y: -0.10649496
+arrasto: 0.63220817            arrasto x: 0.63220817            arrasto y: 0.0
+tracao: 1.0451112            tracao x: -0.73900497            tracao y: -0.73900557
+posicao: 23.595057            posicao x: 16.684216            posicao y: 16.684235
+velocidade: 6.335094            velocidade x: 4.4795833            velocidade y: 4.4795923
+aceleracao: 0.15103394            aceleracao x: -0.10679686            aceleracao y: -0.1067974
 
 
 tracao aplicada
-sustentacao: 0.8696009            sustentacao x: -3.801146E-8            sustentacao y: 0.8696009
+sustentacao: 0.8328169            sustentacao x: -3.6403584E-8            sustentacao y: 0.8328169
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6696009            arrasto x: 0.6696009            arrasto y: 0.0
-tracao: 1.0975295            tracao x: -0.776072            tracao y: -0.7760691
-posicao: 34.151665            posicao x: 24.148918            posicao y: 24.14883
-velocidade: 6.727569            velocidade x: 4.757118            velocidade y: 4.757101
-aceleracao: 0.15057088            aceleracao x: -0.10647118            aceleracao y: -0.1064682
+arrasto: 0.6328169            arrasto x: 0.6328169            arrasto y: 0.0
+tracao: 1.0459644            tracao x: -0.73960805            tracao y: -0.7396088
+posicao: 29.779125            posicao x: 21.057007            posicao y: 21.057035
+velocidade: 6.1840677            velocidade x: 4.3727922            velocidade y: 4.3728004
+aceleracao: 0.15102607            aceleracao x: -0.1067912            aceleracao y: -0.10679191
 
 
 tracao aplicada
-sustentacao: 0.8716671            sustentacao x: -3.8101778E-8            sustentacao y: 0.8716671
+sustentacao: 0.83259344            sustentacao x: -3.6393814E-8            sustentacao y: 0.83259344
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6716671            arrasto x: 0.6716671            arrasto y: 0.0
-tracao: 1.1004273            tracao x: -0.778121            tracao y: -0.7781182
-posicao: 40.72869            posicao x: 28.799583            posicao y: 28.79948
-velocidade: 6.5770226            velocidade x: 4.6506643            velocidade y: 4.65065
-aceleracao: 0.15054661            aceleracao x: -0.106453955            aceleracao y: -0.106451094
+arrasto: 0.63259345            arrasto x: 0.63259345            arrasto y: 0.0
+tracao: 1.0456511            tracao x: -0.73938644            tracao y: -0.73938745
+posicao: 35.812164            posicao x: 25.323006            posicao y: 25.323042
+velocidade: 6.033039            velocidade x: 4.2659993            velocidade y: 4.2660065
+aceleracao: 0.15102886            aceleracao x: -0.106793046            aceleracao y: -0.106794
 
 
 tracao aplicada
-sustentacao: 0.87435627            sustentacao x: -3.8219326E-8            sustentacao y: 0.87435627
+sustentacao: 0.8326224            sustentacao x: -3.6395083E-8            sustentacao y: 0.8326224
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6743563            arrasto x: 0.6743563            arrasto y: 0.0
-tracao: 1.1041989            tracao x: -0.78078794            tracao y: -0.7807851
-posicao: 47.155193            posicao x: 33.343815            posicao y: 33.3437
-velocidade: 6.4265075            velocidade x: 4.5442324            velocidade y: 4.5442214
-aceleracao: 0.15051512            aceleracao x: -0.10643172            aceleracao y: -0.1064288
+arrasto: 0.6326224            arrasto x: 0.6326224            arrasto y: 0.0
+tracao: 1.0456917            tracao x: -0.7394152            tracao y: -0.7394162
+posicao: 41.69417            posicao x: 29.482212            posicao y: 29.482254
+velocidade: 5.8820105            velocidade x: 4.1592064            velocidade y: 4.1592126
+aceleracao: 0.15102856            aceleracao x: -0.10679287            aceleracao y: -0.10679376
 
 
 tracao aplicada
-sustentacao: 0.8770016            sustentacao x: -3.8334957E-8            sustentacao y: 0.8770016
+sustentacao: 0.83259124            sustentacao x: -3.639372E-8            sustentacao y: 0.83259124
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6770016            arrasto x: 0.6770016            arrasto y: 0.0
-tracao: 1.1079092            tracao x: -0.7834115            tracao y: -0.78340876
-posicao: 53.431217            posicao x: 37.78164            posicao y: 37.781513
-velocidade: 6.276023            velocidade x: 4.4378223            velocidade y: 4.437814
-aceleracao: 0.15048444            aceleracao x: -0.10640997            aceleracao y: -0.106407166
+arrasto: 0.63259125            arrasto x: 0.63259125            arrasto y: 0.0
+tracao: 1.045648            tracao x: -0.7393843            tracao y: -0.7393853
+posicao: 47.425156            posicao x: 33.534626            posicao y: 33.53467
+velocidade: 5.730982            velocidade x: 4.0524135            velocidade y: 4.0524187
+aceleracao: 0.15102893            aceleracao x: -0.106793106            aceleracao y: -0.10679406
 
 
 tracao aplicada
-sustentacao: 0.8785807            sustentacao x: -3.8403982E-8            sustentacao y: 0.8785807
+sustentacao: 0.83202654            sustentacao x: -3.6369034E-8            sustentacao y: 0.83202654
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6785807            arrasto x: 0.6785807            arrasto y: 0.0
-tracao: 1.1101242            tracao x: -0.7849777            tracao y: -0.78497505
-posicao: 59.556774            posicao x: 42.113064            posicao y: 42.112934
-velocidade: 6.1255565            velocidade x: 4.331425            velocidade y: 4.33142
-aceleracao: 0.15046623            aceleracao x: -0.10639703            aceleracao y: -0.10639435
+arrasto: 0.63202655            arrasto x: 0.63202655            arrasto y: 0.0
+tracao: 1.0448568            tracao x: -0.7388248            tracao y: -0.7388258
+posicao: 53.0051            posicao x: 37.48024            posicao y: 37.480293
+velocidade: 5.5799456            velocidade x: 3.9456153            velocidade y: 3.9456196
+aceleracao: 0.15103626            aceleracao x: -0.10679829            aceleracao y: -0.106799245
 
 
 tracao aplicada
-sustentacao: 0.8809084            sustentacao x: -3.8505732E-8            sustentacao y: 0.8809084
+sustentacao: 0.832168            sustentacao x: -3.637522E-8            sustentacao y: 0.832168
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68090844            arrasto x: 0.68090844            arrasto y: 0.0
-tracao: 1.1133894            tracao x: -0.7872864            tracao y: -0.78728396
-posicao: 65.53189            posicao x: 46.33811            posicao y: 46.33798
-velocidade: 5.9751167            velocidade x: 4.225047            velocidade y: 4.2250443
-aceleracao: 0.15043947            aceleracao x: -0.10637802            aceleracao y: -0.106375515
+arrasto: 0.632168            arrasto x: 0.632168            arrasto y: 0.0
+tracao: 1.045055            tracao x: -0.7389649            tracao y: -0.738966
+posicao: 58.43401            posicao x: 41.319057            posicao y: 41.319115
+velocidade: 5.428911            velocidade x: 3.8388183            velocidade y: 3.8388216
+aceleracao: 0.15103444            aceleracao x: -0.10679698            aceleracao y: -0.10679799
 
 
 tracao aplicada
-sustentacao: 0.88216585            sustentacao x: -3.8560692E-8            sustentacao y: 0.88216585
+sustentacao: 0.83204705            sustentacao x: -3.6369933E-8            sustentacao y: 0.83204705
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68216586            arrasto x: 0.68216586            arrasto y: 0.0
-tracao: 1.1151532            tracao x: -0.7885335            tracao y: -0.78853124
-posicao: 71.35658            posicao x: 50.45679            posicao y: 50.456657
-velocidade: 5.8246922            velocidade x: 4.1186795            velocidade y: 4.118679
-aceleracao: 0.15042502            aceleracao x: -0.10636771            aceleracao y: -0.10636538
+arrasto: 0.63204706            arrasto x: 0.63204706            arrasto y: 0.0
+tracao: 1.0448855            tracao x: -0.7388451            tracao y: -0.7388462
+posicao: 63.711887            posicao x: 45.05108            posicao y: 45.051136
+velocidade: 5.2778754            velocidade x: 3.7320201            velocidade y: 3.7320225
+aceleracao: 0.15103605            aceleracao x: -0.10679811            aceleracao y: -0.106799126
 
 
 tracao aplicada
-sustentacao: 0.8839196            sustentacao x: -3.8637353E-8            sustentacao y: 0.8839196
+sustentacao: 0.8326803            sustentacao x: -3.6397612E-8            sustentacao y: 0.8326803
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6839196            arrasto x: 0.6839196            arrasto y: 0.0
-tracao: 1.1176134            tracao x: -0.7902731            tracao y: -0.79027104
-posicao: 77.03087            posicao x: 54.469116            posicao y: 54.468987
-velocidade: 5.6742873            velocidade x: 4.0123262            velocidade y: 4.0123277
-aceleracao: 0.15040511            aceleracao x: -0.10635352            aceleracao y: -0.106351435
+arrasto: 0.6326803            arrasto x: 0.6326803            arrasto y: 0.0
+tracao: 1.0457728            tracao x: -0.73947257            tracao y: -0.7394735
+posicao: 68.83874            posicao x: 48.676308            posicao y: 48.676365
+velocidade: 5.1268473            velocidade x: 3.625228            velocidade y: 3.6252294
+aceleracao: 0.15102778            aceleracao x: -0.10679233            aceleracao y: -0.106793225
 
 
 tracao aplicada
-sustentacao: 0.88575995            sustentacao x: -3.8717797E-8            sustentacao y: 0.88575995
+sustentacao: 0.83377683            sustentacao x: -3.644554E-8            sustentacao y: 0.83377683
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68575996            arrasto x: 0.68575996            arrasto y: 0.0
-tracao: 1.1201952            tracao x: -0.7920986            tracao y: -0.7920966
-posicao: 82.55477            posicao x: 58.375103            posicao y: 58.374977
-velocidade: 5.523903            velocidade x: 3.9059875            velocidade y: 3.905991
-aceleracao: 0.15038417            aceleracao x: -0.10633868            aceleracao y: -0.10633665
+arrasto: 0.63377684            arrasto x: 0.63377684            arrasto y: 0.0
+tracao: 1.0473093            tracao x: -0.74055904            tracao y: -0.74055994
+posicao: 73.81457            posicao x: 52.19475            posicao y: 52.194813
+velocidade: 4.975834            velocidade x: 3.5184457            velocidade y: 3.5184462
+aceleracao: 0.15101351            aceleracao x: -0.10678226            aceleracao y: -0.10678309
 
 
 tracao aplicada
-sustentacao: 0.88663834            sustentacao x: -3.875619E-8            sustentacao y: 0.88663834
+sustentacao: 0.8347277            sustentacao x: -3.648711E-8            sustentacao y: 0.8347277
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68663836            arrasto x: 0.68663836            arrasto y: 0.0
-tracao: 1.1214275            tracao x: -0.7929699            tracao y: -0.7929682
-posicao: 87.9283            posicao x: 62.17476            posicao y: 62.174637
-velocidade: 5.3735285            velocidade x: 3.799656            velocidade y: 3.7996612
-aceleracao: 0.15037435            aceleracao x: -0.10633159            aceleracao y: -0.10632986
+arrasto: 0.6347277            arrasto x: 0.6347277            arrasto y: 0.0
+tracao: 1.0486418            tracao x: -0.7415013            tracao y: -0.74150217
+posicao: 78.6394            posicao x: 55.606422            posicao y: 55.606483
+velocidade: 4.824833            velocidade x: 3.411672            velocidade y: 3.4116716
+aceleracao: 0.15100129            aceleracao x: -0.106773615            aceleracao y: -0.10677445
 
 
 tracao aplicada
-sustentacao: 0.8885857            sustentacao x: -3.8841314E-8            sustentacao y: 0.8885857
+sustentacao: 0.8363594            sustentacao x: -3.655843E-8            sustentacao y: 0.8363594
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6885857            arrasto x: 0.6885857            arrasto y: 0.0
-tracao: 1.1241596            tracao x: -0.79490167            tracao y: -0.7949001
-posicao: 93.151474            posicao x: 65.868095            posicao y: 65.86798
-velocidade: 5.2231765            velocidade x: 3.6933398            velocidade y: 3.6933467
-aceleracao: 0.15035243            aceleracao x: -0.10631603            aceleracao y: -0.10631442
+arrasto: 0.6363594            arrasto x: 0.6363594            arrasto y: 0.0
+tracao: 1.0509282            tracao x: -0.7431181            tracao y: -0.7431189
+posicao: 83.31325            posicao x: 58.911335            posicao y: 58.911396
+velocidade: 4.6738524            velocidade x: 3.3049133            velocidade y: 3.304912
+aceleracao: 0.1509802            aceleracao x: -0.10675877            aceleracao y: -0.10675949
 
 
 tracao aplicada
-sustentacao: 0.88986605            sustentacao x: -3.889728E-8            sustentacao y: 0.88986605
+sustentacao: 0.83754885            sustentacao x: -3.6610423E-8            sustentacao y: 0.83754885
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68986607            arrasto x: 0.68986607            arrasto y: 0.0
-tracao: 1.1259559            tracao x: -0.7961717            tracao y: -0.7961704
-posicao: 98.22431            posicao x: 69.45513            posicao y: 69.455025
-velocidade: 5.0728383            velocidade x: 3.5870342            velocidade y: 3.5870423
-aceleracao: 0.15033801            aceleracao x: -0.10630572            aceleracao y: -0.10630435
+arrasto: 0.63754886            arrasto x: 0.63754886            arrasto y: 0.0
+tracao: 1.0525951            tracao x: -0.74429685            tracao y: -0.74429756
+posicao: 87.83614            posicao x: 62.1095            posicao y: 62.10956
+velocidade: 4.522887            velocidade x: 3.1981652            velocidade y: 3.1981635
+aceleracao: 0.15096499            aceleracao x: -0.106748044            aceleracao y: -0.1067487
 
 
 tracao aplicada
-sustentacao: 0.8918566            sustentacao x: -3.898429E-8            sustentacao y: 0.8918566
+sustentacao: 0.83923686            sustentacao x: -3.668421E-8            sustentacao y: 0.83923686
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6918566            arrasto x: 0.6918566            arrasto y: 0.0
-tracao: 1.1287488            tracao x: -0.79814655            tracao y: -0.7981453
-posicao: 103.146835            posicao x: 72.935875            posicao y: 72.935776
-velocidade: 4.9225225            velocidade x: 3.4807444            velocidade y: 3.4807537
-aceleracao: 0.1503158            aceleracao x: -0.10628998            aceleracao y: -0.10628867
+arrasto: 0.63923687            arrasto x: 0.63923687            arrasto y: 0.0
+tracao: 1.0549606            tracao x: -0.7459695            tracao y: -0.7459702
+posicao: 92.208084            posicao x: 65.200935            posicao y: 65.20099
+velocidade: 4.371944            velocidade x: 3.0914326            velocidade y: 3.0914302
+aceleracao: 0.15094325            aceleracao x: -0.10673267            aceleracao y: -0.10673332
 
 
 tracao aplicada
-sustentacao: 0.8942986            sustentacao x: -3.9091038E-8            sustentacao y: 0.8942986
+sustentacao: 0.8410679            sustentacao x: -3.6764245E-8            sustentacao y: 0.8410679
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6942986            arrasto x: 0.6942986            arrasto y: 0.0
-tracao: 1.1321751            tracao x: -0.80056924            tracao y: -0.8005681
-posicao: 107.91907            posicao x: 76.31035            posicao y: 76.31026
-velocidade: 4.772234            velocidade x: 3.3744736            velocidade y: 3.374484
-aceleracao: 0.15028858            aceleracao x: -0.10627067            aceleracao y: -0.10626948
+arrasto: 0.6410679            arrasto x: 0.6410679            arrasto y: 0.0
+tracao: 1.057527            tracao x: -0.74778414            tracao y: -0.7477848
+posicao: 96.42911            posicao x: 68.18565            posicao y: 68.1857
+velocidade: 4.2210245            velocidade x: 2.9847164            velocidade y: 2.9847133
+aceleracao: 0.15092002            aceleracao x: -0.106716275            aceleracao y: -0.10671687
 
 
 tracao aplicada
-sustentacao: 0.8959521            sustentacao x: -3.9163314E-8            sustentacao y: 0.8959521
+sustentacao: 0.8424145            sustentacao x: -3.6823106E-8            sustentacao y: 0.8424145
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6959521            arrasto x: 0.6959521            arrasto y: 0.0
-tracao: 1.1344951            tracao x: -0.80220973            tracao y: -0.8022088
-posicao: 112.54103            posicao x: 79.57857            posicao y: 79.57848
-velocidade: 4.6219635            velocidade x: 3.268216            velocidade y: 3.2682273
-aceleracao: 0.15027033            aceleracao x: -0.10625768            aceleracao y: -0.106256664
+arrasto: 0.6424145            arrasto x: 0.6424145            arrasto y: 0.0
+tracao: 1.0594143            tracao x: -0.74911875            tracao y: -0.7491193
+posicao: 100.49923            posicao x: 71.06367            posicao y: 71.063705
+velocidade: 4.0701213            velocidade x: 2.8780122            velocidade y: 2.8780086
+aceleracao: 0.150903            aceleracao x: -0.106704295            aceleracao y: -0.10670477
 
 
 tracao aplicada
-sustentacao: 0.89831436            sustentacao x: -3.9266567E-8            sustentacao y: 0.89831436
+sustentacao: 0.8442294            sustentacao x: -3.690244E-8            sustentacao y: 0.8442294
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.69831437            arrasto x: 0.69831437            arrasto y: 0.0
-tracao: 1.13781            tracao x: -0.80455357            tracao y: -0.80455273
-posicao: 117.01275            posicao x: 82.74055            posicao y: 82.74047
-velocidade: 4.471719            velocidade x: 3.1619766            velocidade y: 3.161989
-aceleracao: 0.15024437            aceleracao x: -0.10623926            aceleracao y: -0.106238365
+arrasto: 0.6442294            arrasto x: 0.6442294            arrasto y: 0.0
+tracao: 1.061958            tracao x: -0.7509175            tracao y: -0.75091785
+posicao: 104.41847            posicao x: 73.83499            posicao y: 73.83502
+velocidade: 3.9192414            velocidade x: 2.7713242            velocidade y: 2.77132
+aceleracao: 0.15088002            aceleracao x: -0.10668814            aceleracao y: -0.10668844
 
 
 tracao aplicada
-sustentacao: 0.8996141            sustentacao x: -3.9323385E-8            sustentacao y: 0.8996141
+sustentacao: 0.84547436            sustentacao x: -3.695686E-8            sustentacao y: 0.84547436
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6996141            arrasto x: 0.6996141            arrasto y: 0.0
-tracao: 1.1396339            tracao x: -0.80584323            tracao y: -0.8058425
-posicao: 121.33424            posicao x: 85.796295            posicao y: 85.796234
-velocidade: 4.321489            velocidade x: 3.0557475            velocidade y: 3.0557606
-aceleracao: 0.15023021            aceleracao x: -0.106229186            aceleracao y: -0.10622841
+arrasto: 0.6454744            arrasto x: 0.6454744            arrasto y: 0.0
+tracao: 1.0637028            tracao x: -0.75215137            tracao y: -0.75215167
+posicao: 108.18685            posicao x: 76.49964            posicao y: 76.499664
+velocidade: 3.768377            velocidade x: 2.664647            velocidade y: 2.6646428
+aceleracao: 0.1508643            aceleracao x: -0.106677055            aceleracao y: -0.106677294
 
 
 tracao aplicada
-sustentacao: 0.90102094            sustentacao x: -3.9384876E-8            sustentacao y: 0.90102094
+sustentacao: 0.84698963            sustentacao x: -3.7023092E-8            sustentacao y: 0.84698963
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.70102096            arrasto x: 0.70102096            arrasto y: 0.0
-tracao: 1.1416081            tracao x: -0.8072391            tracao y: -0.8072386
-posicao: 125.505516            posicao x: 88.74583            posicao y: 88.74577
-velocidade: 4.171274            velocidade x: 2.9495292            velocidade y: 2.949543
-aceleracao: 0.15021482            aceleracao x: -0.10621822            aceleracao y: -0.10621762
+arrasto: 0.64698964            arrasto x: 0.64698964            arrasto y: 0.0
+tracao: 1.0658268            tracao x: -0.7536533            tracao y: -0.75365347
+posicao: 111.804375            posicao x: 79.057625            posicao y: 79.05764
+velocidade: 3.6175318            velocidade x: 2.5579834            velocidade y: 2.557979
+aceleracao: 0.15084535            aceleracao x: -0.106663704            aceleracao y: -0.10666382
 
 
 tracao aplicada
-sustentacao: 0.90243644            sustentacao x: -3.9446753E-8            sustentacao y: 0.90243644
+sustentacao: 0.8484729            sustentacao x: -3.708793E-8            sustentacao y: 0.8484729
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.70243645            arrasto x: 0.70243645            arrasto y: 0.0
-tracao: 1.1435945            tracao x: -0.8086437            tracao y: -0.80864316
-posicao: 129.52658            posicao x: 91.58915            posicao y: 91.58911
-velocidade: 4.021075            velocidade x: 2.8433218            velocidade y: 2.8433363
-aceleracao: 0.1501994            aceleracao x: -0.10620731            aceleracao y: -0.106206715
+arrasto: 0.6484729            arrasto x: 0.6484729            arrasto y: 0.0
+tracao: 1.0679059            tracao x: -0.7551235            tracao y: -0.7551236
+posicao: 115.27108            posicao x: 81.50896            posicao y: 81.50897
+velocidade: 3.466705            velocidade x: 2.4513328            velocidade y: 2.4513283
+aceleracao: 0.15082684            aceleracao x: -0.10665065            aceleracao y: -0.10665071
 
 
 tracao aplicada
-sustentacao: 0.9026211            sustentacao x: -3.9454825E-8            sustentacao y: 0.9026211
+sustentacao: 0.84933174            sustentacao x: -3.712547E-8            sustentacao y: 0.84933174
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.7026211            arrasto x: 0.7026211            arrasto y: 0.0
-tracao: 1.1438538            tracao x: -0.8088269            tracao y: -0.8088266
-posicao: 133.39746            posicao x: 94.32626            posicao y: 94.32624
-velocidade: 3.870877            velocidade x: 2.7371159            velocidade y: 2.7371309
-aceleracao: 0.15019754            aceleracao x: -0.10620588            aceleracao y: -0.10620552
+arrasto: 0.64933175            arrasto x: 0.64933175            arrasto y: 0.0
+tracao: 1.0691099            tracao x: -0.75597477            tracao y: -0.755975
+posicao: 118.586975            posicao x: 83.853645            posicao y: 83.85366
+velocidade: 3.315889            velocidade x: 2.3446898            velocidade y: 2.344685
+aceleracao: 0.15081622            aceleracao x: -0.10664308            aceleracao y: -0.10664326
 
 
 tracao aplicada
-sustentacao: 0.90297896            sustentacao x: -3.9470468E-8            sustentacao y: 0.90297896
+sustentacao: 0.8504338            sustentacao x: -3.7173642E-8            sustentacao y: 0.8504338
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.70297897            arrasto x: 0.70297897            arrasto y: 0.0
-tracao: 1.1443559            tracao x: -0.8091819            tracao y: -0.80918175
-posicao: 137.11815            posicao x: 96.95718            posicao y: 96.95717
-velocidade: 3.7206833            velocidade x: 2.6309128            velocidade y: 2.630928
-aceleracao: 0.15019359            aceleracao x: -0.10620302            aceleracao y: -0.10620278
+arrasto: 0.65043384            arrasto x: 0.65043384            arrasto y: 0.0
+tracao: 1.0706549            tracao x: -0.75706726            tracao y: -0.7570674
+posicao: 121.75206            posicao x: 86.091705            posicao y: 86.09171
+velocidade: 3.1650863            velocidade x: 2.2380564            velocidade y: 2.2380514
+aceleracao: 0.15080257            aceleracao x: -0.106633484            aceleracao y: -0.106633544
 
 
 tracao aplicada
-sustentacao: 0.9020406            sustentacao x: -3.9429445E-8            sustentacao y: 0.9020406
+sustentacao: 0.85089576            sustentacao x: -3.7193836E-8            sustentacao y: 0.85089576
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.7020406            arrasto x: 0.7020406            arrasto y: 0.0
-tracao: 1.143039            tracao x: -0.80825067            tracao y: -0.8082506
-posicao: 140.68863            posicao x: 99.48188            posicao y: 99.48189
-velocidade: 3.5704796            velocidade x: 2.5247025            velocidade y: 2.524718
-aceleracao: 0.1502037            aceleracao x: -0.10621011            aceleracao y: -0.10620999
+arrasto: 0.6508958            arrasto x: 0.6508958            arrasto y: 0.0
+tracao: 1.0713024            tracao x: -0.7575252            tracao y: -0.75752527
+posicao: 124.76635            posicao x: 88.22313            posicao y: 88.22314
+velocidade: 3.0142891            velocidade x: 2.1314268            velocidade y: 2.131422
+aceleracao: 0.15079688            aceleracao x: -0.10662949            aceleracao y: -0.10662949
 
 
 tracao aplicada
-sustentacao: 0.90065956            sustentacao x: -3.9369084E-8            sustentacao y: 0.90065956
+sustentacao: 0.85173595            sustentacao x: -3.723056E-8            sustentacao y: 0.85173595
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.7006596            arrasto x: 0.7006596            arrasto y: 0.0
-tracao: 1.141101            tracao x: -0.80688024            tracao y: -0.8068803
-posicao: 144.10889            posicao x: 101.90036            posicao y: 101.90038
-velocidade: 3.4202607            velocidade x: 2.4184818            velocidade y: 2.4184973
-aceleracao: 0.15021878            aceleracao x: -0.10622072            aceleracao y: -0.10622072
+arrasto: 0.65173596            arrasto x: 0.65173596            arrasto y: 0.0
+tracao: 1.0724802            tracao x: -0.758358            tracao y: -0.75835806
+posicao: 127.62986            posicao x: 90.24793            posicao y: 90.24794
+velocidade: 2.8635027            velocidade x: 2.0248046            velocidade y: 2.0247998
+aceleracao: 0.15078641            aceleracao x: -0.1066221            aceleracao y: -0.1066221
 
 
 tracao aplicada
-sustentacao: 0.8989778            sustentacao x: -3.9295568E-8            sustentacao y: 0.8989778
+sustentacao: 0.85309654            sustentacao x: -3.7290036E-8            sustentacao y: 0.85309654
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6989778            arrasto x: 0.6989778            arrasto y: 0.0
-tracao: 1.138741            tracao x: -0.8052114            tracao y: -0.8052116
-posicao: 147.3789            posicao x: 104.21261            posicao y: 104.21265
-velocidade: 3.2700236            velocidade x: 2.3122482            velocidade y: 2.3122635
-aceleracao: 0.15023717            aceleracao x: -0.10623366            aceleracao y: -0.106233776
+arrasto: 0.65309656            arrasto x: 0.65309656            arrasto y: 0.0
+tracao: 1.0743877            tracao x: -0.75970674            tracao y: -0.7597068
+posicao: 130.34259            posicao x: 92.16613            posicao y: 92.16613
+velocidade: 2.712733            velocidade x: 1.9181943            velocidade y: 1.9181895
+aceleracao: 0.15076965            aceleracao x: -0.10661024            aceleracao y: -0.10661024
 
 
 tracao aplicada
-sustentacao: 0.8959985            sustentacao x: -3.9165336E-8            sustentacao y: 0.8959985
+sustentacao: 0.85447586            sustentacao x: -3.7350325E-8            sustentacao y: 0.85447586
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6959985            arrasto x: 0.6959985            arrasto y: 0.0
-tracao: 1.1345603            tracao x: -0.80225515            tracao y: -0.8022555
-posicao: 150.49867            posicao x: 106.4186            posicao y: 106.418655
-velocidade: 3.1197536            velocidade x: 2.2059915            velocidade y: 2.2060065
-aceleracao: 0.15026991            aceleracao x: -0.10625672            aceleracao y: -0.10625702
+arrasto: 0.65447587            arrasto x: 0.65447587            arrasto y: 0.0
+tracao: 1.0763212            tracao x: -0.76107407            tracao y: -0.76107407
+posicao: 132.90457            posicao x: 93.97773            posicao y: 93.97772
+velocidade: 2.5619805            velocidade x: 1.811596            velocidade y: 1.8115914
+aceleracao: 0.15075266            aceleracao x: -0.10659826            aceleracao y: -0.1065982
 
 
 tracao aplicada
-sustentacao: 0.8930888            sustentacao x: -3.9038152E-8            sustentacao y: 0.8930888
+sustentacao: 0.8565394            sustentacao x: -3.744053E-8            sustentacao y: 0.8565394
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6930888            arrasto x: 0.6930888            arrasto y: 0.0
-tracao: 1.1304775            tracao x: -0.7993682            tracao y: -0.7993686
-posicao: 153.46811            posicao x: 108.51831            posicao y: 108.51838
-velocidade: 2.9694517            velocidade x: 2.0997121            velocidade y: 2.0997267
-aceleracao: 0.15030207            aceleracao x: -0.10627943            aceleracao y: -0.10627979
+arrasto: 0.65653944            arrasto x: 0.65653944            arrasto y: 0.0
+tracao: 1.0792145            tracao x: -0.76311994            tracao y: -0.7631198
+posicao: 135.31584            posicao x: 95.68275            posicao y: 95.68273
+velocidade: 2.4112527            velocidade x: 1.7050154            velocidade y: 1.705011
+aceleracao: 0.15072754            aceleracao x: -0.106580555            aceleracao y: -0.10658038
 
 
 tracao aplicada
-sustentacao: 0.8893015            sustentacao x: -3.8872606E-8            sustentacao y: 0.8893015
+sustentacao: 0.8584623            sustentacao x: -3.752458E-8            sustentacao y: 0.8584623
 peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6893015            arrasto x: 0.6893015            arrasto y: 0.0
-tracao: 1.1251638            tracao x: -0.7956107            tracao y: -0.7956112
-posicao: 156.28722            posicao x: 110.51171            posicao y: 110.511795
-velocidade: 2.8191075            velocidade x: 1.9934028            velocidade y: 1.993417
-aceleracao: 0.15034434            aceleracao x: -0.106309295            aceleracao y: -0.10630971
-
-
-tracao aplicada
-sustentacao: 0.88538444            sustentacao x: -3.8701387E-8            sustentacao y: 0.88538444
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.68538445            arrasto x: 0.68538445            arrasto y: 0.0
-tracao: 1.1196684            tracao x: -0.7917248            tracao y: -0.7917254
-posicao: 158.95595            posicao x: 112.39877            posicao y: 112.39887
-velocidade: 2.668719            velocidade x: 1.8870624            velocidade y: 1.8870761
-aceleracao: 0.15038842            aceleracao x: -0.10634041            aceleracao y: -0.106340945
-
-
-tracao aplicada
-sustentacao: 0.8818574            sustentacao x: -3.854721E-8            sustentacao y: 0.8818574
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6818574            arrasto x: 0.6818574            arrasto y: 0.0
-tracao: 1.1147206            tracao x: -0.78822607            tracao y: -0.7882268
-posicao: 161.47423            posicao x: 114.17947            posicao y: 114.17958
-velocidade: 2.5182905            velocidade x: 1.7806938            velocidade y: 1.7807068
-aceleracao: 0.15042855            aceleracao x: -0.10636872            aceleracao y: -0.106369376
-
-
-tracao aplicada
-sustentacao: 0.87803733            sustentacao x: -3.8380232E-8            sustentacao y: 0.87803733
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67803735            arrasto x: 0.67803735            arrasto y: 0.0
-tracao: 1.109362            tracao x: -0.784437            tracao y: -0.7844378
-posicao: 163.84206            posicao x: 115.85376            posicao y: 115.85389
-velocidade: 2.367818            velocidade x: 1.674294            velocidade y: 1.6743064
-aceleracao: 0.15047243            aceleracao x: -0.106399715            aceleracao y: -0.10640043
-
-
-tracao aplicada
-sustentacao: 0.87505305            sustentacao x: -3.8249784E-8            sustentacao y: 0.87505305
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67505306            arrasto x: 0.67505306            arrasto y: 0.0
-tracao: 1.1051762            tracao x: -0.7814771            tracao y: -0.781478
-posicao: 166.05936            posicao x: 117.42163            posicao y: 117.42177
-velocidade: 2.217311            velocidade x: 1.5678699            velocidade y: 1.5678815
-aceleracao: 0.15050699            aceleracao x: -0.10642409            aceleracao y: -0.10642493
-
-
-tracao aplicada
-sustentacao: 0.8722042            sustentacao x: -3.8125254E-8            sustentacao y: 0.8722042
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6722042            arrasto x: 0.6722042            arrasto y: 0.0
-tracao: 1.1011806            tracao x: -0.77865183            tracao y: -0.77865267
-posicao: 168.12614            posicao x: 118.88306            posicao y: 118.8832
-velocidade: 2.0667708            velocidade x: 1.4614222            velocidade y: 1.4614329
-aceleracao: 0.15054032            aceleracao x: -0.1064477            aceleracao y: -0.10644847
-
-
-tracao aplicada
-sustentacao: 0.8700553            sustentacao x: -3.8031327E-8            sustentacao y: 0.8700553
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6700553            arrasto x: 0.6700553            arrasto y: 0.0
-tracao: 1.0981668            tracao x: -0.77652067            tracao y: -0.7765216
-posicao: 170.04234            posicao x: 120.238014            posicao y: 120.23817
-velocidade: 1.9162053            velocidade x: 1.3549569            velocidade y: 1.3549666
-aceleracao: 0.15056545            aceleracao x: -0.1064654            aceleracao y: -0.10646629
-
-
-tracao aplicada
-sustentacao: 0.8689717            sustentacao x: -3.798396E-8            sustentacao y: 0.8689717
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6689717            arrasto x: 0.6689717            arrasto y: 0.0
-tracao: 1.096647            tracao x: -0.7754461            tracao y: -0.7754471
-posicao: 171.80797            posicao x: 121.486496            posicao y: 121.48666
-velocidade: 1.765627            velocidade x: 1.2484825            velocidade y: 1.2484913
-aceleracao: 0.15057826            aceleracao x: -0.10647446            aceleracao y: -0.10647535
-
-
-tracao aplicada
-sustentacao: 0.8682761            sustentacao x: -3.7953555E-8            sustentacao y: 0.8682761
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66827613            arrasto x: 0.66827613            arrasto y: 0.0
-tracao: 1.0956717            tracao x: -0.7747563            tracao y: -0.7747574
-posicao: 173.423            posicao x: 122.6285            posicao y: 122.62867
-velocidade: 1.6150405            velocidade x: 1.1420022            velocidade y: 1.14201
-aceleracao: 0.15058652            aceleracao x: -0.10648024            aceleracao y: -0.106481254
-
-
-tracao aplicada
-sustentacao: 0.8681704            sustentacao x: -3.7948933E-8            sustentacao y: 0.8681704
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6681704            arrasto x: 0.6681704            arrasto y: 0.0
-tracao: 1.0955234            tracao x: -0.77465147            tracao y: -0.77465254
-posicao: 174.88747            posicao x: 123.664024            posicao y: 123.6642
-velocidade: 1.4644526            velocidade x: 1.035521            velocidade y: 1.0355278
-aceleracao: 0.15058778            aceleracao x: -0.106481135            aceleracao y: -0.10648215
-
-
-tracao aplicada
-sustentacao: 0.86790824            sustentacao x: -3.7937475E-8            sustentacao y: 0.86790824
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66790825            arrasto x: 0.66790825            arrasto y: 0.0
-tracao: 1.0951557            tracao x: -0.7743915            tracao y: -0.77439255
-posicao: 176.20134            posicao x: 124.59306            posicao y: 124.59325
-velocidade: 1.3138618            velocidade x: 0.92903775            velocidade y: 0.92904353
-aceleracao: 0.1505908            aceleracao x: -0.10648328            aceleracao y: -0.106484294
-
-
-tracao aplicada
-sustentacao: 0.86790144            sustentacao x: -3.7937177E-8            sustentacao y: 0.86790144
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66790146            arrasto x: 0.66790146            arrasto y: 0.0
-tracao: 1.0951461            tracao x: -0.7743847            tracao y: -0.7743858
-posicao: 177.3646            posicao x: 125.41562            posicao y: 125.4158
-velocidade: 1.1632711            velocidade x: 0.82255447            velocidade y: 0.8225592
-aceleracao: 0.15059087            aceleracao x: -0.10648328            aceleracao y: -0.10648435
-
-
-tracao aplicada
-sustentacao: 0.86823744            sustentacao x: -3.7951864E-8            sustentacao y: 0.86823744
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66823745            arrasto x: 0.66823745            arrasto y: 0.0
-tracao: 1.0956174            tracao x: -0.774718            tracao y: -0.77471906
-posicao: 178.37729            posicao x: 126.13169            posicao y: 126.13188
-velocidade: 1.012684            velocidade x: 0.7160739            velocidade y: 0.71607757
-aceleracao: 0.15058702            aceleracao x: -0.1064806            aceleracao y: -0.10648161
-
-
-tracao aplicada
-sustentacao: 0.86846685            sustentacao x: -3.7961893E-8            sustentacao y: 0.86846685
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66846687            arrasto x: 0.66846687            arrasto y: 0.0
-tracao: 1.0959392            tracao x: -0.77494544            tracao y: -0.7749466
-posicao: 179.23938            posicao x: 126.74129            posicao y: 126.74148
-velocidade: 0.8620997            velocidade x: 0.60959524            velocidade y: 0.60959786
-aceleracao: 0.15058428            aceleracao x: -0.10647863            aceleracao y: -0.106479704
-
-
-tracao aplicada
-sustentacao: 0.8689406            sustentacao x: -3.79826E-8            sustentacao y: 0.8689406
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6689406            arrasto x: 0.6689406            arrasto y: 0.0
-tracao: 1.0966035            tracao x: -0.7754152            tracao y: -0.7754164
-posicao: 179.9509            posicao x: 127.24441            posicao y: 127.2446
-velocidade: 0.711521            velocidade x: 0.5031206            velocidade y: 0.5031221
-aceleracao: 0.15057868            aceleracao x: -0.10647464            aceleracao y: -0.10647577
-
-
-tracao aplicada
-sustentacao: 0.86923784            sustentacao x: -3.7995594E-8            sustentacao y: 0.86923784
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66923785            arrasto x: 0.66923785            arrasto y: 0.0
-tracao: 1.0970204            tracao x: -0.77571005            tracao y: -0.7757111
-posicao: 180.51184            posicao x: 127.64105            posicao y: 127.64125
-velocidade: 0.5609458            velocidade x: 0.39664835            velocidade y: 0.39664882
-aceleracao: 0.15057522            aceleracao x: -0.106472254            aceleracao y: -0.10647327
-
-
-tracao aplicada
-sustentacao: 0.86960065            sustentacao x: -3.8011454E-8            sustentacao y: 0.86960065
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66960067            arrasto x: 0.66960067            arrasto y: 0.0
-tracao: 1.0975292            tracao x: -0.7760697            tracao y: -0.77607095
-posicao: 180.92223            posicao x: 127.93123            posicao y: 127.93143
-velocidade: 0.41037494            velocidade x: 0.29017925            velocidade y: 0.29017854
-aceleracao: 0.15057088            aceleracao x: -0.106469095            aceleracao y: -0.10647029
-
-
-tracao aplicada
-sustentacao: 0.87000805            sustentacao x: -3.802926E-8            sustentacao y: 0.87000805
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67000806            arrasto x: 0.67000806            arrasto y: 0.0
-tracao: 1.0981005            tracao x: -0.77647376            tracao y: -0.7764749
-posicao: 181.18204            posicao x: 128.11494            posicao y: 128.11514
-velocidade: 0.25980884            velocidade x: 0.1837135            velocidade y: 0.18371171
-aceleracao: 0.15056607            aceleracao x: -0.10646576            aceleracao y: -0.10646683
-
-
-tracao aplicada
-sustentacao: 0.8702554            sustentacao x: -3.804007E-8            sustentacao y: 0.8702554
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6702554            arrasto x: 0.6702554            arrasto y: 0.0
-tracao: 1.0984474            tracao x: -0.77671903            tracao y: -0.7767202
-posicao: 181.29128            posicao x: 128.1922            posicao y: 128.19238
-velocidade: 0.10924568            velocidade x: 0.077249825            velocidade y: 0.077246904
-aceleracao: 0.15056317            aceleracao x: -0.10646367            aceleracao y: -0.1064648
-
-
-tracao aplicada
-sustentacao: 0.87045276            sustentacao x: -3.80487E-8            sustentacao y: 0.87045276
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6704528            arrasto x: 0.6704528            arrasto y: 0.0
-tracao: 1.0987241            tracao x: -0.7769147            tracao y: -0.77691585
-posicao: 181.24997            posicao x: 128.163            posicao y: 128.16316
-velocidade: 0.041315082            velocidade x: -0.029212177            velocidade y: -0.02921617
-aceleracao: 0.15056077            aceleracao x: -0.106462            aceleracao y: -0.106463075
-
-
-tracao aplicada
-sustentacao: 0.8705002            sustentacao x: -3.805077E-8            sustentacao y: 0.8705002
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6705002            arrasto x: 0.6705002            arrasto y: 0.0
-tracao: 1.0987908            tracao x: -0.77696186            tracao y: -0.77696294
-posicao: 181.05807            posicao x: 128.02731            posicao y: 128.02748
-velocidade: 0.19187538            velocidade x: -0.13567388            velocidade y: -0.13567889
-aceleracao: 0.1505603            aceleracao x: -0.106461704            aceleracao y: -0.10646272
-
-
-tracao aplicada
-sustentacao: 0.8705958            sustentacao x: -3.8054953E-8            sustentacao y: 0.8705958
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6705958            arrasto x: 0.6705958            arrasto y: 0.0
-tracao: 1.0989249            tracao x: -0.77705675            tracao y: -0.77705777
-posicao: 180.71565            posicao x: 127.78518            posicao y: 127.78534
-velocidade: 0.3424346            velocidade x: -0.24213487            velocidade y: -0.24214083
-aceleracao: 0.15055925            aceleracao x: -0.10646099            aceleracao y: -0.10646194
-
-
-tracao aplicada
-sustentacao: 0.8708327            sustentacao x: -3.8065306E-8            sustentacao y: 0.8708327
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6708327            arrasto x: 0.6708327            arrasto y: 0.0
-tracao: 1.0992569            tracao x: -0.77729154            tracao y: -0.7772925
-posicao: 180.22266            posicao x: 127.436584            posicao y: 127.43674
-velocidade: 0.4929909            velocidade x: -0.34859377            velocidade y: -0.34860063
-aceleracao: 0.15055625            aceleracao x: -0.1064589            aceleracao y: -0.1064598
-
-
-tracao aplicada
-sustentacao: 0.87126714            sustentacao x: -3.8084295E-8            sustentacao y: 0.87126714
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67126715            arrasto x: 0.67126715            arrasto y: 0.0
-tracao: 1.0998664            tracao x: -0.77772254            tracao y: -0.77772343
-posicao: 179.57912            posicao x: 126.98154            posicao y: 126.98168
-velocidade: 0.64354223            velocidade x: -0.45504922            velocidade y: -0.4550569
-aceleracao: 0.15055132            aceleracao x: -0.106455445            aceleracao y: -0.10645628
-
-
-tracao aplicada
-sustentacao: 0.871729            sustentacao x: -3.8104485E-8            sustentacao y: 0.871729
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.671729            arrasto x: 0.671729            arrasto y: 0.0
-tracao: 1.1005142            tracao x: -0.77818054            tracao y: -0.7781815
-posicao: 178.78503            posicao x: 126.42004            posicao y: 126.42017
-velocidade: 0.79408807            velocidade x: -0.5615008            velocidade y: -0.5615094
-aceleracao: 0.1505459            aceleracao x: -0.10645157            aceleracao y: -0.106452465
-
-
-tracao aplicada
-sustentacao: 0.87232393            sustentacao x: -3.813049E-8            sustentacao y: 0.87232393
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67232394            arrasto x: 0.67232394            arrasto y: 0.0
-tracao: 1.1013483            tracao x: -0.77877045            tracao y: -0.7787713
-posicao: 177.84041            posicao x: 125.75209            posicao y: 125.75222
-velocidade: 0.9446268            velocidade x: -0.66794735            velocidade y: -0.6679567
-aceleracao: 0.15053871            aceleracao x: -0.106446564            aceleracao y: -0.10644734
-
-
-tracao aplicada
-sustentacao: 0.87282676            sustentacao x: -3.8152468E-8            sustentacao y: 0.87282676
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67282677            arrasto x: 0.67282677            arrasto y: 0.0
-tracao: 1.1020536            tracao x: -0.7792692            tracao y: -0.77927
-posicao: 176.74525            posicao x: 124.9777            posicao y: 124.97782
-velocidade: 1.0951598            velocidade x: -0.77438986            velocidade y: -0.77439994
-aceleracao: 0.15053295            aceleracao x: -0.10644251            aceleracao y: -0.10644323
-
-
-tracao aplicada
-sustentacao: 0.87322104            sustentacao x: -3.8169706E-8            sustentacao y: 0.87322104
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67322105            arrasto x: 0.67322105            arrasto y: 0.0
-tracao: 1.1026065            tracao x: -0.7796602            tracao y: -0.77966094
-posicao: 175.49956            posicao x: 124.09687            posicao y: 124.096985
-velocidade: 1.2456881            velocidade x: -0.8808291            velocidade y: -0.8808398
-aceleracao: 0.15052827            aceleracao x: -0.10643923            aceleracao y: -0.10643989
-
-
-tracao aplicada
-sustentacao: 0.87367564            sustentacao x: -3.8189576E-8            sustentacao y: 0.87367564
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67367566            arrasto x: 0.67367566            arrasto y: 0.0
-tracao: 1.1032443            tracao x: -0.7801112            tracao y: -0.7801119
-posicao: 174.10335            posicao x: 123.109604            posicao y: 123.10971
-velocidade: 1.3962111            velocidade x: -0.9872647            velocidade y: -0.9872761
-aceleracao: 0.15052313            aceleracao x: -0.1064356            aceleracao y: -0.10643625
-
-
-tracao aplicada
-sustentacao: 0.8737174            sustentacao x: -3.8191402E-8            sustentacao y: 0.8737174
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.67371744            arrasto x: 0.67371744            arrasto y: 0.0
-tracao: 1.103303            tracao x: -0.7801527            tracao y: -0.78015333
-posicao: 172.55661            posicao x: 122.01591            posicao y: 122.016
-velocidade: 1.5467339            velocidade x: -1.0936999            velocidade y: -1.093712
-aceleracao: 0.15052266            aceleracao x: -0.1064353            aceleracao y: -0.106435895
-
-
-tracao aplicada
-sustentacao: 0.87374246            sustentacao x: -3.8192496E-8            sustentacao y: 0.87374246
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6737425            arrasto x: 0.6737425            arrasto y: 0.0
-tracao: 1.103338            tracao x: -0.78017753            tracao y: -0.78017807
-posicao: 170.85936            posicao x: 120.81577            posicao y: 120.81585
-velocidade: 1.6972561            velocidade x: -1.200135            velocidade y: -1.2001476
-aceleracao: 0.15052232            aceleracao x: -0.10643512            aceleracao y: -0.1064356
-
-
-tracao aplicada
-sustentacao: 0.8732537            sustentacao x: -3.817113E-8            sustentacao y: 0.8732537
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6732537            arrasto x: 0.6732537            arrasto y: 0.0
-tracao: 1.1026523            tracao x: -0.7796927            tracao y: -0.77969325
-posicao: 169.01158            posicao x: 119.5092            posicao y: 119.50926
-velocidade: 1.8477842            velocidade x: -1.3065741            velocidade y: -1.3065872
-aceleracao: 0.1505279            aceleracao x: -0.106439054            aceleracao y: -0.10643953
-
-
-tracao aplicada
-sustentacao: 0.8723869            sustentacao x: -3.813324E-8            sustentacao y: 0.8723869
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6723869            arrasto x: 0.6723869            arrasto y: 0.0
-tracao: 1.1014367            tracao x: -0.77883315            tracao y: -0.77883357
-posicao: 167.01326            posicao x: 118.09618            posicao y: 118.09623
-velocidade: 1.9983222            velocidade x: -1.4130204            velocidade y: -1.413034
-aceleracao: 0.15053809            aceleracao x: -0.106446326            aceleracao y: -0.10644668
-
-
-tracao aplicada
-sustentacao: 0.8715051            sustentacao x: -3.8094697E-8            sustentacao y: 0.8715051
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6715051            arrasto x: 0.6715051            arrasto y: 0.0
-tracao: 1.1002            tracao x: -0.77795875            tracao y: -0.77795905
-posicao: 164.86438            posicao x: 116.576706            posicao y: 116.576744
-velocidade: 2.1488705            velocidade x: -1.519474            velocidade y: -1.5194879
-aceleracao: 0.15054846            aceleracao x: -0.10645372            aceleracao y: -0.106453955
-
-
-tracao aplicada
-sustentacao: 0.8698866            sustentacao x: -3.802395E-8            sustentacao y: 0.8698866
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6698866            arrasto x: 0.6698866            arrasto y: 0.0
-tracao: 1.0979302            tracao x: -0.7763538            tracao y: -0.7763541
-posicao: 162.56496            posicao x: 114.95077            posicao y: 114.95079
-velocidade: 2.2994382            velocidade x: -1.6259413            velocidade y: -1.6259553
-aceleracao: 0.15056759            aceleracao x: -0.10646725            aceleracao y: -0.106467485
-
-
-tracao aplicada
-sustentacao: 0.86831546            sustentacao x: -3.7955274E-8            sustentacao y: 0.86831546
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6683155            arrasto x: 0.6683155            arrasto y: 0.0
-tracao: 1.0957268            tracao x: -0.77479583            tracao y: -0.77479595
-posicao: 160.11493            posicao x: 113.218346            posicao y: 113.21835
-velocidade: 2.4500241            velocidade x: -1.7324216            velocidade y: -1.7324358
-aceleracao: 0.1505861            aceleracao x: -0.10648042            aceleracao y: -0.10648048
-
-
-tracao aplicada
-sustentacao: 0.8660318            sustentacao x: -3.7855454E-8            sustentacao y: 0.8660318
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66603184            arrasto x: 0.66603184            arrasto y: 0.0
-tracao: 1.0925244            tracao x: -0.7725314            tracao y: -0.7725314
-posicao: 157.51428            posicao x: 111.379425            posicao y: 111.37942
-velocidade: 2.6006374            velocidade x: -1.8389213            velocidade y: -1.8389354
-aceleracao: 0.15061316            aceleracao x: -0.10649961            aceleracao y: -0.10649955
-
-
-tracao aplicada
-sustentacao: 0.86341363            sustentacao x: -3.7741007E-8            sustentacao y: 0.86341363
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66341364            arrasto x: 0.66341364            arrasto y: 0.0
-tracao: 1.088853            tracao x: -0.76993537            tracao y: -0.7699353
-posicao: 154.76302            posicao x: 109.43398            posicao y: 109.43396
-velocidade: 2.751282            velocidade x: -1.9454432            velocidade y: -1.945457
-aceleracao: 0.15064447            aceleracao x: -0.106521785            aceleracao y: -0.106521666
-
-
-tracao aplicada
-sustentacao: 0.86105615            sustentacao x: -3.763796E-8            sustentacao y: 0.86105615
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.66105616            arrasto x: 0.66105616            arrasto y: 0.0
-tracao: 1.0855473            tracao x: -0.7675979            tracao y: -0.76759773
-posicao: 151.86105            posicao x: 107.381996            posicao y: 107.38196
-velocidade: 2.9019547            velocidade x: -2.051985            velocidade y: -2.0519986
-aceleracao: 0.1506727            aceleracao x: -0.10654181            aceleracao y: -0.106541574
-
-
-tracao aplicada
-sustentacao: 0.85810006            sustentacao x: -3.7508745E-8            sustentacao y: 0.85810006
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.65810007            arrasto x: 0.65810007            arrasto y: 0.0
-tracao: 1.0814025            tracao x: -0.7646672            tracao y: -0.7646669
-posicao: 148.80838            posicao x: 105.22344            posicao y: 105.22339
-velocidade: 3.052663            velocidade x: -2.1585522            velocidade y: -2.1585655
-aceleracao: 0.15070853            aceleracao x: -0.106567204            aceleracao y: -0.10656685
-
-
-tracao aplicada
-sustentacao: 0.8556596            sustentacao x: -3.740207E-8            sustentacao y: 0.8556596
-peso: 0.2            peso x: 0.0            peso y: -0.2
-arrasto: 0.6556596            arrasto x: 0.6556596            arrasto y: 0.0
-tracao: 1.0779808            tracao x: -0.76224774            tracao y: -0.7622474
-posicao: 145.60498            posicao x: 102.958305            posicao y: 102.95824
-velocidade: 3.2034013       
+arrasto: 0.6584623            arrasto x: 0.6584623            arrasto y: 0.0
+tracao: 1.0819103            tracao x: -0.76502615            tracao y: -0.76502603
+posicao: 137.57637            posicao x: 97.2812            posicao y: 97.28118
+velocidade: 2.2605488            velocidade x: 1.5984515            velocidade y: 1.5984473
+aceleracao: 0.15070403            aceleracao x: -0.1065639
