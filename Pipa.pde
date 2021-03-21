@@ -1,5 +1,5 @@
 class Pipa {
-  PVector posicao, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
+  PVector origem, posicao, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
   float x1L, x2L, y1L, y2L;
   float maxLinha, compLinha, multVetor;
   PImage pipafoto;
@@ -34,9 +34,10 @@ class Pipa {
     indiceVar = 0.0;
 
     //Outros Vetores
-    posicao = new PVector(x2L, y2L);
+    origem = new PVector(width/2,height/2);
+    posicao = new PVector(0, 0);
     velocidade = new PVector(0.0, 0.0);
-    gravidade = new PVector(0.0, -0.2); //(0, -0.2)
+    gravidade = new PVector(0.0, 0.2); //(0, 0.2)
     aceleracao = new PVector(0.0, 0.0); 
 
     //Imagem da pipa
@@ -65,7 +66,7 @@ class Pipa {
 
     //DIREÇÃO
     sustentacao = a.vento_vetor.copy();
-    sustentacao.rotate(radians(90.0));
+    sustentacao.rotate(radians(-90.0));
     sustentacao.normalize();
 
     //DIMENSÃO
@@ -147,6 +148,7 @@ class Pipa {
     //if (velocidade.mag() == 0) {
     //  teclaLiberada = false;
     //}
+    posicao.add(origem);
     posicao.add(velocidade);
     mostraVetores();
     imprimeVetores();
@@ -216,7 +218,7 @@ class Pipa {
     strokeWeight(1);
     noFill();
     stroke(0);
-    line(x1L, y1L, posicao.x, posicao.y);
+    line(origem.x, origem.y, posicao.x, posicao.y);
 
     pushMatrix();
     translate(posicao.x, posicao.y);

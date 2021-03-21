@@ -15,7 +15,7 @@ class Voadores {
 
   void adicionaObjeto() {
     if (novoObjeto.terminou()) {
-      objetosVoadores.add(new Vehicle(width, random(height*0.5, height*0.9)));
+      objetosVoadores.add(new Vehicle(width, random(height*0.1, height*0.5)));
     }
   }
 

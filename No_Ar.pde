@@ -84,28 +84,25 @@ void draw() {
     break;
 
   case 2:
-    pushMatrix();
-    translate(0, height);
-    scale(1, -1);
     background(#4B68B8);
     noFill();
     strokeWeight(1);
     stroke(0);
-    ellipse(0, 0, 500, 500);
+    ellipse(pipa.origem.x, pipa.origem.y, 500, 500);
 
     contador.mostrar(30, height-50);
     ar1.soprar();
     ar1.mostraVetorAr();
 
     //PIPA
-    pipa.pesar();
+    //pipa.pesar();
 
     if (pipa.ventoSoprando(ar1)) {
-      pipa.sustentar(ar1);
-      pipa.arrastar(ar1);
-      pipa.tracionar();
+      //pipa.sustentar(ar1);
+      //pipa.arrastar(ar1);
+      //pipa.tracionar();
     }
-    pipa.atualizar();
+    //pipa.atualizar();
     //pipa.margens();
     pipa.mostrar(ar1);
 
@@ -129,14 +126,13 @@ void draw() {
     //  }
 
     //v1.mostrar();
+    
 
     //OBJETOS VOADORES
-
     voadores.adicionaObjeto();
     voadores.atualizaObjetos();
     voadores.debugFlowField();
     voadores.gerarFlowField();
-    popMatrix();
     break;
   }
 }
@@ -162,10 +158,10 @@ void mousePressed() {
 }
 
 void escreveTexto(String texto, int tamanho, int posicao_x, int posicao_y) {
-  pushMatrix();
-  translate(posicao_x, posicao_y);
-  scale(1, -1);
+  //pushMatrix();
+  //translate(posicao_x, posicao_y);
+  //scale(1, -1);
   textSize(tamanho);
-  text(texto, 0, 0);
-  popMatrix();
+  text(texto, posicao_x, posicao_y);
+  //popMatrix();
 }
