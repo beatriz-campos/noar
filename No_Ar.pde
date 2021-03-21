@@ -95,14 +95,14 @@ void draw() {
     ar1.mostraVetorAr();
 
     //PIPA
-    //pipa.pesar();
+    pipa.pesar();
 
     if (pipa.ventoSoprando(ar1)) {
-      //pipa.sustentar(ar1);
-      //pipa.arrastar(ar1);
-      //pipa.tracionar();
+      pipa.sustentar(ar1);
+      pipa.arrastar(ar1);
+      pipa.tracionar();
     }
-    //pipa.atualizar();
+    pipa.atualizar();
     //pipa.margens();
     pipa.mostrar(ar1);
 

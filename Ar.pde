@@ -5,8 +5,8 @@ class Ar {
   boolean vento;
 
   Ar() {
-    velocidadeVento = 1.0;
-    velocidadeBase = 1.0;
+    velocidadeVento = 0.8;
+    velocidadeBase = 0.5;
     vento = false;
     stroke(0, 0, 255);
     strokeWeight(5);

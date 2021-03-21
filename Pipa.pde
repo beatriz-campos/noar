@@ -1,5 +1,5 @@
 class Pipa {
-  PVector origem, posicao, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
+  PVector origem, posicao, linha, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
   float x1L, x2L, y1L, y2L;
   float maxLinha, compLinha, multVetor;
   PImage pipafoto;
@@ -36,18 +36,20 @@ class Pipa {
     //Outros Vetores
     origem = new PVector(width/2,height/2);
     posicao = new PVector(0, 0);
+    linha = new PVector(0,0);
     velocidade = new PVector(0.0, 0.0);
     gravidade = new PVector(0.0, 0.2); //(0, 0.2)
     aceleracao = new PVector(0.0, 0.0); 
 
     //Imagem da pipa
     imageMode(CENTER);
-    pipafoto = loadImage("pipa.png");
+    pipafoto = loadImage("pipaPraCima.png");
     pipafoto.resize(100, 100);
 
     massa = 1.0;
 
     multVetor = 20;
+    posicao.add(origem);
   }
 
   void aplicarForca(PVector forca) {
@@ -100,7 +102,7 @@ class Pipa {
 
   void tracionar() {
     //DIREÇÃO
-    tracao = posicao.copy();
+    tracao = PVector.sub(posicao,origem);
     tracao.normalize();
     tracao.mult(-1);
 
@@ -135,20 +137,8 @@ class Pipa {
   }
 
   void atualizar() {
-    //if (teclaLiberada) {
-    //  if (velocidade.mag() > 0.2) {
     //    velocidade.setMag(lerp(velocidade.mag(), 0.0, 0.05));
-    //  } else {
-    //    velocidade.setMag(0.0);
-    //  }
-    //} else {
-      velocidade.add(aceleracao);
-    //}
-
-    //if (velocidade.mag() == 0) {
-    //  teclaLiberada = false;
-    //}
-    posicao.add(origem);
+    velocidade.add(aceleracao);
     posicao.add(velocidade);
     mostraVetores();
     imprimeVetores();
