@@ -2,6 +2,7 @@ import org.joda.time.*;
 import processing.video.*;
 Movie abertura;
 PImage fundoMenu;
+Voadores voadores;
 
 Cronometro contador;
 Cronometro apareceVeiculo;
@@ -9,7 +10,7 @@ int tempoCronometro;
 
 Ar ar1;
 Pipa pipa;
-Veiculo v1;
+Carro v1;
 
 PrintWriter output;
 
@@ -20,14 +21,12 @@ boolean comecarJogo;
 void setup() {
   size(1280, 720);
   contador = new Cronometro();
-
-  //tempoCronometro = 5000;
-  apareceVeiculo = new Cronometro();
+  apareceVeiculo = new Cronometro(3, 6, 25);
 
   contador.iniciar();
   pipa = new Pipa();
   ar1 = new Ar();
-  v1 =  new Veiculo();
+  v1 =  new Carro();
 
   output = createWriter("console.txt");
 
@@ -36,9 +35,10 @@ void setup() {
 
   fundoMenu = loadImage("tela abertura.png");
 
-  menu = 0;
+  menu = 2;
 
   comecarJogo = false;
+  voadores = new Voadores();
 }
 
 
@@ -93,7 +93,7 @@ void draw() {
     stroke(0);
     ellipse(0, 0, 500, 500);
 
-    //contador.mostrar(30, 50);
+    contador.mostrar(30, height-50);
     ar1.soprar();
     ar1.mostraVetorAr();
 
@@ -129,6 +129,13 @@ void draw() {
     //  }
 
     //v1.mostrar();
+
+    //OBJETOS VOADORES
+
+    voadores.adicionaObjeto();
+    voadores.atualizaObjetos();
+    voadores.debugFlowField();
+    voadores.gerarFlowField();
     popMatrix();
     break;
   }
