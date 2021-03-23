@@ -11,8 +11,8 @@ class Pipa {
 
   Pipa() {
     //Linha
-    x1L = 0; // 0
-    y1L = 0; //0
+    x1L = 1; // 0
+    y1L = 1; //0
     x2L = 100;  // 0 
     y2L = 100; // 0
     maxLinha = 0.0;
@@ -29,7 +29,7 @@ class Pipa {
 
     //tracao
     tracao = new PVector(0.0, 0.0);
-    variacaotracao = .01;
+    variacaotracao = 1;
     teclaLiberada = false;
     indiceVar = 0.0;
 
@@ -153,7 +153,7 @@ class Pipa {
     aceleracao.mult(0.0);
   }
 
-  //mostra vetor preto e com vaor da magnitude
+  //mostra vetor preto e com valor da magnitude
   void mostraVetor(String nomeVetor, int pixelX, int pixelY, PVector v, int tamanhoTexto) {
     PVector vetorTemp = v.copy();
     strokeWeight(2);
@@ -221,7 +221,10 @@ class Pipa {
     pushMatrix();
     translate(posicao.x, posicao.y);
     rotate(a.vento_vetor.heading());
-    image(pipafoto, 0, 0);
+    int tamanhoImg = int(posicao.y);
+    tamanhoImg = int(map(tamanhoImg,0,height,100,50));
+    tamanhoImg = constrain(tamanhoImg, 50, 100);
+    image(pipafoto, 0, 0,tamanhoImg,tamanhoImg);
     popMatrix();
   }
 

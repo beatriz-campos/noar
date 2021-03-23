@@ -1,8 +1,8 @@
-class Veiculo {
+class Carro {
   PImage caminhaoFoto;
   int xV, yV;
 
-  Veiculo() {
+  Carro() {
     //Imagem do caminhão
     imageMode(CENTER);
     caminhaoFoto = loadImage("caminhao.png");
