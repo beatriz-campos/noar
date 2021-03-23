@@ -3,7 +3,7 @@ class Cronometro {
   boolean sortearDnv;
   MutableDateTime tempoTela;
 
-  // cronômetro que reseta várias vezes
+  // cronômetro com tempos aleatórios
   Cronometro(int tempo, int _minTempo, int _maxTempo) {
     tempoTotal = tempo * 1000;
     minTempo = _minTempo * 1000;
@@ -11,7 +11,11 @@ class Cronometro {
     sortearDnv = true;
   }
 
-  // cronômetro que apenas registra o tempo
+  Cronometro(int tempo) {
+    tempoTotal = tempo * 1000;
+  }
+
+  //usando para ser contador de tempo
   Cronometro() {
     sortearDnv = false;
   }
@@ -25,7 +29,7 @@ class Cronometro {
     int tempo = millis() - tempoSalvo;
     tempoTela.setMillis(tempo);
     fill(0);
-    escreveTexto(tempoTela.toString().substring(11, 23),32,posX, posY);
+    escreveTexto(tempoTela.toString().substring(11, 23), 32, posX, posY);
   }
 
   boolean terminou() {

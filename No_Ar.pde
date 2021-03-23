@@ -4,8 +4,7 @@ Movie abertura;
 PImage fundoMenu;
 Voadores voadores;
 
-Cronometro contador;
-Cronometro apareceVeiculo;
+Cronometro contador, apareceVeiculo, menuChuvaDeTrens, tempoChuvaDeTrens;
 int tempoCronometro;
 
 Ar ar1;
@@ -16,7 +15,7 @@ PrintWriter output;
 
 int menu;
 
-boolean comecarJogo;
+boolean comecarJogo, chuvaDeTrens, popUpChuvaDeTrens;
 
 void setup() {
   size(1280, 720);
@@ -38,7 +37,11 @@ void setup() {
   menu = 2;
 
   comecarJogo = false;
+
+  chuvaDeTrens = false;
   voadores = new Voadores();
+  menuChuvaDeTrens = new Cronometro(3, 20, 30);
+  tempoChuvaDeTrens = new Cronometro(15);
 }
 
 
@@ -71,6 +74,7 @@ void draw() {
       } else {
         fill(#E835A1);
       }
+      rectMode(CORNER);
       rect(cantoBotaoX, cantoBotaoY, larguraBotao, alturaBotao, 7);
       textSize(32);
       fill(255);
@@ -126,13 +130,44 @@ void draw() {
     //  }
 
     //v1.mostrar();
-    
 
-    //OBJETOS VOADORES
-    voadores.adicionaObjeto();
-    voadores.atualizaObjetos();
-    voadores.debugFlowField();
-    voadores.gerarFlowField();
+
+    ////CHUVA DE TRENS
+    //if(menuChuvaDeTrens.terminou() && chuvaDeTrens == false) {
+    //  popUpChuvaDeTrens = true;
+    //}
+    
+    //if (popUpChuvaDeTrens) {
+    //  rectMode(CORNER);
+    //  noStroke();
+    //  fill(#E835A1);
+    //  int lX = int(width  * 0.2);
+    //  int lY = int(height * 0.3);
+    //  rect(lX, lY, 800, 170, 7);
+    //  textSize(32);
+    //  fill(255);
+    //  text("Aceitar participar do desafio Chuva De Trens? \n\n S - sim       N - não", lX+20, lY+50);
+
+    //  if(keyPressed && key == 's') {
+    //    chuvaDeTrens = true;
+    //    tempoChuvaDeTrens.iniciar();
+    //    popUpChuvaDeTrens = false;
+    //  }
+    //  else if(keyPressed && key == 'n') {
+    //    popUpChuvaDeTrens = false;
+    //  }
+    //}
+
+    ////OBJETOS VOADORES
+    //if (chuvaDeTrens) {
+    //  voadores.adicionaObjeto();
+    //  voadores.atualizaObjetos(pipa);
+    //  voadores.debugFlowField();
+    //  voadores.gerarFlowField();
+    //  if(tempoChuvaDeTrens.terminou()) {
+    //    chuvaDeTrens = false;
+    //  }
+    //}
     break;
   }
 }
@@ -148,6 +183,12 @@ void keyPressed() {
     output.flush();  // Writes the remaining data to the file
     output.close();  // Finishes the file
     exit();  // Stops the program
+  }
+  if (key == '5') {
+    popUpChuvaDeTrens = true;
+  }
+  if (key == '0') {
+    popUpChuvaDeTrens = false;
   }
 }
 

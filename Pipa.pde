@@ -141,7 +141,7 @@ class Pipa {
     velocidade.add(aceleracao);
     posicao.add(velocidade);
     mostraVetores();
-    imprimeVetores();
+    //imprimeVetores();
     aceleracao.mult(0.0);
   }
 
@@ -214,8 +214,9 @@ class Pipa {
     translate(posicao.x, posicao.y);
     rotate(a.vento_vetor.heading());
     int tamanhoImg = int(posicao.y);
-    tamanhoImg = int(map(tamanhoImg,0,height,100,50));
+    tamanhoImg = int(map(tamanhoImg,0,height,50,100));
     tamanhoImg = constrain(tamanhoImg, 50, 100);
+    imageMode(CENTER);
     image(pipafoto, 0, 0,tamanhoImg,tamanhoImg);
     popMatrix();
   }
