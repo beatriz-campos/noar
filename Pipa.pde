@@ -1,5 +1,5 @@
 class Pipa {
-  PVector posicao, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
+  PVector origem, posicao, linha, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
   float x1L, x2L, y1L, y2L;
   float maxLinha, compLinha, multVetor;
   PImage pipafoto;
@@ -34,19 +34,22 @@ class Pipa {
     indiceVar = 0.0;
 
     //Outros Vetores
-    posicao = new PVector(x2L, y2L);
+    origem = new PVector(width/2,height/2);
+    posicao = new PVector(0, 0);
+    linha = new PVector(0,0);
     velocidade = new PVector(0.0, 0.0);
-    gravidade = new PVector(0.0, -0.2); //(0, -0.2)
+    gravidade = new PVector(0.0, 0.2); //(0, 0.2)
     aceleracao = new PVector(0.0, 0.0); 
 
     //Imagem da pipa
     imageMode(CENTER);
-    pipafoto = loadImage("pipa.png");
+    pipafoto = loadImage("pipaPraCima.png");
     pipafoto.resize(100, 100);
 
     massa = 1.0;
 
     multVetor = 20;
+    posicao.add(origem);
   }
 
   void aplicarForca(PVector forca) {
@@ -65,7 +68,7 @@ class Pipa {
 
     //DIREÇÃO
     sustentacao = a.vento_vetor.copy();
-    sustentacao.rotate(radians(90.0));
+    sustentacao.rotate(radians(-90.0));
     sustentacao.normalize();
 
     //DIMENSÃO
@@ -99,7 +102,7 @@ class Pipa {
 
   void tracionar() {
     //DIREÇÃO
-    tracao = posicao.copy();
+    tracao = PVector.sub(posicao,origem);
     tracao.normalize();
     tracao.mult(-1);
 
@@ -134,22 +137,11 @@ class Pipa {
   }
 
   void atualizar() {
-    //if (teclaLiberada) {
-    //  if (velocidade.mag() > 0.2) {
     //    velocidade.setMag(lerp(velocidade.mag(), 0.0, 0.05));
-    //  } else {
-    //    velocidade.setMag(0.0);
-    //  }
-    //} else {
-      velocidade.add(aceleracao);
-    //}
-
-    //if (velocidade.mag() == 0) {
-    //  teclaLiberada = false;
-    //}
+    velocidade.add(aceleracao);
     posicao.add(velocidade);
     mostraVetores();
-    imprimeVetores();
+    //imprimeVetores();
     aceleracao.mult(0.0);
   }
 
@@ -216,14 +208,15 @@ class Pipa {
     strokeWeight(1);
     noFill();
     stroke(0);
-    line(x1L, y1L, posicao.x, posicao.y);
+    line(origem.x, origem.y, posicao.x, posicao.y);
 
     pushMatrix();
     translate(posicao.x, posicao.y);
     rotate(a.vento_vetor.heading());
     int tamanhoImg = int(posicao.y);
-    tamanhoImg = int(map(tamanhoImg,0,height,100,50));
+    tamanhoImg = int(map(tamanhoImg,0,height,50,100));
     tamanhoImg = constrain(tamanhoImg, 50, 100);
+    imageMode(CENTER);
     image(pipafoto, 0, 0,tamanhoImg,tamanhoImg);
     popMatrix();
   }

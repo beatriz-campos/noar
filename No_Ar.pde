@@ -4,8 +4,7 @@ Movie abertura;
 PImage fundoMenu;
 Voadores voadores;
 
-Cronometro contador;
-Cronometro apareceVeiculo;
+Cronometro contador, apareceVeiculo, menuChuvaDeTrens, tempoChuvaDeTrens;
 int tempoCronometro;
 
 Ar ar1;
@@ -16,7 +15,7 @@ PrintWriter output;
 
 int menu;
 
-boolean comecarJogo;
+boolean comecarJogo, chuvaDeTrens, popUpChuvaDeTrens;
 
 void setup() {
   size(1280, 720);
@@ -38,7 +37,11 @@ void setup() {
   menu = 2;
 
   comecarJogo = false;
+
+  chuvaDeTrens = false;
   voadores = new Voadores();
+  menuChuvaDeTrens = new Cronometro(3, 20, 30);
+  tempoChuvaDeTrens = new Cronometro(15);
 }
 
 
@@ -71,6 +74,7 @@ void draw() {
       } else {
         fill(#E835A1);
       }
+      rectMode(CORNER);
       rect(cantoBotaoX, cantoBotaoY, larguraBotao, alturaBotao, 7);
       textSize(32);
       fill(255);
@@ -84,14 +88,11 @@ void draw() {
     break;
 
   case 2:
-    pushMatrix();
-    translate(0, height);
-    scale(1, -1);
     background(#4B68B8);
     noFill();
     strokeWeight(1);
     stroke(0);
-    ellipse(0, 0, 500, 500);
+    ellipse(pipa.origem.x, pipa.origem.y, 500, 500);
 
     contador.mostrar(30, height-50);
     ar1.soprar();
@@ -130,13 +131,43 @@ void draw() {
 
     //v1.mostrar();
 
-    //OBJETOS VOADORES
 
-    voadores.adicionaObjeto();
-    voadores.atualizaObjetos();
-    voadores.debugFlowField();
-    voadores.gerarFlowField();
-    popMatrix();
+    ////CHUVA DE TRENS
+    //if(menuChuvaDeTrens.terminou() && chuvaDeTrens == false) {
+    //  popUpChuvaDeTrens = true;
+    //}
+    
+    //if (popUpChuvaDeTrens) {
+    //  rectMode(CORNER);
+    //  noStroke();
+    //  fill(#E835A1);
+    //  int lX = int(width  * 0.2);
+    //  int lY = int(height * 0.3);
+    //  rect(lX, lY, 800, 170, 7);
+    //  textSize(32);
+    //  fill(255);
+    //  text("Aceitar participar do desafio Chuva De Trens? \n\n S - sim       N - não", lX+20, lY+50);
+
+    //  if(keyPressed && key == 's') {
+    //    chuvaDeTrens = true;
+    //    tempoChuvaDeTrens.iniciar();
+    //    popUpChuvaDeTrens = false;
+    //  }
+    //  else if(keyPressed && key == 'n') {
+    //    popUpChuvaDeTrens = false;
+    //  }
+    //}
+
+    ////OBJETOS VOADORES
+    //if (chuvaDeTrens) {
+    //  voadores.adicionaObjeto();
+    //  voadores.atualizaObjetos(pipa);
+    //  voadores.debugFlowField();
+    //  voadores.gerarFlowField();
+    //  if(tempoChuvaDeTrens.terminou()) {
+    //    chuvaDeTrens = false;
+    //  }
+    //}
     break;
   }
 }
@@ -153,6 +184,12 @@ void keyPressed() {
     output.close();  // Finishes the file
     exit();  // Stops the program
   }
+  if (key == '5') {
+    popUpChuvaDeTrens = true;
+  }
+  if (key == '0') {
+    popUpChuvaDeTrens = false;
+  }
 }
 
 
@@ -162,10 +199,10 @@ void mousePressed() {
 }
 
 void escreveTexto(String texto, int tamanho, int posicao_x, int posicao_y) {
-  pushMatrix();
-  translate(posicao_x, posicao_y);
-  scale(1, -1);
+  //pushMatrix();
+  //translate(posicao_x, posicao_y);
+  //scale(1, -1);
   textSize(tamanho);
-  text(texto, 0, 0);
-  popMatrix();
+  text(texto, posicao_x, posicao_y);
+  //popMatrix();
 }

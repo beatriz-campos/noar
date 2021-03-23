@@ -20,14 +20,14 @@ class FlowField {
     for (int i = 0; i < cols; i++) {
       float yoff = 0;
       for (int j = 0; j < rows; j++) {
-        if(j == rows-1) {
+        if(j == 0) {
           field[i][j] = new PVector(-1,0);
         }
-        else if (j > rows/2) {
+        else if (j < rows/2) {
           float theta = map(noise(xoff, yoff), 0, 1, 0, TWO_PI);
           field[i][j] = new PVector(cos(theta), sin(theta));
         } else {
-          field[i][j] = new PVector(-1,0);
+          field[i][j] = new PVector(0,1);
         }
         yoff += .1;
       }
@@ -68,9 +68,10 @@ class FlowField {
     float arrowsize = 4;
     // Translate to position to render vector
     translate(x, y);
+    //scale(1, -1);
     stroke(0, 100);
     // Call vector heading function to get direction (note that pointing to the right is a heading of 0) and rotate
-    rotate(v.heading2D());
+    rotate(v.heading());
     // Calculate length of vector & scale it to be bigger or smaller if necessary
     float len = v.mag()*scayl;
     // Draw three lines to make an arrow (draw pointing up since we've rotate to the proper direction)

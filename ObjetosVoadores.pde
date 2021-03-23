@@ -15,20 +15,21 @@ class Voadores {
 
   void adicionaObjeto() {
     if (novoObjeto.terminou()) {
-      objetosVoadores.add(new Vehicle(width, random(height*0.5, height*0.9)));
+      objetosVoadores.add(new Vehicle(width, random(height*0.1, height*0.5)));
     }
   }
 
-  void atualizaObjetos() {
+  void atualizaObjetos(Pipa p) {
     for (int i = 0; i < objetosVoadores.size(); i++) {
       Vehicle part = objetosVoadores.get(i);
       part.follow(f);
       part.update();
       part.display();
 
-      if (part.saiuDeTela()) {
+      if (part.saiuDeTela() || part.pipaIntersec(p)) {
         objetosVoadores.remove(i);
       }
+      
     }
   }
 
