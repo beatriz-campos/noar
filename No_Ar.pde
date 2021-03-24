@@ -172,12 +172,6 @@ void draw() {
   }
 }
 
-void keyReleased() {
-  if (keyCode == UP || keyCode == DOWN) {
-    pipa.teclaLiberada = true;
-  }
-}
-
 void keyPressed() {
   if (key == ENTER) {
     output.flush();  // Writes the remaining data to the file

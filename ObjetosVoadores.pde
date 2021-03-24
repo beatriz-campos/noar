@@ -34,7 +34,7 @@ class Voadores {
   }
 
   void debugFlowField() {
-    if (keyPressed && key == ' ') {
+    if (keyPressed && key == 'd') {
       debug = !debug;
     }
 

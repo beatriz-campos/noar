@@ -1,13 +1,13 @@
 class Pipa {
   PVector origem, posicao, linha, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
   float x1L, x2L, y1L, y2L;
-  float maxLinha, compLinha, multVetor;
+  float maxLinha, compLinha, multVetor, posLimite;
   PImage pipafoto;
   float massa;
   float cSustentacao, cArrasto;
   float indiceVar;
   float variacaotracao;
-  boolean teclaLiberada;
+  boolean teclaLiberada, primeiraVez;
 
   Pipa() {
     //Linha
@@ -15,7 +15,7 @@ class Pipa {
     y1L = 1; //0
     x2L = 100;  // 0 
     y2L = 100; // 0
-    maxLinha = 0.0;
+    maxLinha = 2.0;
     compLinha = 0;
 
     //Arrasto
@@ -25,18 +25,18 @@ class Pipa {
     //Sustentacao
     cSustentacao = 0.1;
     sustentacao = new PVector(0.0, 0.0);
-    sustentacao_sem_peso = new PVector(.0,.0);
+    sustentacao_sem_peso = new PVector(.0, .0);
 
     //tracao
     tracao = new PVector(0.0, 0.0);
-    variacaotracao = 1;
+    variacaotracao = .4;
     teclaLiberada = false;
     indiceVar = 0.0;
 
     //Outros Vetores
-    origem = new PVector(width/2,height/2);
+    origem = new PVector(200, height/2);
     posicao = new PVector(0, 0);
-    linha = new PVector(0,0);
+    linha = new PVector(0, 0);
     velocidade = new PVector(0.0, 0.0);
     gravidade = new PVector(0.0, 0.2); //(0, 0.2)
     aceleracao = new PVector(0.0, 0.0); 
@@ -50,6 +50,9 @@ class Pipa {
 
     multVetor = 20;
     posicao.add(origem);
+    
+    primeiraVez = true;
+    posLimite = 0.0;
   }
 
   void aplicarForca(PVector forca) {
@@ -102,29 +105,28 @@ class Pipa {
 
   void tracionar() {
     //DIREÇÃO
-    tracao = PVector.sub(posicao,origem);
+    tracao = PVector.sub(origem, posicao);
     tracao.normalize();
-    tracao.mult(-1);
+    //tracao.mult(-1);
 
     //DIMENSÃO
     //PVector tracao_dim = PVector.add(sustentacao_sem_peso.copy(), arrasto.copy());
-    PVector tracao_dim = PVector.add(sustentacao.copy(), arrasto.copy());
+    tracao.setMag(sustentacao.mag()+arrasto.mag());
     //tracao_dim.add(gravidade.copy());
-    tracao.mult(tracao_dim.mag());
 
     if (keyPressed && keyCode == DOWN) {
-      println("tecla BAIXO");
-      output.println("tecla BAIXO");
+      //println("tração + var");
+      //output.println("tração + var");
       tracao.setMag(tracao.mag()+variacaotracao);
       aplicarForca(tracao);
-    } else if (keyPressed && keyCode == UP) {
-      println("tecla CIMA");
-      output.println("tecla CIMA");
-      tracao.setMag(tracao.mag()-variacaotracao);
+    } else if (keyPressed && key == ' ') {
+      //println("tracao aplicada");
+      //output.println("tracao aplicada");
       aplicarForca(tracao);
-    } else {
-      println("tracao aplicada");
-      output.println("tracao aplicada");
+    } else if (!(keyPressed && key == ' '))  {
+      //println("tração - var");
+      //output.println("tração - var");
+      tracao.setMag(tracao.mag()-variacaotracao);
       aplicarForca(tracao);
     }
   }
@@ -141,6 +143,21 @@ class Pipa {
     velocidade.add(aceleracao);
     posicao.add(velocidade);
     mostraVetores();
+    
+    PVector distanciaOrig = PVector.sub(posicao,origem);
+    if(distanciaOrig.mag() >= maxLinha) {
+      //println("1");
+      //if(primeiraVez) {
+        posLimite = posicao.mag();
+        //primeiraVez = false;
+        println("2");
+      //}
+      
+      
+      posicao.limit(posLimite);
+      println(posicao.mag());
+    }
+    
     //imprimeVetores();
     aceleracao.mult(0.0);
   }
@@ -214,10 +231,10 @@ class Pipa {
     translate(posicao.x, posicao.y);
     rotate(a.vento_vetor.heading());
     int tamanhoImg = int(posicao.y);
-    tamanhoImg = int(map(tamanhoImg,0,height,50,100));
+    tamanhoImg = int(map(tamanhoImg, 0, height, 50, 100));
     tamanhoImg = constrain(tamanhoImg, 50, 100);
     imageMode(CENTER);
-    image(pipafoto, 0, 0,tamanhoImg,tamanhoImg);
+    image(pipafoto, 0, 0, tamanhoImg, tamanhoImg);
     popMatrix();
   }
 
