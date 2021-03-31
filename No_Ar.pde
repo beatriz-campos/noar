@@ -17,13 +17,16 @@ int menu;
 
 boolean comecarJogo, chuvaDeTrens, popUpChuvaDeTrens;
 
+// Using this variable to decide whether to draw all the stuff
+boolean debug;
+
 void setup() {
   size(1280, 720);
   contador = new Cronometro();
   apareceVeiculo = new Cronometro(3, 6, 25);
 
   pipa = new Pipa();
-  ar1 = new Ar();
+  ar1 = new Ar(20);
   v1 =  new Carro();
 
   output = createWriter("console.txt");
@@ -41,6 +44,8 @@ void setup() {
   voadores = new Voadores();
   menuChuvaDeTrens = new Cronometro(15, 20, 30);
   tempoChuvaDeTrens = new Cronometro(20);
+
+  debug = true;
 }
 
 
@@ -93,23 +98,25 @@ void draw() {
     noFill();
     strokeWeight(1);
     stroke(0);
-    ellipse(pipa.origem.x, pipa.origem.y, 500, 500);
 
-    contador.mostrar(30, height-50);
+    if (debug) {
+      ellipse(pipa.origem.x, pipa.origem.y, 500, 500);
+      contador.mostrar(30, height-50);
+    } else contador.mostrar(30, 50);
+
     ar1.soprar();
-    ar1.mostraVetorAr();
 
     //PIPA
     pipa.pesar();
 
     if (pipa.ventoSoprando(ar1)) {
       pipa.sustentar(ar1);
-      pipa.arrastar(ar1);
       pipa.tracionar();
     }
     pipa.atualizar();
-    //pipa.margens();
+    pipa.margens();
     pipa.mostrar(ar1);
+    ar1.mostraCampo();
 
 
     //VEÍCULO
@@ -120,24 +127,26 @@ void draw() {
       apareceVeiculo.iniciar();
     }
 
-      if (v1.atravessando()) {
-        //println("veiculo atravessando, posição xV " + v1.xV + "posição xV-160 do veiculo: " + (v1.xV-160)); 
-        v1.andar();
-        v1.margens();
-      }
+    if (v1.atravessando()) {
+      //println("veiculo atravessando, posição xV " + v1.xV + "posição xV-160 do veiculo: " + (v1.xV-160)); 
+      v1.andar();
+      v1.margens();
+    }
 
-      if (v1.encontraPipa(pipa)) {
-        v1.intersecaoPipa();
-      }
+    if (v1.encontraPipa(pipa)) {
+      v1.intersecaoPipa();
+      pipa.vidas--;
+      println(pipa.vidas);
+    }
 
     v1.mostrar();
 
 
     //CHUVA DE TRENS
-    if(menuChuvaDeTrens.terminou() && chuvaDeTrens == false) {
+    if (menuChuvaDeTrens.terminou() && chuvaDeTrens == false) {
       popUpChuvaDeTrens = true;
     }
-    
+
     if (popUpChuvaDeTrens) {
       rectMode(CORNER);
       noStroke();
@@ -149,12 +158,11 @@ void draw() {
       fill(255);
       text("Aceitar participar do desafio Chuva De Trens? \n\n S - sim       N - não", lX+20, lY+50);
 
-      if(keyPressed && key == 's') {
+      if (keyPressed && key == 's') {
         chuvaDeTrens = true;
         tempoChuvaDeTrens.iniciar();
         popUpChuvaDeTrens = false;
-      }
-      else if(keyPressed && key == 'n') {
+      } else if (keyPressed && key == 'n') {
         popUpChuvaDeTrens = false;
       }
     }
@@ -165,7 +173,7 @@ void draw() {
       voadores.atualizaObjetos(pipa);
       voadores.debugFlowField();
       voadores.gerarFlowField();
-      if(tempoChuvaDeTrens.terminou()) {
+      if (tempoChuvaDeTrens.terminou()) {
         chuvaDeTrens = false;
       }
     }
@@ -185,6 +193,9 @@ void keyPressed() {
   if (key == '0') {
     popUpChuvaDeTrens = false;
   }
+  if (key == 'd') {
+    debug = !debug;
+  }
 }
 
 
@@ -194,10 +205,6 @@ void mousePressed() {
 }
 
 void escreveTexto(String texto, int tamanho, int posicao_x, int posicao_y) {
-  //pushMatrix();
-  //translate(posicao_x, posicao_y);
-  //scale(1, -1);
   textSize(tamanho);
   text(texto, posicao_x, posicao_y);
-  //popMatrix();
 }

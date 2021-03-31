@@ -1,44 +1,32 @@
 class Pipa {
-  PVector origem, posicao, linha, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracao, sustentacao_sem_peso;
-  float x1L, x2L, y1L, y2L;
-  float maxLinha, compLinha, multVetor, posLimite;
+  PVector origem, posicao, velocidade, aceleracao, gravidade, sustentacao, arrasto, tracaoV, tracaoH, forcaTotal, torque, origemPos;
+  float maxLinha, compLinha, multVetorGlobal;
+  float angulo, aVelocidade, aAceleracao;
   PImage pipafoto;
   float massa;
-  float cSustentacao, cArrasto;
-  float indiceVar;
-  float variacaotracao;
-  boolean teclaLiberada, primeiraVez;
+  int vidas;
 
   Pipa() {
     //Linha
-    x1L = 1; // 0
-    y1L = 1; //0
-    x2L = 100;  // 0 
-    y2L = 100; // 0
     maxLinha = 2.0;
-    compLinha = 0;
+    compLinha = 50.0;
+    angulo = radians(90);
 
     //Arrasto
-    cArrasto = 0.1;
     arrasto = new PVector(0.0, 0.0);
 
     //Sustentacao
-    cSustentacao = 0.1;
     sustentacao = new PVector(0.0, 0.0);
-    sustentacao_sem_peso = new PVector(.0, .0);
 
     //tracao
-    tracao = new PVector(0.0, 0.0);
-    variacaotracao = .4;
-    teclaLiberada = false;
-    indiceVar = 0.0;
+    tracaoH = new PVector(0.0, 0.0);
+    tracaoV = new PVector(0.0, 0.0);
 
     //Outros Vetores
-    origem = new PVector(200, height/2);
-    posicao = new PVector(0, 0);
-    linha = new PVector(0, 0);
+    origem = new PVector(50, height);
+    posicao = origem.copy();
     velocidade = new PVector(0.0, 0.0);
-    gravidade = new PVector(0.0, 0.2); //(0, 0.2)
+    gravidade = new PVector(0.0, 0.1); //(0, 0.2)
     aceleracao = new PVector(0.0, 0.0); 
 
     //Imagem da pipa
@@ -48,124 +36,194 @@ class Pipa {
 
     massa = 1.0;
 
-    multVetor = 20;
+    multVetorGlobal = 100;
     posicao.add(origem);
+
+    forcaTotal = new PVector(0.0, 0.0);
+    torque = new PVector(0.0, 0.0);
+    origemPos = new PVector(0.0, 0.0);
     
-    primeiraVez = true;
-    posLimite = 0.0;
+    vidas = 3;
   }
 
+
   void aplicarForca(PVector forca) {
-    PVector f = forca.copy();
-    f.div(massa);
-    aceleracao.add(f);
+    forcaTotal.add(forca);
+    //PVector f = PVector.div(forca, massa);
+    //aceleracao.add(f);
   }
 
   void pesar() {
     gravidade.mult(massa);
-    aplicarForca(gravidade);
+
+    if (posicao.y >= origem.y) {
+    } else {
+      aplicarForca(gravidade);
+    }
   }
 
   void sustentar(Ar a) {
-    //90 graus = pi/2 radianos HALF_PI
+    //90 graus = pi/2 radianos HALF_PI, o processing originalmente faz a rotação assim: sentido horário é positivo, sentido anti horario é negativo
+    sustentacao.set(0, -1);
+    sustentacao.setMag(a.achar(posicao).copy().mag());
 
-    //DIREÇÃO
-    sustentacao = a.vento_vetor.copy();
-    sustentacao.rotate(radians(-90.0));
-    sustentacao.normalize();
+    ////MAGNITUDE
+    //sustentacao = a.achar(posicao).copy();
+    //imprimeVetor(sustentacao,"vento achado"                                                                                                                                                                                     );
 
-    //DIMENSÃO
-    float velocidadeEscalar = a.vento_vetor.mag();
-    float magnitudeSustentacao = cSustentacao * sq(velocidadeEscalar);
-    sustentacao.mult(magnitudeSustentacao);
-    //sustentacao_sem_peso = sustentacao.copy();
-    sustentacao.setMag(sustentacao.mag()+gravidade.mag());
-
-    //OSCILAÇÃO
-    //sustentacao.setMag(variar(sustentacao, 4));
+    ////DIREÇÃO
+    //sustentacao.rotate(-HALF_PI);
 
     aplicarForca(sustentacao);
   }
 
   void arrastar(Ar a) {
-    //DIREÇÃO
-    arrasto = a.vento_vetor.copy();
-    arrasto.normalize();
-
-    //DIMENSÃO
-    float velocidadeEscalar = a.vento_vetor.mag();
-    float magnitudeArrasto = cArrasto * sq(velocidadeEscalar);
-    arrasto.mult(magnitudeArrasto);
-
-    //OSCILAÇÃO
-    //arrasto.setMag(variar(arrasto, 2));
-
+    //MAGNITUDE E DIREÇÃO
+    arrasto = a.achar(posicao).copy();
     aplicarForca(arrasto);
   }
 
   void tracionar() {
-    //DIREÇÃO
-    tracao = PVector.sub(origem, posicao);
-    tracao.normalize();
-    //tracao.mult(-1);
+    //MAGNITUDE
+    tracaoH = arrasto.copy();
 
-    //DIMENSÃO
-    //PVector tracao_dim = PVector.add(sustentacao_sem_peso.copy(), arrasto.copy());
-    tracao.setMag(sustentacao.mag()+arrasto.mag());
-    //tracao_dim.add(gravidade.copy());
+    //DIREÇAO
+    tracaoH.mult(-1);
+
+    float varCompLinha = 1;
 
     if (keyPressed && keyCode == DOWN) {
-      //println("tração + var");
-      //output.println("tração + var");
-      tracao.setMag(tracao.mag()+variacaotracao);
-      aplicarForca(tracao);
+      if (compLinha > 50) compLinha-=varCompLinha;
     } else if (keyPressed && key == ' ') {
-      //println("tracao aplicada");
-      //output.println("tracao aplicada");
-      aplicarForca(tracao);
-    } else if (!(keyPressed && key == ' '))  {
-      //println("tração - var");
-      //output.println("tração - var");
-      tracao.setMag(tracao.mag()-variacaotracao);
-      aplicarForca(tracao);
+    } else if (!(keyPressed && key == ' ')) {
+      compLinha+=varCompLinha;
     }
   }
 
-  float variar(PVector f, float var) {
+  void atualizar() {  
+    String sentido = "";
+    origemPos = PVector.sub(posicao, origem);
+
+    //vetor penperdicular a origem e a posicao
+    PVector pop = origemPos.copy().rotate(radians(90.0));
+
+    //angulo entre pop e forca total
+    float angForcaTotalPop = PVector.angleBetween(pop, forcaTotal);
+
+
+    //Direção do torque
+    //negativo é horário, positivo anti horario
+    float fatorHorario = 0.0;
+    if (angForcaTotalPop == radians(90.0)) {
+      torque.setMag(0.0);
+      fatorHorario = 0.0;
+    } else {
+      if (angForcaTotalPop > radians(90.0)) { //fatorHorario = POSITIVO, torque no sentido ANTI HORARIO
+        torque = pop.rotate(radians(180));
+        sentido = "SENTIDO ANTI HORARIO";
+        //escreveTexto("SENTIDO ANTI HORARIO", 20, 50, 50);
+        fatorHorario = +1;
+      } else if (angForcaTotalPop < radians(90.0) ) { //fatorHorario = NEGATIVO, torque no sentido HORARIO
+        torque = pop;
+        sentido = "SENTIDO HORARIO";
+        //escreveTexto("SENTIDO HORARIO", 20, 50, 50);
+        fatorHorario = -1;
+      }
+
+      //Magnitude do torque      
+      torque.setMag(sin(PVector.angleBetween(origemPos, forcaTotal))*forcaTotal.mag()/compLinha);
+    }
+
+    //Física linear
+    //aceleracao.add(torque);
+    //velocidade.add(aceleracao);
+    //posicao.add(velocidade);
+
+    //Física angular (?)
+
+    //gambiarra pra simular a resistencia do ar e a pipa parando
+    if (forcaTotal.mag() == 0) {
+      aVelocidade = lerp(aVelocidade, 0.0, 0.05);
+    } else {
+      aAceleracao = torque.mag()*fatorHorario;
+      aVelocidade += aAceleracao;
+    }
+
+    angulo+=aVelocidade;
+
+    //atualizando posicao
+    posicao.set(compLinha * sin(angulo), compLinha*cos(angulo), 0);
+    posicao.add(origem);
+
+
+    //DEBUG
+    if (debug) {
+      escreveTexto(sentido, 20, 50, 50);
+      mostraVetor("torque", width/2+300, height/2, torque, 20, 300000000);
+      mostraVetor("forca total", width/2+300, height/2-200, forcaTotal, 20, 3000);
+      mostraVetores();
+      escreveTexto(str(aAceleracao), 20, 100, 100);
+
+      if (aAceleracao > 0) {
+        escreveTexto("aAcel positica", 20, 300, 100);
+      } else if (aAceleracao < 0) {
+        escreveTexto("aAcel negativa", 20, 300, 100);
+      }
+      imprimeVetores();
+
+      if (gravidade.mag() > sustentacao.mag()) {
+        escreveTexto("PESO VENCE", 20, 100, 200);
+      } else if (gravidade.mag() < sustentacao.mag()) {
+        escreveTexto("SUSTENTACAO VENCE", 20, 100, 200);
+      }
+
+      float magnitudeTorque = sin(PVector.angleBetween(origemPos, forcaTotal))*forcaTotal.mag()/compLinha;
+      if (magnitudeTorque > 0) {
+        escreveTexto("Mag torque positiva", 20, 100, 250);
+      } else if (magnitudeTorque < 0) {
+        escreveTexto("Mag torque negativa", 20, 100, 250);
+      }
+      escreveTexto(str(degrees(angulo)), 20, 100, 300);
+    }
+
+
+    //limpando aceleracao
+    aceleracao.mult(0.0);
+    forcaTotal.mult(0.0);
+  }
+
+  void mostrar(Ar a) {  
+    strokeWeight(1);
+    noFill();
+    stroke(0);
+
+    int tamanhoImg = int(posicao.y);
+    tamanhoImg = int(map(tamanhoImg, 0, -height, 50, 100));
+    tamanhoImg = constrain(tamanhoImg, 50, 100);
+
+    line(origem.x, origem.y, posicao.x, posicao.y);
+    //rotate(a.vento_vetor.heading());
+    imageMode(CENTER);
+    image(pipafoto, posicao.x, posicao.y, tamanhoImg, tamanhoImg);
+    
+    for (int h = 0; h < vidas; h++) {
+      fill(255,0,0);
+      ellipse (1100 + 20*h, 60, 10, 10);
+    }
+  }
+
+
+  float variar(PVector f, float var, float indiceVar) {
     indiceVar += 0.1;
     float n = noise(indiceVar) * var;
     f.setMag(f.mag()+n);
     return f.mag();
   }
 
-  void atualizar() {
-    //    velocidade.setMag(lerp(velocidade.mag(), 0.0, 0.05));
-    velocidade.add(aceleracao);
-    posicao.add(velocidade);
-    mostraVetores();
-    
-    PVector distanciaOrig = PVector.sub(posicao,origem);
-    if(distanciaOrig.mag() >= maxLinha) {
-      //println("1");
-      //if(primeiraVez) {
-        posLimite = posicao.mag();
-        //primeiraVez = false;
-        println("2");
-      //}
-      
-      
-      posicao.limit(posLimite);
-      println(posicao.mag());
-    }
-    
-    //imprimeVetores();
-    aceleracao.mult(0.0);
-  }
-
   //mostra vetor preto e com valor da magnitude
-  void mostraVetor(String nomeVetor, int pixelX, int pixelY, PVector v, int tamanhoTexto) {
+  void mostraVetor(String nomeVetor, int pixelX, int pixelY, PVector v, int tamanhoTexto, float multVetor) {
     PVector vetorTemp = v.copy();
-    strokeWeight(2);
+    strokeWeight(1);
     stroke(0);
     line(pixelX, pixelY, (pixelX+(vetorTemp.x)*multVetor), (pixelY+(vetorTemp.y)*multVetor));
     fill(255, 0, 0);
@@ -175,36 +233,39 @@ class Pipa {
   }
 
   //mostra vetor colorido e sem valor da magnitude
-  void mostraVetor(String nomeVetor, int pixelX, int pixelY, PVector v, color c, int tamanhoTexto) {
+  void mostraVetor(String nomeVetor, int pixelX, int pixelY, PVector v, color c, int tamanhoTexto, float multVetor) {
     PVector vetorTemp = v.copy();
-    strokeWeight(2);
+    strokeWeight(1 );
     stroke(c);
     line(pixelX, pixelY, (pixelX+(vetorTemp.x)*multVetor), (pixelY+(vetorTemp.y)*multVetor));
     escreveTexto(nomeVetor, tamanhoTexto, pixelX, pixelY-40);
   }
 
   void mostraVetores() {
-    mostraVetor("", width/2, height/2-200, posicao, #FF0000, 10);
-    mostraVetor("", width/2, height/2-200, velocidade, #00ff00, 10);
-    mostraVetor("aceleracao (preto) \nposicao (vermelho) \nvelocidade (verde)", width/2, height/2-200, aceleracao, 10);
+    mostraVetor("", width/2, height/2-200, posicao, #FF0000, 10, multVetorGlobal);
+    mostraVetor("", width/2, height/2-200, velocidade, #00ff00, 10, multVetorGlobal);
+    mostraVetor("aceleracao (preto) \nposicao (vermelho) \nvelocidade (verde)", width/2, height/2-200, aceleracao, 10, multVetorGlobal);
 
-    mostraVetor("gravidade", width/2, height/2, gravidade, 20);
+    mostraVetor("gravidade", width/2, height/2, gravidade, 20, multVetorGlobal);
 
-    mostraVetor("sustentacao", width/2, height/2+200, sustentacao, 20);
+    mostraVetor("sustentacao", width/2, height/2+200, sustentacao, 20, multVetorGlobal);
 
-    mostraVetor("arrasto", width/2+300, height/2+200, arrasto, 20);
+    mostraVetor("arrasto", width/2+300, height/2+200, arrasto, 20, multVetorGlobal);
 
-    mostraVetor("tracao", width/2+300, height/2, tracao, 20);
+    mostraVetor("tracao", width/2+300, height/2-100, tracaoH, 20, multVetorGlobal);
   }
 
   void imprimeVetores() {
     imprimeVetor(sustentacao, "sustentacao");
     imprimeVetor(gravidade, "peso");
     imprimeVetor(arrasto, "arrasto");
-    imprimeVetor(tracao, "tracao");
+    //imprimeVetor(tracaoH, "tracao");
     imprimeVetor(posicao, "posicao");
-    imprimeVetor(velocidade, "velocidade");
-    imprimeVetor(aceleracao, "aceleracao");
+    println("velocidade: " + aVelocidade);
+    //imprimeVetor(velocidade, "velocidade");
+    //imprimeVetor(aceleracao, "aceleracao");
+    println("maxLinha: " + " " + maxLinha);
+    println("compLinha: " + " " + compLinha);
     println("\n");
     output.println("\n");
   }
@@ -215,27 +276,10 @@ class Pipa {
   }
 
   void margens() {
-    if (posicao.x >= width) posicao.x = width;
-    if (posicao.x <= 0) posicao.x = 0;
-    if (posicao.y >= height) posicao.y = height;
-    if (posicao.y <= 0) posicao.y = 0;
-  }
-
-  void mostrar(Ar a) {  
-    strokeWeight(1);
-    noFill();
-    stroke(0);
-    line(origem.x, origem.y, posicao.x, posicao.y);
-
-    pushMatrix();
-    translate(posicao.x, posicao.y);
-    rotate(a.vento_vetor.heading());
-    int tamanhoImg = int(posicao.y);
-    tamanhoImg = int(map(tamanhoImg, 0, height, 50, 100));
-    tamanhoImg = constrain(tamanhoImg, 50, 100);
-    imageMode(CENTER);
-    image(pipafoto, 0, 0, tamanhoImg, tamanhoImg);
-    popMatrix();
+    //if (posicao.x >= width) posicao.x = width;
+    //if (posicao.x <= 0) posicao.x = 0;
+    if (posicao.y >= origem.y) posicao.y = origem.y;
+    //if (posicao.y <= 0) posica o.y = 0;
   }
 
   boolean ventoSoprando(Ar a) {

@@ -3,14 +3,10 @@ class Voadores {
   ArrayList<Vehicle> objetosVoadores;
   Cronometro novoObjeto;
 
-  // Using this variable to decide whether to draw all the stuff
-  boolean debug;
-
   Voadores() {
     f = new FlowField(20);
     objetosVoadores = new ArrayList<Vehicle>();
     novoObjeto = new Cronometro(0, 1, 5);
-    debug = true;
   }
 
   void adicionaObjeto() {
@@ -26,8 +22,13 @@ class Voadores {
       part.update();
       part.display();
 
-      if (part.saiuDeTela() || part.pipaIntersec(p)) {
+      if (part.saiuDeTela()) {
         objetosVoadores.remove(i);
+      }
+      
+      if(part.pipaIntersec(p)) {
+        objetosVoadores.remove(i);
+        p.vidas++;
       }
       
     }

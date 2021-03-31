@@ -1,0 +1,1954 @@
+sustentacao: 0.10552507            sustentacao x: 0.0            sustentacao y: -0.10552507
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.0423            posicao x: 101.0            posicao y: 719.9927
+
+
+sustentacao: 0.10543908            sustentacao x: 0.0            sustentacao y: -0.10543908
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.169            posicao x: 102.0            posicao y: 719.9797
+
+
+sustentacao: 0.10529794            sustentacao x: 0.0            sustentacao y: -0.10529794
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.29126            posicao x: 102.999985            posicao y: 719.9608
+
+
+sustentacao: 0.10510719            sustentacao x: 0.0            sustentacao y: -0.10510719
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.4092            posicao x: 103.99996            posicao y: 719.9362
+
+
+sustentacao: 0.10488332            sustentacao x: 0.0            sustentacao y: -0.10488332
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.5227            posicao x: 104.99992            posicao y: 719.90576
+
+
+sustentacao: 0.10460479            sustentacao x: 0.0            sustentacao y: -0.10460479
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.6321            posicao x: 105.99985            posicao y: 719.86975
+
+
+sustentacao: 0.10431169            sustentacao x: 0.0            sustentacao y: -0.10431169
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.73724            posicao x: 106.99974            posicao y: 719.8281
+
+
+sustentacao: 0.104004435            sustentacao x: 0.0            sustentacao y: -0.104004435
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.83844            posicao x: 107.99959            posicao y: 719.7811
+
+
+sustentacao: 0.10369059            sustentacao x: 0.0            sustentacao y: -0.10369059
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 727.93585            posicao x: 108.999374            posicao y: 719.72894
+
+
+sustentacao: 0.10339294            sustentacao x: 0.0            sustentacao y: -0.10339294
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.0296            posicao x: 109.9991            posicao y: 719.6717
+
+
+sustentacao: 0.103072785            sustentacao x: 0.0            sustentacao y: -0.103072785
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.12            posicao x: 110.99875            posicao y: 719.6096
+
+
+sustentacao: 0.102787755            sustentacao x: 0.0            sustentacao y: -0.102787755
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.20715            posicao x: 111.998314            posicao y: 719.5429
+
+
+sustentacao: 0.102525905            sustentacao x: 0.0            sustentacao y: -0.102525905
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.29126            posicao x: 112.99779            posicao y: 719.47174
+
+
+sustentacao: 0.102263644            sustentacao x: 0.0            sustentacao y: -0.102263644
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.37244            posicao x: 113.997154            posicao y: 719.3963
+
+
+sustentacao: 0.10201866            sustentacao x: 0.0            sustentacao y: -0.10201866
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.45087            posicao x: 114.99641            posicao y: 719.3167
+
+
+sustentacao: 0.10173989            sustentacao x: 0.0            sustentacao y: -0.10173989
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.5269            posicao x: 115.995544            posicao y: 719.2333
+
+
+sustentacao: 0.10148771            sustentacao x: 0.0            sustentacao y: -0.10148771
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.60065            posicao x: 116.99456            posicao y: 719.1461
+
+
+sustentacao: 0.10125163            sustentacao x: 0.0            sustentacao y: -0.10125163
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.6722            posicao x: 117.99344            posicao y: 719.0554
+
+
+sustentacao: 0.101009205            sustentacao x: 0.0            sustentacao y: -0.101009205
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.7419            posicao x: 118.99218            posicao y: 718.9614
+
+
+sustentacao: 0.10074829            sustentacao x: 0.0            sustentacao y: -0.10074829
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.8099            posicao x: 119.99078            posicao y: 718.8644
+
+
+sustentacao: 0.100533195            sustentacao x: 0.0            sustentacao y: -0.100533195
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.87634            posicao x: 120.98925            posicao y: 718.76447
+
+
+sustentacao: 0.10030115            sustentacao x: 0.0            sustentacao y: -0.10030115
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 728.94165            posicao x: 121.987564            posicao y: 718.6619
+
+
+sustentacao: 0.10009198            sustentacao x: 0.0            sustentacao y: -0.10009198
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.00586            posicao x: 122.98573            posicao y: 718.5569
+
+
+sustentacao: 0.09986546            sustentacao x: 0.0            sustentacao y: -0.09986546
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.0692            posicao x: 123.98376            posicao y: 718.44965
+
+
+sustentacao: 0.099623            sustentacao x: 0.0            sustentacao y: -0.099623
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.1319            posicao x: 124.981636            posicao y: 718.3404
+
+
+sustentacao: 0.09943085            sustentacao x: 0.0            sustentacao y: -0.09943085
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.1943            posicao x: 125.97937            posicao y: 718.2294
+
+
+sustentacao: 0.09922458            sustentacao x: 0.0            sustentacao y: -0.09922458
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.25635            posicao x: 126.97697            posicao y: 718.11676
+
+
+sustentacao: 0.099056594            sustentacao x: 0.0            sustentacao y: -0.099056594
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.31854            posicao x: 127.97443            posicao y: 718.0028
+
+
+sustentacao: 0.09887097            sustentacao x: 0.0            sustentacao y: -0.09887097
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.38086            posicao x: 128.97176            posicao y: 717.8877
+
+
+sustentacao: 0.09872027            sustentacao x: 0.0            sustentacao y: -0.09872027
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.4436            posicao x: 129.96896            posicao y: 717.77155
+
+
+sustentacao: 0.098534286            sustentacao x: 0.0            sustentacao y: -0.098534286
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.5069            posicao x: 130.96603            posicao y: 717.65466
+
+
+sustentacao: 0.09836741            sustentacao x: 0.0            sustentacao y: -0.09836741
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.57104            posicao x: 131.96301            posicao y: 717.53723
+
+
+sustentacao: 0.09823458            sustentacao x: 0.0            sustentacao y: -0.09823458
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.6362            posicao x: 132.95987            posicao y: 717.41943
+
+
+sustentacao: 0.09806956            sustentacao x: 0.0            sustentacao y: -0.09806956
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.70245            posicao x: 133.95663            posicao y: 717.3014
+
+
+sustentacao: 0.09793251            sustentacao x: 0.0            sustentacao y: -0.09793251
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.7701            posicao x: 134.95331            posicao y: 717.18335
+
+
+sustentacao: 0.09775048            sustentacao x: 0.0            sustentacao y: -0.09775048
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.83936            posicao x: 135.94992            posicao y: 717.0656
+
+
+sustentacao: 0.09757497            sustentacao x: 0.0            sustentacao y: -0.09757497
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.91034            posicao x: 136.94646            posicao y: 716.94824
+
+
+sustentacao: 0.09743087            sustentacao x: 0.0            sustentacao y: -0.09743087
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 729.9834            posicao x: 137.94293            posicao y: 716.83154
+
+
+sustentacao: 0.09726132            sustentacao x: 0.0            sustentacao y: -0.09726132
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.05865            posicao x: 138.93939            posicao y: 716.71576
+
+
+sustentacao: 0.09713568            sustentacao x: 0.0            sustentacao y: -0.09713568
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.1363            posicao x: 139.93579            posicao y: 716.601
+
+
+sustentacao: 0.09698029            sustentacao x: 0.0            sustentacao y: -0.09698029
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.2167            posicao x: 140.93219            posicao y: 716.4876
+
+
+sustentacao: 0.096841395            sustentacao x: 0.0            sustentacao y: -0.096841395
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.2998            posicao x: 141.92859            posicao y: 716.3757
+
+
+sustentacao: 0.0967455            sustentacao x: 0.0            sustentacao y: -0.0967455
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.3859            posicao x: 142.92499            posicao y: 716.2654
+
+
+sustentacao: 0.096617885            sustentacao x: 0.0            sustentacao y: -0.096617885
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.4753            posicao x: 143.92142            posicao y: 716.1569
+
+
+sustentacao: 0.09652626            sustentacao x: 0.0            sustentacao y: -0.09652626
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.56793            posicao x: 144.91788            posicao y: 716.0505
+
+
+sustentacao: 0.09639829            sustentacao x: 0.0            sustentacao y: -0.09639829
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.6642            posicao x: 145.91437            posicao y: 715.9463
+
+
+sustentacao: 0.096272625            sustentacao x: 0.0            sustentacao y: -0.096272625
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.76416            posicao x: 146.91095            posicao y: 715.84454
+
+
+sustentacao: 0.096179456            sustentacao x: 0.0            sustentacao y: -0.096179456
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.86804            posicao x: 147.9076            posicao y: 715.74536
+
+
+sustentacao: 0.09604578            sustentacao x: 0.0            sustentacao y: -0.09604578
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 730.97595            posicao x: 148.90434            posicao y: 715.6489
+
+
+sustentacao: 0.095942095            sustentacao x: 0.0            sustentacao y: -0.095942095
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.08826            posicao x: 149.90118            posicao y: 715.55554
+
+
+sustentacao: 0.09579928            sustentacao x: 0.0            sustentacao y: -0.09579928
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.2051            posicao x: 150.89815            posicao y: 715.46533
+
+
+sustentacao: 0.095652305            sustentacao x: 0.0            sustentacao y: -0.095652305
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.3266            posicao x: 151.89525            posicao y: 715.37854
+
+
+sustentacao: 0.0955382            sustentacao x: 0.0            sustentacao y: -0.0955382
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.45306            posicao x: 152.8925            posicao y: 715.29535
+
+
+sustentacao: 0.09538676            sustentacao x: 0.0            sustentacao y: -0.09538676
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.5847            posicao x: 153.88992            posicao y: 715.2161
+
+
+sustentacao: 0.09527216            sustentacao x: 0.0            sustentacao y: -0.09527216
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.7217            posicao x: 154.88751            posicao y: 715.14087
+
+
+sustentacao: 0.09512779            sustentacao x: 0.0            sustentacao y: -0.09512779
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 731.8643            posicao x: 155.88528            posicao y: 715.07
+
+
+sustentacao: 0.09498574            sustentacao x: 0.0            sustentacao y: -0.09498574
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.01263            posicao x: 156.88329            posicao y: 715.0036
+
+
+sustentacao: 0.09488798            sustentacao x: 0.0            sustentacao y: -0.09488798
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.1671            posicao x: 157.8815            posicao y: 714.942
+
+
+sustentacao: 0.094764106            sustentacao x: 0.0            sustentacao y: -0.094764106
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.3277            posicao x: 158.87993            posicao y: 714.8853
+
+
+sustentacao: 0.09468701            sustentacao x: 0.0            sustentacao y: -0.09468701
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.4947            posicao x: 159.87862            posicao y: 714.83374
+
+
+sustentacao: 0.09459441            sustentacao x: 0.0            sustentacao y: -0.09459441
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.6682            posicao x: 160.87753            posicao y: 714.7875
+
+
+sustentacao: 0.09451101            sustentacao x: 0.0            sustentacao y: -0.09451101
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 732.8486            posicao x: 161.87674            posicao y: 714.74677
+
+
+sustentacao: 0.09447645            sustentacao x: 0.0            sustentacao y: -0.09447645
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 733.0357            posicao x: 162.87619            posicao y: 714.7116
+
+
+sustentacao: 0.09441321            sustentacao x: 0.0            sustentacao y: -0.09441321
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 733.22986            posicao x: 163.87592            posicao y: 714.68225
+
+
+sustentacao: 0.09438614            sustentacao x: 0.0            sustentacao y: -0.09438614
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 733.43115            posicao x: 164.8759            posicao y: 714.6588
+
+
+sustentacao: 0.09433802            sustentacao x: 0.0            sustentacao y: -0.09433802
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 733.6397            posicao x: 165.87616            posicao y: 714.6414
+
+
+sustentacao: 0.09428647            sustentacao x: 0.0            sustentacao y: -0.09428647
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 733.85565            posicao x: 166.87671            posicao y: 714.6302
+
+
+sustentacao: 0.09426894            sustentacao x: 0.0            sustentacao y: -0.09426894
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 734.07916            posicao x: 167.87753            posicao y: 714.6253
+
+
+sustentacao: 0.09421997            sustentacao x: 0.0            sustentacao y: -0.09421997
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 734.31024            posicao x: 168.87863            posicao y: 714.6269
+
+
+sustentacao: 0.09419945            sustentacao x: 0.0            sustentacao y: -0.09419945
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 734.5492            posicao x: 169.88            posicao y: 714.6351
+
+
+sustentacao: 0.094155475            sustentacao x: 0.0            sustentacao y: -0.094155475
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 734.79596            posicao x: 170.88165            posicao y: 714.64996
+
+
+sustentacao: 0.094103456            sustentacao x: 0.0            sustentacao y: -0.094103456
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 735.0508            posicao x: 171.88359            posicao y: 714.67175
+
+
+sustentacao: 0.09407623            sustentacao x: 0.0            sustentacao y: -0.09407623
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 735.3137            posicao x: 172.88579            posicao y: 714.7005
+
+
+sustentacao: 0.09401787            sustentacao x: 0.0            sustentacao y: -0.09401787
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 735.5849            posicao x: 173.88824            posicao y: 714.7364
+
+
+sustentacao: 0.09398127            sustentacao x: 0.0            sustentacao y: -0.09398127
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 735.8646            posicao x: 174.89095            posicao y: 714.7796
+
+
+sustentacao: 0.09392762            sustentacao x: 0.0            sustentacao y: -0.09392762
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 736.15283            posicao x: 175.89389            posicao y: 714.83026
+
+
+sustentacao: 0.09388025            sustentacao x: 0.0            sustentacao y: -0.09388025
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 736.44965            posicao x: 176.8971            posicao y: 714.8884
+
+
+sustentacao: 0.09386718            sustentacao x: 0.0            sustentacao y: -0.09386718
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 736.75525            posicao x: 177.90051            posicao y: 714.95435
+
+
+sustentacao: 0.09384022            sustentacao x: 0.0            sustentacao y: -0.09384022
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 737.06976            posicao x: 178.90414            posicao y: 715.0281
+
+
+sustentacao: 0.0938426            sustentacao x: 0.0            sustentacao y: -0.0938426
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 737.3932            posicao x: 179.90799            posicao y: 715.1097
+
+
+sustentacao: 0.09383789            sustentacao x: 0.0            sustentacao y: -0.09383789
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 737.72565            posicao x: 180.912            posicao y: 715.1993
+
+
+sustentacao: 0.09383336            sustentacao x: 0.0            sustentacao y: -0.09383336
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 738.0673            posicao x: 181.9162            posicao y: 715.29706
+
+
+sustentacao: 0.09385377            sustentacao x: 0.0            sustentacao y: -0.09385377
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 738.4181            posicao x: 182.92053            posicao y: 715.40295
+
+
+sustentacao: 0.09385688            sustentacao x: 0.0            sustentacao y: -0.09385688
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 738.7782            posicao x: 183.92499            posicao y: 715.51715
+
+
+sustentacao: 0.09387793            sustentacao x: 0.0            sustentacao y: -0.09387793
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 739.1475            posicao x: 184.92957            posicao y: 715.63965
+
+
+sustentacao: 0.09388944            sustentacao x: 0.0            sustentacao y: -0.09388944
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 739.52625            posicao x: 185.93422            posicao y: 715.77057
+
+
+sustentacao: 0.093894474            sustentacao x: 0.0            sustentacao y: -0.093894474
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 739.9144            posicao x: 186.93893            posicao y: 715.91003
+
+
+sustentacao: 0.09391363            sustentacao x: 0.0            sustentacao y: -0.09391363
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 740.3121            posicao x: 187.9437            posicao y: 716.05804
+
+
+sustentacao: 0.09391217            sustentacao x: 0.0            sustentacao y: -0.09391217
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 740.7193            posicao x: 188.94846            posicao y: 716.2148
+
+
+sustentacao: 0.09391773            sustentacao x: 0.0            sustentacao y: -0.09391773
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 741.1361            posicao x: 189.9532            posicao y: 716.3802
+
+
+sustentacao: 0.09391137            sustentacao x: 0.0            sustentacao y: -0.09391137
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 741.5627            posicao x: 190.9579            posicao y: 716.5545
+
+
+sustentacao: 0.09389625            sustentacao x: 0.0            sustentacao y: -0.09389625
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 741.999            posicao x: 191.96252            posicao y: 716.73773
+
+
+sustentacao: 0.09388828            sustentacao x: 0.0            sustentacao y: -0.09388828
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 742.4452            posicao x: 192.96704            posicao y: 716.93
+
+
+sustentacao: 0.093868285            sustentacao x: 0.0            sustentacao y: -0.093868285
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 742.9013            posicao x: 193.97142            posicao y: 717.1314
+
+
+sustentacao: 0.09385526            sustentacao x: 0.0            sustentacao y: -0.09385526
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 743.3674            posicao x: 194.97563            posicao y: 717.34204
+
+
+sustentacao: 0.09383859            sustentacao x: 0.0            sustentacao y: -0.09383859
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 743.8436            posicao x: 195.97964            posicao y: 717.5621
+
+
+sustentacao: 0.0938221            sustentacao x: 0.0            sustentacao y: -0.0938221
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 744.33            posicao x: 196.98341            posicao y: 717.79156
+
+
+sustentacao: 0.093812875            sustentacao x: 0.0            sustentacao y: -0.093812875
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 744.8266            posicao x: 197.9869            posicao y: 718.0306
+
+
+sustentacao: 0.09380456            sustentacao x: 0.0            sustentacao y: -0.09380456
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 745.3335            posicao x: 198.99007            posicao y: 718.2792
+
+
+sustentacao: 0.09380227            sustentacao x: 0.0            sustentacao y: -0.09380227
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 745.8507            posicao x: 199.99287            posicao y: 718.53754
+
+
+sustentacao: 0.093803495            sustentacao x: 0.0            sustentacao y: -0.093803495
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 746.37836            posicao x: 200.99527            posicao y: 718.80566
+
+
+sustentacao: 0.09380835            sustentacao x: 0.0            sustentacao y: -0.09380835
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 746.91656            posicao x: 201.99724            posicao y: 719.08374
+
+
+sustentacao: 0.09381432            sustentacao x: 0.0            sustentacao y: -0.09381432
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 747.46515            posicao x: 202.99872            posicao y: 719.3717
+
+
+sustentacao: 0.09382421            sustentacao x: 0.0            sustentacao y: -0.09382421
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 748.0243            posicao x: 203.99965            posicao y: 719.6697
+
+
+sustentacao: 0.09383363            sustentacao x: 0.0            sustentacao y: -0.09383363
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 748.594            posicao x: 205.0            posicao y: 719.9778
+
+
+sustentacao: 0.09384558            sustentacao x: 0.0            sustentacao y: -0.09384558
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 749.1744            posicao x: 205.99973            posicao y: 720.296
+
+
+sustentacao: 0.09385774            sustentacao x: 0.0            sustentacao y: -0.09385774
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 749.6694            posicao x: 206.99911            posicao y: 720.5245
+
+
+sustentacao: 0.093863815            sustentacao x: 0.0            sustentacao y: -0.093863815
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.07806            posicao x: 207.99861            posicao y: 720.662
+
+
+sustentacao: 0.09387272            sustentacao x: 0.0            sustentacao y: -0.09387272
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.3995            posicao x: 208.99843            posicao y: 720.70734
+
+
+sustentacao: 0.09387567            sustentacao x: 0.0            sustentacao y: -0.09387567
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.63257            posicao x: 209.99864            posicao y: 720.6593
+
+
+sustentacao: 0.093879476            sustentacao x: 0.0            sustentacao y: -0.093879476
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.77625            posicao x: 210.99918            posicao y: 720.5167
+
+
+sustentacao: 0.09388032            sustentacao x: 0.0            sustentacao y: -0.09388032
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.8295            posicao x: 211.99976            posicao y: 720.27844
+
+
+sustentacao: 0.09387291            sustentacao x: 0.0            sustentacao y: -0.09387291
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.7912            posicao x: 212.99998            posicao y: 719.94336
+
+
+sustentacao: 0.093881786            sustentacao x: 0.0            sustentacao y: -0.093881786
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.756            posicao x: 213.99954            posicao y: 719.61017
+
+
+sustentacao: 0.093896665            sustentacao x: 0.0            sustentacao y: -0.093896665
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.7241            posicao x: 214.99843            posicao y: 719.2791
+
+
+sustentacao: 0.09392865            sustentacao x: 0.0            sustentacao y: -0.09392865
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6955            posicao x: 215.99667            posicao y: 718.9501
+
+
+sustentacao: 0.09396932            sustentacao x: 0.0            sustentacao y: -0.09396932
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6703            posicao x: 216.99432            posicao y: 718.6232
+
+
+sustentacao: 0.09401073            sustentacao x: 0.0            sustentacao y: -0.09401073
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6484            posicao x: 217.9914            posicao y: 718.2985
+
+
+sustentacao: 0.094067045            sustentacao x: 0.0            sustentacao y: -0.094067045
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6299            posicao x: 218.98788            posicao y: 717.97595
+
+
+sustentacao: 0.09412166            sustentacao x: 0.0            sustentacao y: -0.09412166
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6147            posicao x: 219.98384            posicao y: 717.6556
+
+
+sustentacao: 0.0941903            sustentacao x: 0.0            sustentacao y: -0.0941903
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6029            posicao x: 220.97926            posicao y: 717.3374
+
+
+sustentacao: 0.09425783            sustentacao x: 0.0            sustentacao y: -0.09425783
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.59454            posicao x: 221.97421            posicao y: 717.02136
+
+
+sustentacao: 0.09431834            sustentacao x: 0.0            sustentacao y: -0.09431834
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.5896            posicao x: 222.96866            posicao y: 716.7076
+
+
+sustentacao: 0.09438586            sustentacao x: 0.0            sustentacao y: -0.09438586
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.5881            posicao x: 223.96268            posicao y: 716.396
+
+
+sustentacao: 0.09444471            sustentacao x: 0.0            sustentacao y: -0.09444471
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.5899            posicao x: 224.95624            posicao y: 716.08655
+
+
+sustentacao: 0.094511084            sustentacao x: 0.0            sustentacao y: -0.094511084
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.5953            posicao x: 225.94939            posicao y: 715.77936
+
+
+sustentacao: 0.09456337            sustentacao x: 0.0            sustentacao y: -0.09456337
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.60394            posicao x: 226.94214            posicao y: 715.47437
+
+
+sustentacao: 0.09459994            sustentacao x: 0.0            sustentacao y: -0.09459994
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.61615            posicao x: 227.9345            posicao y: 715.17163
+
+
+sustentacao: 0.0946374            sustentacao x: 0.0            sustentacao y: -0.0946374
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6318            posicao x: 228.92651            posicao y: 714.8711
+
+
+sustentacao: 0.094663344            sustentacao x: 0.0            sustentacao y: -0.094663344
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6509            posicao x: 229.91817            posicao y: 714.5729
+
+
+sustentacao: 0.09469894            sustentacao x: 0.0            sustentacao y: -0.09469894
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.6736            posicao x: 230.9095            posicao y: 714.277
+
+
+sustentacao: 0.09472922            sustentacao x: 0.0            sustentacao y: -0.09472922
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.69977            posicao x: 231.90053            posicao y: 713.9834
+
+
+sustentacao: 0.09475381            sustentacao x: 0.0            sustentacao y: -0.09475381
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.72955            posicao x: 232.89125            posicao y: 713.6922
+
+
+sustentacao: 0.09479155            sustentacao x: 0.0            sustentacao y: -0.09479155
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.76294            posicao x: 233.88171            posicao y: 713.4034
+
+
+sustentacao: 0.09482816            sustentacao x: 0.0            sustentacao y: -0.09482816
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.80005            posicao x: 234.87192            posicao y: 713.117
+
+
+sustentacao: 0.09488595            sustentacao x: 0.0            sustentacao y: -0.09488595
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.8407            posicao x: 235.86188            posicao y: 712.833
+
+
+sustentacao: 0.09494867            sustentacao x: 0.0            sustentacao y: -0.09494867
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.88495            posicao x: 236.85161            posicao y: 712.55145
+
+
+sustentacao: 0.09501134            sustentacao x: 0.0            sustentacao y: -0.09501134
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.93286            posicao x: 237.84111            posicao y: 712.2723
+
+
+sustentacao: 0.09508252            sustentacao x: 0.0            sustentacao y: -0.09508252
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 750.9844            posicao x: 238.83043            posicao y: 711.9955
+
+
+sustentacao: 0.095141955            sustentacao x: 0.0            sustentacao y: -0.095141955
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.0395            posicao x: 239.81953            posicao y: 711.72107
+
+
+sustentacao: 0.09521219            sustentacao x: 0.0            sustentacao y: -0.09521219
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.0981            posicao x: 240.80849            posicao y: 711.449
+
+
+sustentacao: 0.09527633            sustentacao x: 0.0            sustentacao y: -0.09527633
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.1603            posicao x: 241.79727            posicao y: 711.1792
+
+
+sustentacao: 0.09532849            sustentacao x: 0.0            sustentacao y: -0.09532849
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.226            posicao x: 242.7859            posicao y: 710.9118
+
+
+sustentacao: 0.09538748            sustentacao x: 0.0            sustentacao y: -0.09538748
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.2953            posicao x: 243.77438            posicao y: 710.64667
+
+
+sustentacao: 0.09543385            sustentacao x: 0.0            sustentacao y: -0.09543385
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.3681            posicao x: 244.76276            posicao y: 710.38385
+
+
+sustentacao: 0.095489286            sustentacao x: 0.0            sustentacao y: -0.095489286
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.44446            posicao x: 245.75099            posicao y: 710.1234
+
+
+sustentacao: 0.09554009            sustentacao x: 0.0            sustentacao y: -0.09554009
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.52435            posicao x: 246.73914            posicao y: 709.86523
+
+
+sustentacao: 0.09557821            sustentacao x: 0.0            sustentacao y: -0.09557821
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.6078            posicao x: 247.72717            posicao y: 709.6094
+
+
+sustentacao: 0.095623694            sustentacao x: 0.0            sustentacao y: -0.095623694
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.69464            posicao x: 248.71513            posicao y: 709.35583
+
+
+sustentacao: 0.09565626            sustentacao x: 0.0            sustentacao y: -0.09565626
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.7851            posicao x: 249.703            posicao y: 709.10455
+
+
+sustentacao: 0.09569782            sustentacao x: 0.0            sustentacao y: -0.09569782
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.87915            posicao x: 250.69081            posicao y: 708.85565
+
+
+sustentacao: 0.09574003            sustentacao x: 0.0            sustentacao y: -0.09574003
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 751.9767            posicao x: 251.67857            posicao y: 708.6091
+
+
+sustentacao: 0.09577328            sustentacao x: 0.0            sustentacao y: -0.09577328
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.07776            posicao x: 252.66629            posicao y: 708.3648
+
+
+sustentacao: 0.09581774            sustentacao x: 0.0            sustentacao y: -0.09581774
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.18243            posicao x: 253.65396            posicao y: 708.1229
+
+
+sustentacao: 0.095854156            sustentacao x: 0.0            sustentacao y: -0.095854156
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.2906            posicao x: 254.6416            posicao y: 707.8833
+
+
+sustentacao: 0.09590509            sustentacao x: 0.0            sustentacao y: -0.09590509
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.4022            posicao x: 255.62923            posicao y: 707.646
+
+
+sustentacao: 0.09595672            sustentacao x: 0.0            sustentacao y: -0.09595672
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.5175            posicao x: 256.61682            posicao y: 707.4111
+
+
+sustentacao: 0.09600271            sustentacao x: 0.0            sustentacao y: -0.09600271
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.6362            posicao x: 257.60443            posicao y: 707.17834
+
+
+sustentacao: 0.09606172            sustentacao x: 0.0            sustentacao y: -0.09606172
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.7585            posicao x: 258.59204            posicao y: 706.948
+
+
+sustentacao: 0.09611545            sustentacao x: 0.0            sustentacao y: -0.09611545
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 752.8841            posicao x: 259.57965            posicao y: 706.71985
+
+
+sustentacao: 0.09618726            sustentacao x: 0.0            sustentacao y: -0.09618726
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.0133            posicao x: 260.56732            posicao y: 706.49396
+
+
+sustentacao: 0.09625977            sustentacao x: 0.0            sustentacao y: -0.09625977
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.1459            posicao x: 261.55493            posicao y: 706.27026
+
+
+sustentacao: 0.09633042            sustentacao x: 0.0            sustentacao y: -0.09633042
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.28174            posicao x: 262.5426            posicao y: 706.0487
+
+
+sustentacao: 0.09642868            sustentacao x: 0.0            sustentacao y: -0.09642868
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.42096            posicao x: 263.5303            posicao y: 705.8292
+
+
+sustentacao: 0.09653596            sustentacao x: 0.0            sustentacao y: -0.09653596
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.5634            posicao x: 264.518            posicao y: 705.6118
+
+
+sustentacao: 0.09667563            sustentacao x: 0.0            sustentacao y: -0.09667563
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.709            posicao x: 265.50574            posicao y: 705.3963
+
+
+sustentacao: 0.096823536            sustentacao x: 0.0            sustentacao y: -0.096823536
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 753.8576            posicao x: 266.49353            posicao y: 705.18256
+
+
+sustentacao: 0.09697189            sustentacao x: 0.0            sustentacao y: -0.09697189
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.0091            posicao x: 267.4813            posicao y: 704.9705
+
+
+sustentacao: 0.09713101            sustentacao x: 0.0            sustentacao y: -0.09713101
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.16327            posicao x: 268.4691            posicao y: 704.75995
+
+
+sustentacao: 0.09727626            sustentacao x: 0.0            sustentacao y: -0.09727626
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.32025            posicao x: 269.45688            posicao y: 704.5509
+
+
+sustentacao: 0.09742988            sustentacao x: 0.0            sustentacao y: -0.09742988
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.4796            posicao x: 270.4447            posicao y: 704.3431
+
+
+sustentacao: 0.09756517            sustentacao x: 0.0            sustentacao y: -0.09756517
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.64154            posicao x: 271.4325            posicao y: 704.1365
+
+
+sustentacao: 0.097675405            sustentacao x: 0.0            sustentacao y: -0.097675405
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.80566            posicao x: 272.4203            posicao y: 703.93097
+
+
+sustentacao: 0.097772196            sustentacao x: 0.0            sustentacao y: -0.097772196
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 754.9721            posicao x: 273.40808            posicao y: 703.72644
+
+
+sustentacao: 0.09783851            sustentacao x: 0.0            sustentacao y: -0.09783851
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 755.1408            posicao x: 274.39587            posicao y: 703.52295
+
+
+sustentacao: 0.09789369            sustentacao x: 0.0            sustentacao y: -0.09789369
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 755.3116            posicao x: 275.38367            posicao y: 703.3203
+
+
+sustentacao: 0.097920924            sustentacao x: 0.0            sustentacao y: -0.097920924
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 755.4846            posicao x: 276.37143            posicao y: 703.11865
+
+
+sustentacao: 0.09791924            sustentacao x: 0.0            sustentacao y: -0.09791924
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 755.6598            posicao x: 277.3592            posicao y: 702.9179
+
+
+sustentacao: 0.09790613            sustentacao x: 0.0            sustentacao y: -0.09790613
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 755.8372            posicao x: 278.347            posicao y: 702.7182
+
+
+sustentacao: 0.09787445            sustentacao x: 0.0            sustentacao y: -0.09787445
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.01685            posicao x: 279.33475            posicao y: 702.5195
+
+
+sustentacao: 0.09783919            sustentacao x: 0.0            sustentacao y: -0.09783919
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.19885            posicao x: 280.32257            posicao y: 702.32184
+
+
+sustentacao: 0.09779494            sustentacao x: 0.0            sustentacao y: -0.09779494
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.38324            posicao x: 281.3104            posicao y: 702.12537
+
+
+sustentacao: 0.09774302            sustentacao x: 0.0            sustentacao y: -0.09774302
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.57            posicao x: 282.29828            posicao y: 701.9301
+
+
+sustentacao: 0.09770234            sustentacao x: 0.0            sustentacao y: -0.09770234
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.7593            posicao x: 283.28613            posicao y: 701.7361
+
+
+sustentacao: 0.09766704            sustentacao x: 0.0            sustentacao y: -0.09766704
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 756.9511            posicao x: 284.2741            posicao y: 701.54346
+
+
+sustentacao: 0.097648345            sustentacao x: 0.0            sustentacao y: -0.097648345
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 757.14545            posicao x: 285.2621            posicao y: 701.3521
+
+
+sustentacao: 0.09764249            sustentacao x: 0.0            sustentacao y: -0.09764249
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 757.34247            posicao x: 286.25018            posicao y: 701.16223
+
+
+sustentacao: 0.09764563            sustentacao x: 0.0            sustentacao y: -0.09764563
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 757.54205            posicao x: 287.23828            posicao y: 700.9737
+
+
+sustentacao: 0.097660944            sustentacao x: 0.0            sustentacao y: -0.097660944
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 757.74426            posicao x: 288.22644            posicao y: 700.7866
+
+
+sustentacao: 0.097676724            sustentacao x: 0.0            sustentacao y: -0.097676724
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 757.9491            posicao x: 289.21472            posicao y: 700.60095
+
+
+sustentacao: 0.097700864            sustentacao x: 0.0            sustentacao y: -0.097700864
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 758.1565            posicao x: 290.20303            posicao y: 700.4167
+
+
+sustentacao: 0.09772705            sustentacao x: 0.0            sustentacao y: -0.09772705
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 758.3666            posicao x: 291.1914            posicao y: 700.2338
+
+
+sustentacao: 0.097751126            sustentacao x: 0.0            sustentacao y: -0.097751126
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 758.57916            posicao x: 292.17987            posicao y: 700.05237
+
+
+sustentacao: 0.097779825            sustentacao x: 0.0            sustentacao y: -0.097779825
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 758.7944            posicao x: 293.1684            posicao y: 699.8723
+
+
+sustentacao: 0.097804785            sustentacao x: 0.0            sustentacao y: -0.097804785
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 759.0122            posicao x: 294.157            posicao y: 699.6936
+
+
+sustentacao: 0.09783025            sustentacao x: 0.0            sustentacao y: -0.09783025
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 759.23254            posicao x: 295.1457            posicao y: 699.5163
+
+
+sustentacao: 0.09785142            sustentacao x: 0.0            sustentacao y: -0.09785142
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 759.4554            posicao x: 296.13446            posicao y: 699.34033
+
+
+sustentacao: 0.09786613            sustentacao x: 0.0            sustentacao y: -0.09786613
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 759.6808            posicao x: 297.1233            posicao y: 699.1657
+
+
+sustentacao: 0.09787643            sustentacao x: 0.0            sustentacao y: -0.09787643
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 759.9088            posicao x: 298.11224            posicao y: 698.9925
+
+
+sustentacao: 0.09787991            sustentacao x: 0.0            sustentacao y: -0.09787991
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 760.1394            posicao x: 299.10126            posicao y: 698.8207
+
+
+sustentacao: 0.09787855            sustentacao x: 0.0            sustentacao y: -0.09787855
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 760.37256            posicao x: 300.0904            posicao y: 698.65027
+
+
+sustentacao: 0.09787475            sustentacao x: 0.0            sustentacao y: -0.09787475
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 760.60834            posicao x: 301.07956            posicao y: 698.4813
+
+
+sustentacao: 0.09786848            sustentacao x: 0.0            sustentacao y: -0.09786848
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 760.8467            posicao x: 302.06885            posicao y: 698.3138
+
+
+sustentacao: 0.097860865            sustentacao x: 0.0            sustentacao y: -0.097860865
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 761.08777            posicao x: 303.05826            posicao y: 698.14777
+
+
+sustentacao: 0.0978512            sustentacao x: 0.0            sustentacao y: -0.0978512
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 761.3315            posicao x: 304.04776            posicao y: 697.9832
+
+
+sustentacao: 0.09784082            sustentacao x: 0.0            sustentacao y: -0.09784082
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 761.5778            posicao x: 305.03735            posicao y: 697.8202
+
+
+sustentacao: 0.09783201            sustentacao x: 0.0            sustentacao y: -0.09783201
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 761.82697            posicao x: 306.02707            posicao y: 697.65875
+
+
+sustentacao: 0.09782315            sustentacao x: 0.0            sustentacao y: -0.09782315
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 762.07874            posicao x: 307.0169            posicao y: 697.49884
+
+
+sustentacao: 0.09781739            sustentacao x: 0.0            sustentacao y: -0.09781739
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 762.3333            posicao x: 308.0069            posicao y: 697.3406
+
+
+sustentacao: 0.09781134            sustentacao x: 0.0            sustentacao y: -0.09781134
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 762.5907            posicao x: 308.99695            posicao y: 697.18396
+
+
+sustentacao: 0.097808264            sustentacao x: 0.0            sustentacao y: -0.097808264
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 762.8508            posicao x: 309.98718            posicao y: 697.02893
+
+
+sustentacao: 0.097810686            sustentacao x: 0.0            sustentacao y: -0.097810686
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 763.1138            posicao x: 310.9775            posicao y: 696.8756
+
+
+sustentacao: 0.09781325            sustentacao x: 0.0            sustentacao y: -0.09781325
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 763.37946            posicao x: 311.968            posicao y: 696.7239
+
+
+sustentacao: 0.09781769            sustentacao x: 0.0            sustentacao y: -0.09781769
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 763.648            posicao x: 312.9586            posicao y: 696.5739
+
+
+sustentacao: 0.09781627            sustentacao x: 0.0            sustentacao y: -0.09781627
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 763.9194            posicao x: 313.94934            posicao y: 696.4256
+
+
+sustentacao: 0.097813986            sustentacao x: 0.0            sustentacao y: -0.097813986
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 764.1936            posicao x: 314.94022            posicao y: 696.27905
+
+
+sustentacao: 0.097813874            sustentacao x: 0.0            sustentacao y: -0.097813874
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 764.4706            posicao x: 315.93124            posicao y: 696.13416
+
+
+sustentacao: 0.09780781            sustentacao x: 0.0            sustentacao y: -0.09780781
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 764.7506            posicao x: 316.9224            posicao y: 695.99115
+
+
+sustentacao: 0.09780422            sustentacao x: 0.0            sustentacao y: -0.09780422
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 765.03345            posicao x: 317.91373            posicao y: 695.84985
+
+
+sustentacao: 0.09779301            sustentacao x: 0.0            sustentacao y: -0.09779301
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 765.31915            posicao x: 318.9052            posicao y: 695.7103
+
+
+sustentacao: 0.097780734            sustentacao x: 0.0            sustentacao y: -0.097780734
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 765.60785            posicao x: 319.89685            posicao y: 695.5727
+
+
+sustentacao: 0.097771995            sustentacao x: 0.0            sustentacao y: -0.097771995
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 765.8995            posicao x: 320.88864            posicao y: 695.4369
+
+
+sustentacao: 0.09775534            sustentacao x: 0.0            sustentacao y: -0.09775534
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 766.19403            posicao x: 321.88058            posicao y: 695.303
+
+
+sustentacao: 0.09774344            sustentacao x: 0.0            sustentacao y: -0.09774344
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 766.4917            posicao x: 322.8727            posicao y: 695.171
+
+
+sustentacao: 0.09772297            sustentacao x: 0.0            sustentacao y: -0.09772297
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 766.79236            posicao x: 323.86502            posicao y: 695.041
+
+
+sustentacao: 0.09769863            sustentacao x: 0.0            sustentacao y: -0.09769863
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 767.0961            posicao x: 324.85748            posicao y: 694.91296
+
+
+sustentacao: 0.097672            sustentacao x: 0.0            sustentacao y: -0.097672
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 767.40295            posicao x: 325.85016            posicao y: 694.787
+
+
+sustentacao: 0.09763097            sustentacao x: 0.0            sustentacao y: -0.09763097
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 767.7129            posicao x: 326.843            posicao y: 694.6631
+
+
+sustentacao: 0.09759201            sustentacao x: 0.0            sustentacao y: -0.09759201
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 768.0261            posicao x: 327.83603            posicao y: 694.5413
+
+
+sustentacao: 0.09754388            sustentacao x: 0.0            sustentacao y: -0.09754388
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 768.3426            posicao x: 328.82925            posicao y: 694.4218
+
+
+sustentacao: 0.09749846            sustentacao x: 0.0            sustentacao y: -0.09749846
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 768.6624            posicao x: 329.8227            posicao y: 694.30457
+
+
+sustentacao: 0.09746126            sustentacao x: 0.0            sustentacao y: -0.09746126
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 768.98553            posicao x: 330.81638            posicao y: 694.18964
+
+
+sustentacao: 0.097423844            sustentacao x: 0.0            sustentacao y: -0.097423844
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 769.31213            posicao x: 331.8102            posicao y: 694.07715
+
+
+sustentacao: 0.09740341            sustentacao x: 0.0            sustentacao y: -0.09740341
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 769.64215            posicao x: 332.80432            posicao y: 693.96704
+
+
+sustentacao: 0.09738738            sustentacao x: 0.0            sustentacao y: -0.09738738
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 769.9756            posicao x: 333.79865            posicao y: 693.8594
+
+
+sustentacao: 0.097390935            sustentacao x: 0.0            sustentacao y: -0.097390935
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 770.3125            posicao x: 334.79318            posicao y: 693.7542
+
+
+sustentacao: 0.09741328            sustentacao x: 0.0            sustentacao y: -0.09741328
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 770.65295            posicao x: 335.78796            posicao y: 693.6515
+
+
+sustentacao: 0.09744268            sustentacao x: 0.0            sustentacao y: -0.09744268
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 770.9968            posicao x: 336.78296            posicao y: 693.5513
+
+
+sustentacao: 0.097481616            sustentacao x: 0.0            sustentacao y: -0.097481616
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 771.3441            posicao x: 337.77817            posicao y: 693.4534
+
+
+sustentacao: 0.09751061            sustentacao x: 0.0            sustentacao y: -0.09751061
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 771.6949            posicao x: 338.77362            posicao y: 693.3581
+
+
+sustentacao: 0.09754762            sustentacao x: 0.0            sustentacao y: -0.09754762
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 772.0491            posicao x: 339.76932            posicao y: 693.26514
+
+
+sustentacao: 0.097585805            sustentacao x: 0.0            sustentacao y: -0.097585805
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 772.4065            posicao x: 340.76517            posicao y: 693.1745
+
+
+sustentacao: 0.09761526            sustentacao x: 0.0            sustentacao y: -0.09761526
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 772.76733            posicao x: 341.7613            posicao y: 693.0863
+
+
+sustentacao: 0.09765278            sustentacao x: 0.0            sustentacao y: -0.09765278
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 773.13153            posicao x: 342.75763            posicao y: 693.0004
+
+
+sustentacao: 0.0976804            sustentacao x: 0.0            sustentacao y: -0.0976804
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 773.4991            posicao x: 343.75415            posicao y: 692.91693
+
+
+sustentacao: 0.09771781            sustentacao x: 0.0            sustentacao y: -0.09771781
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 773.8699            posicao x: 344.75092            posicao y: 692.83575
+
+
+sustentacao: 0.09775642            sustentacao x: 0.0            sustentacao y: -0.09775642
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 774.2439            posicao x: 345.74786            posicao y: 692.75684
+
+
+sustentacao: 0.09778599            sustentacao x: 0.0            sustentacao y: -0.09778599
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 774.6212            posicao x: 346.74506            posicao y: 692.68024
+
+
+sustentacao: 0.097826056            sustentacao x: 0.0            sustentacao y: -0.097826056
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 775.0018            posicao x: 347.74243            posicao y: 692.6059
+
+
+sustentacao: 0.09785673            sustentacao x: 0.0            sustentacao y: -0.09785673
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 775.3855            posicao x: 348.74002            posicao y: 692.53375
+
+
+sustentacao: 0.09790424            sustentacao x: 0.0            sustentacao y: -0.09790424
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 775.77234            posicao x: 349.73782            posicao y: 692.46387
+
+
+sustentacao: 0.09796402            sustentacao x: 0.0            sustentacao y: -0.09796402
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 776.16235            posicao x: 350.7358            posicao y: 692.3961
+
+
+sustentacao: 0.09802303            sustentacao x: 0.0            sustentacao y: -0.09802303
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 776.5554            posicao x: 351.73398            posicao y: 692.3305
+
+
+sustentacao: 0.09810153            sustentacao x: 0.0            sustentacao y: -0.09810153
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 776.95154            posicao x: 352.73236            posicao y: 692.26697
+
+
+sustentacao: 0.09817259            sustentacao x: 0.0            sustentacao y: -0.09817259
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 777.3505            posicao x: 353.7309            posicao y: 692.2054
+
+
+sustentacao: 0.098256014            sustentacao x: 0.0            sustentacao y: -0.098256014
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 777.7524            posicao x: 354.7296            posicao y: 692.1457
+
+
+sustentacao: 0.09833848            sustentacao x: 0.0            sustentacao y: -0.09833848
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 778.1571            posicao x: 355.72852            posicao y: 692.0879
+
+
+sustentacao: 0.098401904            sustentacao x: 0.0            sustentacao y: -0.098401904
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 778.5645            posicao x: 356.72754            posicao y: 692.0319
+
+
+sustentacao: 0.098467834            sustentacao x: 0.0            sustentacao y: -0.098467834
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 778.9747            posicao x: 357.72675            posicao y: 691.97766
+
+
+sustentacao: 0.09850914            sustentacao x: 0.0            sustentacao y: -0.09850914
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 779.3874            posicao x: 358.7261            posicao y: 691.9251
+
+
+sustentacao: 0.0985445            sustentacao x: 0.0            sustentacao y: -0.0985445
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 779.80286            posicao x: 359.7256            posicao y: 691.87427
+
+
+sustentacao: 0.098564774            sustentacao x: 0.0            sustentacao y: -0.098564774
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 780.22095            posicao x: 360.72525            posicao y: 691.82513
+
+
+sustentacao: 0.09855785            sustentacao x: 0.0            sustentacao y: -0.09855785
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 780.6416            posicao x: 361.72504            posicao y: 691.77765
+
+
+sustentacao: 0.09857033            sustentacao x: 0.0            sustentacao y: -0.09857033
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 781.0649            posicao x: 362.72498            posicao y: 691.7319
+
+
+sustentacao: 0.09858292            sustentacao x: 0.0            sustentacao y: -0.09858292
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 781.49084            posicao x: 363.72507            posicao y: 691.6878
+
+
+sustentacao: 0.098613456            sustentacao x: 0.0            sustentacao y: -0.098613456
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 781.9194            posicao x: 364.7253            posicao y: 691.6454
+
+
+sustentacao: 0.09865427            sustentacao x: 0.0            sustentacao y: -0.09865427
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 782.3504            posicao x: 365.72568            posicao y: 691.60455
+
+
+sustentacao: 0.09869062            sustentacao x: 0.0            sustentacao y: -0.09869062
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 782.784            posicao x: 366.72617            posicao y: 691.56537
+
+
+sustentacao: 0.098743334            sustentacao x: 0.0            sustentacao y: -0.098743334
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 783.2201            posicao x: 367.72684            posicao y: 691.5278
+
+
+sustentacao: 0.0987888            sustentacao x: 0.0            sustentacao y: -0.0987888
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 783.6586            posicao x: 368.7276            posicao y: 691.4917
+
+
+sustentacao: 0.09884458            sustentacao x: 0.0            sustentacao y: -0.09884458
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 784.09955            posicao x: 369.7285            posicao y: 691.4571
+
+
+sustentacao: 0.098899305            sustentacao x: 0.0            sustentacao y: -0.098899305
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 784.5428            posicao x: 370.7295            posicao y: 691.4239
+
+
+sustentacao: 0.09894198            sustentacao x: 0.0            sustentacao y: -0.09894198
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 784.98834            posicao x: 371.73062            posicao y: 691.3921
+
+
+sustentacao: 0.098989084            sustentacao x: 0.0            sustentacao y: -0.098989084
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 785.43616            posicao x: 372.73184            posicao y: 691.3617
+
+
+sustentacao: 0.09902305            sustentacao x: 0.0            sustentacao y: -0.09902305
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 785.8863            posicao x: 373.73322            posicao y: 691.3326
+
+
+sustentacao: 0.0990554            sustentacao x: 0.0            sustentacao y: -0.0990554
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 786.33856            posicao x: 374.73465            posicao y: 691.3048
+
+
+sustentacao: 0.09906991            sustentacao x: 0.0            sustentacao y: -0.09906991
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 786.7931            posicao x: 375.73618            posicao y: 691.2783
+
+
+sustentacao: 0.09906252            sustentacao x: 0.0            sustentacao y: -0.09906252
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 787.2498            posicao x: 376.73785            posicao y: 691.2531
+
+
+sustentacao: 0.099049196            sustentacao x: 0.0            sustentacao y: -0.099049196
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 787.7088            posicao x: 377.7396            posicao y: 691.2293
+
+
+sustentacao: 0.09902179            sustentacao x: 0.0            sustentacao y: -0.09902179
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 788.17            posicao x: 378.74146            posicao y: 691.2068
+
+
+sustentacao: 0.09899361            sustentacao x: 0.0            sustentacao y: -0.09899361
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 788.6334            posicao x: 379.74344            posicao y: 691.18567
+
+
+sustentacao: 0.09896155            sustentacao x: 0.0            sustentacao y: -0.09896155
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 789.09924            posicao x: 380.74554            posicao y: 691.166
+
+
+sustentacao: 0.09892518            sustentacao x: 0.0            sustentacao y: -0.09892518
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 789.5674            posicao x: 381.74774            posicao y: 691.1478
+
+
+sustentacao: 0.0988995            sustentacao x: 0.0            sustentacao y: -0.0988995
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 790.03784            posicao x: 382.75003            posicao y: 691.1311
+
+
+sustentacao: 0.09887851            sustentacao x: 0.0            sustentacao y: -0.09887851
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 790.5107            posicao x: 383.75247            posicao y: 691.1159
+
+
+sustentacao: 0.098872624            sustentacao x: 0.0            sustentacao y: -0.098872624
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 790.98596            posicao x: 384.755            posicao y: 691.1023
+
+
+sustentacao: 0.09887858            sustentacao x: 0.0            sustentacao y: -0.09887858
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 791.4636            posicao x: 385.7577            posicao y: 691.0902
+
+
+sustentacao: 0.09889418            sustentacao x: 0.0            sustentacao y: -0.09889418
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 791.94366            posicao x: 386.76047            posicao y: 691.0797
+
+
+sustentacao: 0.09892783            sustentacao x: 0.0            sustentacao y: -0.09892783
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 792.4261            posicao x: 387.76337            posicao y: 691.0707
+
+
+sustentacao: 0.09896965            sustentacao x: 0.0            sustentacao y: -0.09896965
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 792.91077            posicao x: 388.7664            posicao y: 691.0631
+
+
+sustentacao: 0.099027276            sustentacao x: 0.0            sustentacao y: -0.099027276
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 793.39777            posicao x: 389.7695            posicao y: 691.057
+
+
+sustentacao: 0.09909252            sustentacao x: 0.0            sustentacao y: -0.09909252
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 793.88696            posicao x: 390.7727            posicao y: 691.05225
+
+
+sustentacao: 0.09916026            sustentacao x: 0.0            sustentacao y: -0.09916026
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 794.3783            posicao x: 391.776            posicao y: 691.04877
+
+
+sustentacao: 0.09923204            sustentacao x: 0.0            sustentacao y: -0.09923204
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 794.8717            posicao x: 392.7794            posicao y: 691.0466
+
+
+sustentacao: 0.09929745            sustentacao x: 0.0            sustentacao y: -0.09929745
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 795.36707            posicao x: 393.78284            posicao y: 691.0455
+
+
+sustentacao: 0.09936088            sustentacao x: 0.0            sustentacao y: -0.09936088
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 795.86444            posicao x: 394.78638            posicao y: 691.0456
+
+
+sustentacao: 0.09941409            sustentacao x: 0.0            sustentacao y: -0.09941409
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 796.36383            posicao x: 395.78998            posicao y: 691.04675
+
+
+sustentacao: 0.099453606            sustentacao x: 0.0            sustentacao y: -0.099453606
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 796.8649            posicao x: 396.79364            posicao y: 691.0489
+
+
+sustentacao: 0.099478975            sustentacao x: 0.0            sustentacao y: -0.099478975
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 797.36804            posicao x: 397.7974            posicao y: 691.0521
+
+
+sustentacao: 0.09948758            sustentacao x: 0.0            sustentacao y: -0.09948758
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 797.8729            posicao x: 398.80118            posicao y: 691.05634
+
+
+sustentacao: 0.09947612            sustentacao x: 0.0            sustentacao y: -0.09947612
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 798.3797            posicao x: 399.80505            posicao y: 691.0615
+
+
+sustentacao: 0.099441186            sustentacao x: 0.0            sustentacao y: -0.099441186
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 798.8883            posicao x: 400.80896            posicao y: 691.0678
+
+
+sustentacao: 0.099383965            sustentacao x: 0.0            sustentacao y: -0.099383965
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 799.3989            posicao x: 401.81296            posicao y: 691.0752
+
+
+sustentacao: 0.099310115            sustentacao x: 0.0            sustentacao y: -0.099310115
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 799.9115            posicao x: 402.81702            posicao y: 691.0838
+
+
+sustentacao: 0.09922561            sustentacao x: 0.0            sustentacao y: -0.09922561
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 800.42615            posicao x: 403.82117            posicao y: 691.0937
+
+
+sustentacao: 0.0991326            sustentacao x: 0.0            sustentacao y: -0.0991326
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 800.943            posicao x: 404.8254            posicao y: 691.105
+
+
+sustentacao: 0.099038735            sustentacao x: 0.0            sustentacao y: -0.099038735
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 801.46204            posicao x: 405.82974            posicao y: 691.1177
+
+
+sustentacao: 0.09894751            sustentacao x: 0.0            sustentacao y: -0.09894751
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 801.98346            posicao x: 406.8342            posicao y: 691.132
+
+
+sustentacao: 0.098870754            sustentacao x: 0.0            sustentacao y: -0.098870754
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 802.50726            posicao x: 407.8387            posicao y: 691.14795
+
+
+sustentacao: 0.09881041            sustentacao x: 0.0            sustentacao y: -0.09881041
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 803.03357            posicao x: 408.84338            posicao y: 691.16565
+
+
+sustentacao: 0.09877204            sustentacao x: 0.0            sustentacao y: -0.09877204
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 803.5623            posicao x: 409.84814            posicao y: 691.1851
+
+
+sustentacao: 0.09875794            sustentacao x: 0.0            sustentacao y: -0.09875794
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 804.09357            posicao x: 410.85306            posicao y: 691.20636
+
+
+sustentacao: 0.098765925            sustentacao x: 0.0            sustentacao y: -0.098765925
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 804.6273            posicao x: 411.85806            posicao y: 691.2294
+
+
+sustentacao: 0.09880615            sustentacao x: 0.0            sustentacao y: -0.09880615
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 805.1635            posicao x: 412.86316            posicao y: 691.25415
+
+
+sustentacao: 0.098866776            sustentacao x: 0.0            sustentacao y: -0.098866776
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 805.70215            posicao x: 413.86838            posicao y: 691.28064
+
+
+sustentacao: 0.09895742            sustentacao x: 0.0            sustentacao y: -0.09895742
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 806.2431            posicao x: 414.8737            posicao y: 691.3087
+
+
+sustentacao: 0.099066384            sustentacao x: 0.0            sustentacao y: -0.099066384
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 806.78625            posicao x: 415.8791            posicao y: 691.3383
+
+
+sustentacao: 0.099183485            sustentacao x: 0.0            sustentacao y: -0.099183485
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 807.33167            posicao x: 416.88455            posicao y: 691.3694
+
+
+sustentacao: 0.09931359            sustentacao x: 0.0            sustentacao y: -0.09931359
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 807.8789            posicao x: 417.8901            posicao y: 691.4016
+
+
+sustentacao: 0.09943578            sustentacao x: 0.0            sustentacao y: -0.09943578
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 808.4281            posicao x: 418.8957            posicao y: 691.43506
+
+
+sustentacao: 0.09956318            sustentacao x: 0.0            sustentacao y: -0.09956318
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 808.97925            posicao x: 419.90137            posicao y: 691.4696
+
+
+sustentacao: 0.09967756            sustentacao x: 0.0            sustentacao y: -0.09967756
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 809.53186            posicao x: 420.90704            posicao y: 691.505
+
+
+sustentacao: 0.09976907            sustentacao x: 0.0            sustentacao y: -0.09976907
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 810.0862            posicao x: 421.91275            posicao y: 691.5412
+
+
+sustentacao: 0.09984627            sustentacao x: 0.0            sustentacao y: -0.09984627
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 810.642            posicao x: 422.9185            posicao y: 691.57825
+
+
+sustentacao: 0.09989391            sustentacao x: 0.0            sustentacao y: -0.09989391
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 811.1994            posicao x: 423.92426            posicao y: 691.61597
+
+
+sustentacao: 0.09993502            sustentacao x: 0.0            sustentacao y: -0.09993502
+peso: 0.1            peso x: 0.0            peso y: 0.1
+arrasto: 0.0            arrasto x: 0.0            arrasto y: 0.0
+posicao: 811.7581            po
